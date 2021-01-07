@@ -1,0 +1,252 @@
+2020-12-07 15:11:51,456 - PEP_test - INFO - ....................
+
+2020-12-07 15:11:51,457 - PEP_test - INFO - CHOSEN PARAMETERS:
+Run name: PEP_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:11:51,457 - PEP_test - INFO - ....................
+
+2020-12-07 15:12:03,405 - PEP_test - INFO - Starting to process calculations...
+
+2020-12-07 15:12:03,407 - PEP_test - INFO - Getting data for PEP
+
+2020-12-07 15:12:03,409 - PEP_test - DEBUG - Checking limits for PEP
+
+2020-12-07 15:12:03,411 - PEP_test - INFO - For PEP the value to predict (1.379550870098924) is under range
+
+2020-12-07 15:12:03,412 - PEP_test - INFO - For PEP the value to predict (1.2524509803921569) is under range
+
+2020-12-07 15:12:03,413 - PEP_test - INFO - For PEP the value to predict (2.3722385811134696) is under range
+
+2020-12-07 15:12:03,414 - PEP_test - INFO - For PEP the value to predict (2.407166402671347) is under range
+
+2020-12-07 15:12:03,414 - PEP_test - INFO - For PEP the value to predict (2.778337354065048) is under range
+
+2020-12-07 15:12:03,415 - PEP_test - INFO - For PEP the value to predict (2.940310150502347) is under range
+
+2020-12-07 15:12:03,415 - PEP_test - INFO - For PEP the value to predict (2.8716849524086316) is under range
+
+2020-12-07 15:12:03,417 - PEP_test - INFO - For PEP the value to predict (2.361276110900114) is under range
+
+2020-12-07 15:12:03,417 - PEP_test - INFO - For PEP the value to predict (2.862835752444935) is under range
+
+2020-12-07 15:12:03,418 - PEP_test - INFO - For PEP the value to predict (3.1181887039044747) is under range
+
+2020-12-07 15:12:03,418 - PEP_test - DEBUG - nans list: []
+2020-12-07 15:12:03,418 - PEP_test - DEBUG - Cal dict x: [3538.0159999999996, 1786.52, 888.576, 424.00800000000004, 228.88, 179.502]
+ cal dict y: [221.35471467586603, 107.83590451765635, 49.638815583486156, 19.52896644295302, 6.882233883058471, 3.6818988464951197]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:12:03,419 - PEP_test - DEBUG - Cal dict x: [3538.0159999999996, 1786.52, 888.576, 424.00800000000004, 228.88, 179.502]
+ cal dict y: [221.35471467586603, 107.83590451765635, 49.638815583486156, 19.52896644295302, 6.882233883058471, 3.6818988464951197]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:12:03,420 - PEP_test - DEBUG - Performing calculations for equation
+ x=[3538.016 1786.52   888.576  424.008  228.88   179.502] 
+ y=[221.35471468 107.83590452  49.63881558  19.52896644   6.88223388
+   3.68189885]
+2020-12-07 15:12:03,421 - PEP_test - INFO - Equation for PEP is equal to: 
+ 
+0.06481 x - 7.952
+ 
+2020-12-07 15:12:03,422 - PEP_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:12:03,981 - PEP_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:12:03,981 - PEP_test - DEBUG - Trying to predict 9.29530514701365 of type <class 'float'> 
+
+2020-12-07 15:12:03,982 - PEP_test - DEBUG - The calculated value is equal to: 266.1117380890715
+
+2020-12-07 15:12:03,983 - PEP_test - DEBUG - Trying to predict 6.820613231128145 of type <class 'float'> 
+
+2020-12-07 15:12:03,984 - PEP_test - DEBUG - The calculated value is equal to: 227.92923038398902
+
+2020-12-07 15:12:03,985 - PEP_test - DEBUG - Trying to predict 10.217391915443864 of type <class 'float'> 
+
+2020-12-07 15:12:03,986 - PEP_test - DEBUG - The calculated value is equal to: 280.33879597629254
+
+2020-12-07 15:12:03,986 - PEP_test - DEBUG - Trying to predict 9.723286376911183 of type <class 'float'> 
+
+2020-12-07 15:12:03,987 - PEP_test - DEBUG - The calculated value is equal to: 272.71514455890105
+
+2020-12-07 15:12:03,987 - PEP_test - DEBUG - Trying to predict 11.20937551536474 of type <class 'float'> 
+
+2020-12-07 15:12:03,988 - PEP_test - DEBUG - The calculated value is equal to: 295.64430580729766
+
+2020-12-07 15:12:03,988 - PEP_test - DEBUG - Trying to predict 10.460924402061062 of type <class 'float'> 
+
+2020-12-07 15:12:03,988 - PEP_test - DEBUG - The calculated value is equal to: 284.09630655246133
+
+2020-12-07 15:12:03,989 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,989 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,990 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,990 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,991 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,991 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,992 - PEP_test - DEBUG - Trying to predict 4.177607709750567 of type <class 'float'> 
+
+2020-12-07 15:12:03,992 - PEP_test - DEBUG - The calculated value is equal to: 187.1497789958091
+
+2020-12-07 15:12:03,993 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,993 - PEP_test - DEBUG - Trying to predict 5.78417850743781 of type <class 'float'> 
+
+2020-12-07 15:12:03,993 - PEP_test - DEBUG - The calculated value is equal to: 211.9378754322512
+
+2020-12-07 15:12:03,994 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,994 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,995 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:03,995 - PEP_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:12:04,035 - PEP_test - INFO - Done!
+2020-12-07 15:12:37,926 - PEP_test - INFO - Starting to process calculations...
+
+2020-12-07 15:12:37,928 - PEP_test - INFO - Getting data for PEP
+
+2020-12-07 15:12:37,931 - PEP_test - DEBUG - Checking limits for PEP
+
+2020-12-07 15:12:37,932 - PEP_test - INFO - For PEP the value to predict (1.379550870098924) is under range
+
+2020-12-07 15:12:37,933 - PEP_test - INFO - For PEP the value to predict (1.2524509803921569) is under range
+
+2020-12-07 15:12:37,934 - PEP_test - INFO - For PEP the value to predict (2.3722385811134696) is under range
+
+2020-12-07 15:12:37,935 - PEP_test - INFO - For PEP the value to predict (2.407166402671347) is under range
+
+2020-12-07 15:12:37,936 - PEP_test - INFO - For PEP the value to predict (2.778337354065048) is under range
+
+2020-12-07 15:12:37,936 - PEP_test - INFO - For PEP the value to predict (2.940310150502347) is under range
+
+2020-12-07 15:12:37,937 - PEP_test - INFO - For PEP the value to predict (2.8716849524086316) is under range
+
+2020-12-07 15:12:37,937 - PEP_test - INFO - For PEP the value to predict (2.361276110900114) is under range
+
+2020-12-07 15:12:37,937 - PEP_test - INFO - For PEP the value to predict (2.862835752444935) is under range
+
+2020-12-07 15:12:37,938 - PEP_test - INFO - For PEP the value to predict (3.1181887039044747) is under range
+
+2020-12-07 15:12:37,938 - PEP_test - DEBUG - nans list: []
+2020-12-07 15:12:37,939 - PEP_test - DEBUG - Cal dict x: [3538.0159999999996, 1786.52, 888.576, 424.00800000000004, 228.88, 179.502]
+ cal dict y: [221.35471467586603, 107.83590451765635, 49.638815583486156, 19.52896644295302, 6.882233883058471, 3.6818988464951197]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:12:37,939 - PEP_test - DEBUG - Cal dict x: [3538.0159999999996, 1786.52, 888.576, 424.00800000000004, 228.88, 179.502]
+ cal dict y: [221.35471467586603, 107.83590451765635, 49.638815583486156, 19.52896644295302, 6.882233883058471, 3.6818988464951197]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:12:37,940 - PEP_test - DEBUG - Performing calculations for equation
+ x=[3538.016 1786.52   888.576  424.008  228.88   179.502] 
+ y=[221.35471468 107.83590452  49.63881558  19.52896644   6.88223388
+   3.68189885]
+2020-12-07 15:12:37,942 - PEP_test - INFO - Equation for PEP is equal to: 
+           2
+8.866e-11 x + 0.06481 x - 7.952
+ 
+2020-12-07 15:12:37,942 - PEP_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:12:38,508 - PEP_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:12:38,509 - PEP_test - DEBUG - Trying to predict 9.29530514701365 of type <class 'float'> 
+
+2020-12-07 15:12:38,510 - PEP_test - DEBUG - Roots are equal to: [-7.31013649e+08  2.66110912e+02]
+
+2020-12-07 15:12:38,511 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,512 - PEP_test - DEBUG - The calculated value is equal to: 266.1109122930405
+
+2020-12-07 15:12:38,512 - PEP_test - DEBUG - Trying to predict 6.820613231128145 of type <class 'float'> 
+
+2020-12-07 15:12:38,513 - PEP_test - DEBUG - Roots are equal to: [-7.31013611e+08  2.27928239e+02]
+
+2020-12-07 15:12:38,514 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,514 - PEP_test - DEBUG - The calculated value is equal to: 227.92823905431496
+
+2020-12-07 15:12:38,515 - PEP_test - DEBUG - Trying to predict 10.217391915443864 of type <class 'float'> 
+
+2020-12-07 15:12:38,515 - PEP_test - DEBUG - Roots are equal to: [-7.31013663e+08  2.80338031e+02]
+
+2020-12-07 15:12:38,516 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,516 - PEP_test - DEBUG - The calculated value is equal to: 280.33803083919634
+
+2020-12-07 15:12:38,517 - PEP_test - DEBUG - Trying to predict 9.723286376911183 of type <class 'float'> 
+
+2020-12-07 15:12:38,518 - PEP_test - DEBUG - Roots are equal to: [-7.31013656e+08  2.72714347e+02]
+
+2020-12-07 15:12:38,518 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,519 - PEP_test - DEBUG - The calculated value is equal to: 272.71434698622977
+
+2020-12-07 15:12:38,519 - PEP_test - DEBUG - Trying to predict 11.20937551536474 of type <class 'float'> 
+
+2020-12-07 15:12:38,520 - PEP_test - DEBUG - Roots are equal to: [-7.31013679e+08  2.95643605e+02]
+
+2020-12-07 15:12:38,520 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,521 - PEP_test - DEBUG - The calculated value is equal to: 295.6436053089185
+
+2020-12-07 15:12:38,521 - PEP_test - DEBUG - Trying to predict 10.460924402061062 of type <class 'float'> 
+
+2020-12-07 15:12:38,522 - PEP_test - DEBUG - Roots are equal to: [-7.31013667e+08  2.84095557e+02]
+
+2020-12-07 15:12:38,523 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,523 - PEP_test - DEBUG - The calculated value is equal to: 284.0955573435623
+
+2020-12-07 15:12:38,523 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,524 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,524 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,525 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,525 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,526 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,526 - PEP_test - DEBUG - Trying to predict 4.177607709750567 of type <class 'float'> 
+
+2020-12-07 15:12:38,527 - PEP_test - DEBUG - Roots are equal to: [-7.31013570e+08  1.87148606e+02]
+
+2020-12-07 15:12:38,527 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,528 - PEP_test - DEBUG - The calculated value is equal to: 187.14860646897796
+
+2020-12-07 15:12:38,528 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,529 - PEP_test - DEBUG - Trying to predict 5.78417850743781 of type <class 'float'> 
+
+2020-12-07 15:12:38,529 - PEP_test - DEBUG - Roots are equal to: [-7.31013595e+08  2.11936814e+02]
+
+2020-12-07 15:12:38,530 - PEP_test - DEBUG - minimum: 179.502
+ maximum: 3538.0159999999996
+
+2020-12-07 15:12:38,530 - PEP_test - DEBUG - The calculated value is equal to: 211.9368135897346
+
+2020-12-07 15:12:38,531 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,531 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,532 - PEP_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:12:38,532 - PEP_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:12:38,627 - PEP_test - INFO - Done!

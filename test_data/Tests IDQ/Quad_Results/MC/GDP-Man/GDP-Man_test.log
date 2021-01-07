@@ -1,0 +1,235 @@
+2020-12-09 10:27:33,543 - GDP-Man_test - INFO - ....................
+
+2020-12-09 10:27:33,544 - GDP-Man_test - INFO - CHOSEN PARAMETERS:
+Run name: GDP-Man_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-09 10:27:33,544 - GDP-Man_test - INFO - ....................
+
+2020-12-09 10:27:47,757 - GDP-Man_test - INFO - Starting to process calculations...
+
+2020-12-09 10:27:47,758 - GDP-Man_test - INFO - Getting data for GDP-Man
+
+2020-12-09 10:27:47,761 - GDP-Man_test - DEBUG - Checking limits for GDP-Man
+
+2020-12-09 10:27:47,762 - GDP-Man_test - INFO - For GDP-Man the value to predict (450538) is under range
+
+2020-12-09 10:27:47,764 - GDP-Man_test - INFO - For GDP-Man the value to predict (240622) is under range
+
+2020-12-09 10:27:47,764 - GDP-Man_test - INFO - For GDP-Man the value to predict (198571) is under range
+
+2020-12-09 10:27:47,765 - GDP-Man_test - INFO - For GDP-Man the value to predict (288510) is under range
+
+2020-12-09 10:27:47,766 - GDP-Man_test - INFO - For GDP-Man the value to predict (267421) is under range
+
+2020-12-09 10:27:47,767 - GDP-Man_test - INFO - For GDP-Man the value to predict (248008) is under range
+
+2020-12-09 10:27:47,768 - GDP-Man_test - INFO - For GDP-Man the value to predict (268055) is under range
+
+2020-12-09 10:27:47,768 - GDP-Man_test - INFO - For GDP-Man the value to predict (398090) is under range
+
+2020-12-09 10:27:47,769 - GDP-Man_test - INFO - For GDP-Man the value to predict (397153) is under range
+
+2020-12-09 10:27:47,770 - GDP-Man_test - INFO - For GDP-Man the value to predict (405725) is under range
+
+2020-12-09 10:27:47,770 - GDP-Man_test - INFO - For GDP-Man the value to predict (274419) is under range
+
+2020-12-09 10:27:47,771 - GDP-Man_test - INFO - For GDP-Man the value to predict (232081) is under range
+
+2020-12-09 10:27:47,771 - GDP-Man_test - INFO - For GDP-Man the value to predict (241102) is under range
+
+2020-12-09 10:27:47,772 - GDP-Man_test - DEBUG - nans list: []
+2020-12-09 10:27:47,772 - GDP-Man_test - DEBUG - Cal dict x: [2132.768, 1238.406, 705.816, 309.14599999999996, 130.067, 61.298]
+ cal dict y: [11264378, 6621829, 3857210, 1798131, 868550, 511576]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:27:47,773 - GDP-Man_test - DEBUG - Cal dict x: [2132.768, 1238.406, 705.816, 309.14599999999996, 130.067, 61.298]
+ cal dict y: [11264378, 6621829, 3857210, 1798131, 868550, 511576]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:27:47,773 - GDP-Man_test - DEBUG - Performing calculations for equation
+ x=[2132.768 1238.406  705.816  309.146  130.067   61.298] 
+ y=[11264378  6621829  3857210  1798131   868550   511576]
+2020-12-09 10:27:47,777 - GDP-Man_test - INFO - Equation for GDP-Man is equal to: 
+            2
+-2.183e-07 x + 5191 x + 1.934e+05
+ 
+2020-12-09 10:27:47,777 - GDP-Man_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:27:48,335 - GDP-Man_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:27:48,336 - GDP-Man_test - DEBUG - Trying to predict 749419 of type <class 'int'> 
+
+2020-12-09 10:27:48,337 - GDP-Man_test - DEBUG - Roots are equal to: [2.37815511e+10 1.07117090e+02]
+
+2020-12-09 10:27:48,337 - GDP-Man_test - DEBUG - minimum: 61.298
+ maximum: 2132.768
+
+2020-12-09 10:27:48,338 - GDP-Man_test - DEBUG - The calculated value is equal to: 107.11708984117907
+
+2020-12-09 10:27:48,338 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,339 - GDP-Man_test - DEBUG - Trying to predict 662991 of type <class 'int'> 
+
+2020-12-09 10:27:48,340 - GDP-Man_test - DEBUG - Roots are equal to: [2.37815512e+10 9.04671963e+01]
+
+2020-12-09 10:27:48,341 - GDP-Man_test - DEBUG - minimum: 61.298
+ maximum: 2132.768
+
+2020-12-09 10:27:48,341 - GDP-Man_test - DEBUG - The calculated value is equal to: 90.46719627260066
+
+2020-12-09 10:27:48,342 - GDP-Man_test - DEBUG - Trying to predict 530231 of type <class 'int'> 
+
+2020-12-09 10:27:48,343 - GDP-Man_test - DEBUG - Roots are equal to: [2.37815512e+10 6.48916899e+01]
+
+2020-12-09 10:27:48,344 - GDP-Man_test - DEBUG - minimum: 61.298
+ maximum: 2132.768
+
+2020-12-09 10:27:48,345 - GDP-Man_test - DEBUG - The calculated value is equal to: 64.89168988300798
+
+2020-12-09 10:27:48,345 - GDP-Man_test - DEBUG - Trying to predict 566561 of type <class 'int'> 
+
+2020-12-09 10:27:48,346 - GDP-Man_test - DEBUG - Roots are equal to: [2.37815512e+10 7.18904707e+01]
+
+2020-12-09 10:27:48,347 - GDP-Man_test - DEBUG - minimum: 61.298
+ maximum: 2132.768
+
+2020-12-09 10:27:48,348 - GDP-Man_test - DEBUG - The calculated value is equal to: 71.89047073874842
+
+2020-12-09 10:27:48,348 - GDP-Man_test - DEBUG - Trying to predict 520258 of type <class 'int'> 
+
+2020-12-09 10:27:48,349 - GDP-Man_test - DEBUG - Roots are equal to: [2.37815512e+10 6.29704446e+01]
+
+2020-12-09 10:27:48,350 - GDP-Man_test - DEBUG - minimum: 61.298
+ maximum: 2132.768
+
+2020-12-09 10:27:48,351 - GDP-Man_test - DEBUG - The calculated value is equal to: 62.970444591289876
+
+2020-12-09 10:27:48,351 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,352 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,352 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,353 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,353 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,354 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,354 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,354 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,355 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,355 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,356 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,356 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:27:48,357 - GDP-Man_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:27:48,396 - GDP-Man_test - INFO - Done!
+2020-12-09 10:28:23,783 - GDP-Man_test - INFO - Starting to process calculations...
+
+2020-12-09 10:28:23,785 - GDP-Man_test - INFO - Getting data for GDP-Man
+
+2020-12-09 10:28:23,787 - GDP-Man_test - DEBUG - Checking limits for GDP-Man
+
+2020-12-09 10:28:23,788 - GDP-Man_test - INFO - For GDP-Man the value to predict (450538) is under range
+
+2020-12-09 10:28:23,788 - GDP-Man_test - INFO - For GDP-Man the value to predict (240622) is under range
+
+2020-12-09 10:28:23,789 - GDP-Man_test - INFO - For GDP-Man the value to predict (198571) is under range
+
+2020-12-09 10:28:23,790 - GDP-Man_test - INFO - For GDP-Man the value to predict (288510) is under range
+
+2020-12-09 10:28:23,790 - GDP-Man_test - INFO - For GDP-Man the value to predict (267421) is under range
+
+2020-12-09 10:28:23,791 - GDP-Man_test - INFO - For GDP-Man the value to predict (248008) is under range
+
+2020-12-09 10:28:23,792 - GDP-Man_test - INFO - For GDP-Man the value to predict (268055) is under range
+
+2020-12-09 10:28:23,793 - GDP-Man_test - INFO - For GDP-Man the value to predict (398090) is under range
+
+2020-12-09 10:28:23,793 - GDP-Man_test - INFO - For GDP-Man the value to predict (397153) is under range
+
+2020-12-09 10:28:23,794 - GDP-Man_test - INFO - For GDP-Man the value to predict (405725) is under range
+
+2020-12-09 10:28:23,795 - GDP-Man_test - INFO - For GDP-Man the value to predict (274419) is under range
+
+2020-12-09 10:28:23,795 - GDP-Man_test - INFO - For GDP-Man the value to predict (232081) is under range
+
+2020-12-09 10:28:23,796 - GDP-Man_test - INFO - For GDP-Man the value to predict (241102) is under range
+
+2020-12-09 10:28:23,796 - GDP-Man_test - DEBUG - nans list: []
+2020-12-09 10:28:23,798 - GDP-Man_test - DEBUG - Cal dict x: [2132.768, 1238.406, 705.816, 309.14599999999996, 130.067, 61.298]
+ cal dict y: [11264378, 6621829, 3857210, 1798131, 868550, 511576]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:28:23,798 - GDP-Man_test - DEBUG - Cal dict x: [2132.768, 1238.406, 705.816, 309.14599999999996, 130.067, 61.298]
+ cal dict y: [11264378, 6621829, 3857210, 1798131, 868550, 511576]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:28:23,799 - GDP-Man_test - DEBUG - Performing calculations for equation
+ x=[2132.768 1238.406  705.816  309.146  130.067   61.298] 
+ y=[11264378  6621829  3857210  1798131   868550   511576]
+2020-12-09 10:28:23,801 - GDP-Man_test - INFO - Equation for GDP-Man is equal to: 
+ 
+5191 x + 1.934e+05
+ 
+2020-12-09 10:28:23,801 - GDP-Man_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:28:24,367 - GDP-Man_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:28:24,368 - GDP-Man_test - DEBUG - Trying to predict 749419 of type <class 'int'> 
+
+2020-12-09 10:28:24,369 - GDP-Man_test - DEBUG - The calculated value is equal to: 107.11707712847154
+
+2020-12-09 10:28:24,370 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,370 - GDP-Man_test - DEBUG - Trying to predict 662991 of type <class 'int'> 
+
+2020-12-09 10:28:24,371 - GDP-Man_test - DEBUG - The calculated value is equal to: 90.46718219616048
+
+2020-12-09 10:28:24,372 - GDP-Man_test - DEBUG - Trying to predict 530231 of type <class 'int'> 
+
+2020-12-09 10:28:24,373 - GDP-Man_test - DEBUG - The calculated value is equal to: 64.89167366635978
+
+2020-12-09 10:28:24,373 - GDP-Man_test - DEBUG - Trying to predict 566561 of type <class 'int'> 
+
+2020-12-09 10:28:24,374 - GDP-Man_test - DEBUG - The calculated value is equal to: 71.8904551132388
+
+2020-12-09 10:28:24,375 - GDP-Man_test - DEBUG - Trying to predict 520258 of type <class 'int'> 
+
+2020-12-09 10:28:24,375 - GDP-Man_test - DEBUG - The calculated value is equal to: 62.970428211646734
+
+2020-12-09 10:28:24,376 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,376 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,377 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,377 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,377 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,378 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,378 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,378 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,379 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,379 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,380 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,380 - GDP-Man_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-09 10:28:24,381 - GDP-Man_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:28:24,422 - GDP-Man_test - INFO - Done!

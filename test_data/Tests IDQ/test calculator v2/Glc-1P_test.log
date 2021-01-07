@@ -1,0 +1,1578 @@
+2020-12-10 08:40:19,313 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:40:19,313 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 08:40:19,313 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:40:21,784 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 08:40:21,787 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 08:40:21,790 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 08:40:21,791 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 08:40:21,791 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 08:40:21,792 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 08:40:21,793 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 08:40:21,794 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 08:40:21,795 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 08:40:21,796 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 08:40:21,796 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 08:40:21,797 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 08:40:21,797 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 08:40:21,797 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 08:40:21,798 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 08:40:21,798 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 08:40:21,799 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 08:40:21,799 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 08:40:21,799 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 08:40:21,800 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 08:40:21,800 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 08:40:21,801 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 08:40:21,802 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:40:21,802 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:40:21,803 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 08:40:21,809 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 08:40:21,810 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 08:40:21,810 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 08:40:21,874 - Glc-1P_test - ERROR - There was a problem while calculating for Glc-1P
+ Error: unhashable type: 'numpy.ndarray' 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 493, in main
+    self.build_plots(metabolite, pdf)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 223, in build_plots
+    fig.sca(ax[0])
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 2069, in sca
+    self._axstack.bubble(a)
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 104, in bubble
+    return super().bubble(self._entry_from_axes(a))
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 92, in _entry_from_axes
+    ind, k = {a: (ind, k) for k, (ind, a) in self._elements}[e]
+TypeError: unhashable type: 'numpy.ndarray'
+2020-12-10 08:45:53,404 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:45:53,405 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 08:45:53,406 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:45:59,446 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 08:45:59,463 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 08:45:59,464 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 08:45:59,464 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 08:45:59,464 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:45:59,464 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:45:59,464 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 08:45:59,479 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 08:45:59,479 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 08:45:59,479 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 08:45:59,530 - Glc-1P_test - ERROR - There was a problem while calculating for Glc-1P
+ Error: unhashable type: 'numpy.ndarray' 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 493, in main
+    self.build_plots(metabolite, pdf)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 223, in build_plots
+    fig.sca(ax[0])
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 2069, in sca
+    self._axstack.bubble(a)
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 104, in bubble
+    return super().bubble(self._entry_from_axes(a))
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 92, in _entry_from_axes
+    ind, k = {a: (ind, k) for k, (ind, a) in self._elements}[e]
+TypeError: unhashable type: 'numpy.ndarray'
+2020-12-10 08:47:06,071 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:47:06,072 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 08:47:06,072 - Glc-1P_test - INFO - ....................
+
+2020-12-10 08:47:09,078 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 08:47:09,080 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 08:47:09,082 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 08:47:09,083 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 08:47:09,083 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 08:47:09,084 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 08:47:09,084 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 08:47:09,085 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 08:47:09,086 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 08:47:09,086 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 08:47:09,087 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 08:47:09,087 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 08:47:09,087 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 08:47:09,089 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 08:47:09,090 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 08:47:09,091 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 08:47:09,091 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 08:47:09,092 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 08:47:09,092 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 08:47:09,093 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 08:47:09,094 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 08:47:09,094 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 08:47:09,095 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:47:09,095 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 08:47:09,096 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 08:47:09,102 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 08:47:09,103 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 08:47:09,106 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 08:47:09,158 - Glc-1P_test - ERROR - There was a problem while calculating for Glc-1P
+ Error: unhashable type: 'numpy.ndarray' 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 501, in main
+    self.build_plots(metabolite, pdf)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 223, in build_plots
+    fig.sca(ax[0])
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 2069, in sca
+    self._axstack.bubble(a)
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 104, in bubble
+    return super().bubble(self._entry_from_axes(a))
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\matplotlib\figure.py", line 92, in _entry_from_axes
+    ind, k = {a: (ind, k) for k, (ind, a) in self._elements}[e]
+TypeError: unhashable type: 'numpy.ndarray'
+2020-12-10 09:36:20,248 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:36:20,248 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 09:36:20,249 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:36:23,771 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 09:36:23,773 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 09:36:23,776 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 09:36:23,776 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 09:36:23,777 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 09:36:23,778 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 09:36:23,779 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 09:36:23,779 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 09:36:23,780 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 09:36:23,781 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 09:36:23,781 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 09:36:23,782 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 09:36:23,782 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 09:36:23,783 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 09:36:23,783 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 09:36:23,784 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 09:36:23,784 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 09:36:23,784 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 09:36:23,785 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 09:36:23,786 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 09:36:23,788 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 09:36:23,790 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 09:36:23,790 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:36:23,792 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:36:23,793 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 09:36:23,799 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 09:36:23,800 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 09:36:23,801 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 09:36:23,853 - Glc-1P_test - ERROR - There was a problem while calculating for Glc-1P
+ Error: 'numpy.ndarray' object has no attribute 'plot' 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 497, in main
+    self.build_plots(metabolite, pdf)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 223, in build_plots
+    self.plot_reg(lin_cal_dict,
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial_v2.py", line 328, in plot_reg
+    regression_plot = sns.regplot(data = cal_dict,
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\seaborn\_decorators.py", line 46, in inner_f
+    return f(**kwargs)
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\seaborn\regression.py", line 835, in regplot
+    plotter.plot(ax, scatter_kws, line_kws)
+  File "C:\Users\legregam\Anaconda3\envs\IDQuant\lib\site-packages\seaborn\regression.py", line 352, in plot
+    lines, = ax.plot([], [])
+AttributeError: 'numpy.ndarray' object has no attribute 'plot'
+2020-12-10 09:53:26,701 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:53:26,702 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 09:53:26,703 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:53:30,248 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 09:53:30,250 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 09:53:30,253 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 09:53:30,254 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 09:53:30,255 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 09:53:30,255 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 09:53:30,257 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 09:53:30,257 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 09:53:30,258 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 09:53:30,258 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 09:53:30,259 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 09:53:30,259 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 09:53:30,260 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 09:53:30,260 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 09:53:30,261 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 09:53:30,261 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 09:53:30,261 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 09:53:30,262 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 09:53:30,262 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 09:53:30,263 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 09:53:30,263 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 09:53:30,264 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 09:53:30,264 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:53:30,265 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:53:30,265 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 09:53:30,274 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 09:53:30,275 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 09:53:30,276 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 09:53:30,733 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 09:53:30,734 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,734 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,735 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,735 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,736 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,736 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,737 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,737 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,737 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,739 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,739 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,739 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,739 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,740 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,740 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,741 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,741 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,743 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:53:30,743 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 09:53:31,489 - Glc-1P_test - INFO - Done!
+2020-12-10 09:58:25,271 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:58:25,272 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 09:58:25,273 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:58:27,720 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 09:58:27,721 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 09:58:27,724 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 09:58:27,725 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 09:58:27,726 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 09:58:27,727 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 09:58:27,728 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 09:58:27,729 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 09:58:27,729 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 09:58:27,730 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 09:58:27,730 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 09:58:27,730 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 09:58:27,731 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 09:58:27,731 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 09:58:27,732 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 09:58:27,732 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 09:58:27,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 09:58:27,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 09:58:27,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 09:58:27,734 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 09:58:27,734 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 09:58:27,735 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 09:58:27,735 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:58:27,736 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:58:27,737 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 09:58:27,745 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 09:58:27,746 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 09:58:27,746 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 09:58:28,281 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 09:58:28,281 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,282 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,283 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,284 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,284 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,285 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,285 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,286 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,286 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,287 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,287 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,288 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,288 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,288 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,289 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,289 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,290 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,290 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:58:28,290 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 09:58:28,592 - Glc-1P_test - INFO - Done!
+2020-12-10 09:59:16,611 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:59:16,611 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 09:59:16,612 - Glc-1P_test - INFO - ....................
+
+2020-12-10 09:59:19,801 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 09:59:19,803 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 09:59:19,806 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 09:59:19,807 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 09:59:19,808 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 09:59:19,808 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 09:59:19,809 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 09:59:19,810 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 09:59:19,810 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 09:59:19,811 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 09:59:19,812 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 09:59:19,812 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 09:59:19,813 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 09:59:19,813 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 09:59:19,814 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 09:59:19,815 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 09:59:19,815 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 09:59:19,815 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 09:59:19,816 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 09:59:19,816 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 09:59:19,817 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 09:59:19,817 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 09:59:19,818 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:59:19,818 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 09:59:19,819 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 09:59:19,827 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 09:59:19,828 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 09:59:19,828 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 09:59:20,361 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 09:59:20,362 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,363 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,364 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,364 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,365 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,365 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,366 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,367 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,368 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,369 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,370 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,370 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,371 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,371 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,372 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,373 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,373 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,374 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 09:59:20,374 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 09:59:20,675 - Glc-1P_test - INFO - Done!
+2020-12-10 10:00:12,521 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:00:12,522 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:00:12,522 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:00:15,609 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:00:15,612 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:00:15,614 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:00:15,615 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:00:15,616 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:00:15,616 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:00:15,617 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:00:15,618 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:00:15,618 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:00:15,619 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:00:15,619 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:00:15,620 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:00:15,621 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:00:15,621 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:00:15,622 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:00:15,622 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:00:15,622 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:00:15,623 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:00:15,624 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:00:15,624 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:00:15,624 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:00:15,625 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:00:15,625 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:00:15,626 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:00:15,626 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:00:15,632 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:00:15,633 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:00:15,633 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:00:16,168 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:00:16,169 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,170 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,170 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,171 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,171 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,172 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,173 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,173 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,174 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,174 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,175 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,175 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,176 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,176 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,177 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,177 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,178 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,178 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:00:16,178 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:00:16,482 - Glc-1P_test - INFO - Done!
+2020-12-10 10:00:59,530 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:00:59,530 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:00:59,530 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:01:03,530 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:01:03,532 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:01:03,534 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:01:03,535 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:01:03,536 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:01:03,537 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:01:03,538 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:01:03,539 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:01:03,540 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:01:03,540 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:01:03,540 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:01:03,541 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:01:03,542 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:01:03,542 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:01:03,542 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:01:03,543 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:01:03,543 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:01:03,544 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:01:03,544 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:01:03,545 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:01:03,545 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:01:03,545 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:01:03,546 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:01:03,546 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:01:03,547 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:01:03,553 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:01:03,555 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:01:03,557 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:01:04,093 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:01:04,094 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,095 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,103 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,103 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:01:04,103 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:01:04,396 - Glc-1P_test - INFO - Done!
+2020-12-10 10:02:02,284 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:02:02,285 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:02:02,286 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:02:04,874 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:02:04,875 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:02:04,878 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:02:04,879 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:02:04,880 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:02:04,880 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:02:04,881 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:02:04,882 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:02:04,883 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:02:04,884 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:02:04,884 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:02:04,885 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:02:04,886 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:02:04,886 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:02:04,887 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:02:04,887 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:02:04,888 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:02:04,888 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:02:04,888 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:02:04,889 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:02:04,889 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:02:04,890 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:02:04,890 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:02:04,891 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:02:04,891 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:02:04,897 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:02:04,898 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:02:04,899 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:02:05,434 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:02:05,435 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,436 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,437 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,437 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,438 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,439 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,439 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,440 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,440 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,441 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,442 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,442 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,443 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,443 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,444 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,444 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,445 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,445 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:05,446 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:02:05,751 - Glc-1P_test - INFO - Done!
+2020-12-10 10:02:45,924 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:02:45,925 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:02:45,926 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:02:48,767 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:02:48,770 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:02:48,773 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:02:48,774 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:02:48,774 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:02:48,776 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:02:48,777 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:02:48,778 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:02:48,778 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:02:48,779 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:02:48,779 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:02:48,780 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:02:48,780 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:02:48,781 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:02:48,781 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:02:48,782 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:02:48,782 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:02:48,783 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:02:48,783 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:02:48,784 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:02:48,785 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:02:48,785 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:02:48,787 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:02:48,789 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:02:48,790 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:02:48,795 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:02:48,796 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:02:48,797 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:02:49,328 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:02:49,329 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,329 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,330 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,331 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,332 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,333 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,333 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,334 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,334 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,335 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,336 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,336 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,337 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,337 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,338 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,338 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,339 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,339 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:02:49,339 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:02:49,638 - Glc-1P_test - INFO - Done!
+2020-12-10 10:03:38,651 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:03:38,653 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:03:38,653 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:03:40,718 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:03:40,720 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:03:40,723 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:03:40,724 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:03:40,725 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:03:40,726 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:03:40,726 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:03:40,727 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:03:40,727 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:03:40,728 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:03:40,728 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:03:40,730 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:03:40,730 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:03:40,731 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:03:40,731 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:03:40,732 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:03:40,732 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:03:40,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:03:40,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:03:40,733 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:03:40,734 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:03:40,735 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:03:40,735 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:03:40,736 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:03:40,737 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:03:40,745 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:03:40,745 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:03:40,746 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:03:41,284 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:03:41,285 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,286 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,286 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,287 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,288 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,289 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,290 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,291 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,292 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,292 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,293 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,294 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,294 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,295 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,295 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,296 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,296 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,297 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:03:41,297 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:03:41,597 - Glc-1P_test - INFO - Done!
+2020-12-10 10:04:24,207 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:04:24,208 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:04:24,209 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:04:26,023 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:04:26,026 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:04:26,028 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:04:26,029 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:04:26,030 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:04:26,031 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:04:26,032 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:04:26,032 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:04:26,033 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:04:26,034 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:04:26,034 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:04:26,034 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:04:26,035 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:04:26,035 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:04:26,036 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:04:26,036 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:04:26,037 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:04:26,037 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:04:26,038 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:04:26,038 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:04:26,039 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:04:26,039 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:04:26,039 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:04:26,040 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:04:26,041 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:04:26,046 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:04:26,047 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:04:26,047 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:04:26,583 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:04:26,584 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,585 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,585 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,586 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,587 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,588 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,589 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,589 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,590 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,590 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,591 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,591 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,592 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,592 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,593 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,593 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,594 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,594 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:04:26,595 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:04:26,894 - Glc-1P_test - INFO - Done!
+2020-12-10 10:17:57,003 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:17:57,004 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:17:57,005 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:18:14,480 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:18:14,482 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:18:14,485 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:18:14,486 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:18:14,486 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:18:14,487 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:18:14,488 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:18:14,489 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:18:14,489 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:18:14,490 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:18:14,490 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:18:14,491 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:18:14,492 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:18:14,492 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:18:14,493 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:18:14,495 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:18:14,496 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:18:14,497 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:18:14,498 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:18:14,499 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:18:14,499 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:18:14,500 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:18:14,500 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:18:14,501 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:18:14,501 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:18:14,513 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:18:14,514 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:18:14,514 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:18:15,380 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:18:15,381 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,382 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,382 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,383 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,384 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,385 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,385 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,386 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,387 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,388 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,388 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,389 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,390 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,391 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,391 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,392 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,393 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,394 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:18:15,395 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:18:15,868 - Glc-1P_test - INFO - Done!
+2020-12-10 10:19:10,433 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:19:10,434 - Glc-1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Glc-1P_test 
+Logger level: 10 
+
+2020-12-10 10:19:10,435 - Glc-1P_test - INFO - ....................
+
+2020-12-10 10:19:22,815 - Glc-1P_test - INFO - Starting to process calculations...
+
+2020-12-10 10:19:22,817 - Glc-1P_test - INFO - Getting data for Glc-1P
+
+2020-12-10 10:19:22,819 - Glc-1P_test - DEBUG - Checking limits for Glc-1P
+
+2020-12-10 10:19:22,820 - Glc-1P_test - INFO - For Glc-1P the value to predict (902782) is under range
+
+2020-12-10 10:19:22,820 - Glc-1P_test - INFO - For Glc-1P the value to predict (543770) is under range
+
+2020-12-10 10:19:22,821 - Glc-1P_test - INFO - For Glc-1P the value to predict (629522) is under range
+
+2020-12-10 10:19:22,822 - Glc-1P_test - INFO - For Glc-1P the value to predict (580832) is under range
+
+2020-12-10 10:19:22,823 - Glc-1P_test - INFO - For Glc-1P the value to predict (659447) is under range
+
+2020-12-10 10:19:22,823 - Glc-1P_test - INFO - For Glc-1P the value to predict (477568) is under range
+
+2020-12-10 10:19:22,824 - Glc-1P_test - INFO - For Glc-1P the value to predict (408320) is under range
+
+2020-12-10 10:19:22,824 - Glc-1P_test - INFO - For Glc-1P the value to predict (389459) is under range
+
+2020-12-10 10:19:22,825 - Glc-1P_test - INFO - For Glc-1P the value to predict (520348) is under range
+
+2020-12-10 10:19:22,826 - Glc-1P_test - INFO - For Glc-1P the value to predict (451010) is under range
+
+2020-12-10 10:19:22,827 - Glc-1P_test - INFO - For Glc-1P the value to predict (390800) is under range
+
+2020-12-10 10:19:22,828 - Glc-1P_test - INFO - For Glc-1P the value to predict (433663) is under range
+
+2020-12-10 10:19:22,829 - Glc-1P_test - INFO - For Glc-1P the value to predict (747926) is under range
+
+2020-12-10 10:19:22,829 - Glc-1P_test - INFO - For Glc-1P the value to predict (668217) is under range
+
+2020-12-10 10:19:22,830 - Glc-1P_test - INFO - For Glc-1P the value to predict (567159) is under range
+
+2020-12-10 10:19:22,830 - Glc-1P_test - INFO - For Glc-1P the value to predict (485824) is under range
+
+2020-12-10 10:19:22,831 - Glc-1P_test - INFO - For Glc-1P the value to predict (408316) is under range
+
+2020-12-10 10:19:22,831 - Glc-1P_test - INFO - For Glc-1P the value to predict (464052) is under range
+
+2020-12-10 10:19:22,832 - Glc-1P_test - DEBUG - nans list: []
+2020-12-10 10:19:22,832 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:19:22,833 - Glc-1P_test - DEBUG - Cal dict x: [3072.563, 1405.725, 776.716, 388.082, 191.293, 87.897]
+ cal dict y: [21479820, 13213814, 8050763, 4301058, 2239325, 1112122]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-10 10:19:22,834 - Glc-1P_test - DEBUG - Performing calculations for equation
+ x=[3072.563 1405.725  776.716  388.082  191.293   87.897] 
+ y=[21479820 13213814  8050763  4301058  2239325  1112122]
+2020-12-10 10:19:22,849 - Glc-1P_test - INFO - Equations for Glc-1P are equal to:
+Linear:  
+6795 x + 1.693e+06
+ 
+2020-12-10 10:19:22,850 - Glc-1P_test - INFO - Quadratic:         2
+-1.415 x + 1.13e+04 x + 1.301e+05
+
+2020-12-10 10:19:22,851 - Glc-1P_test - DEBUG - Calculating residuals 
+
+2020-12-10 10:19:23,699 - Glc-1P_test - DEBUG - Predicting concentrations
+
+2020-12-10 10:19:23,699 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,700 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,700 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,701 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,701 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,702 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,702 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,703 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,704 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,704 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,705 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,705 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,706 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,707 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,708 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,708 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,709 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,710 - Glc-1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-10 10:19:23,712 - Glc-1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-10 10:19:24,155 - Glc-1P_test - INFO - Done!

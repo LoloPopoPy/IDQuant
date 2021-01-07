@@ -1,0 +1,339 @@
+2020-12-09 10:09:47,694 - Cis-Aco_test - INFO - ....................
+
+2020-12-09 10:09:47,695 - Cis-Aco_test - INFO - CHOSEN PARAMETERS:
+Run name: Cis-Aco_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-09 10:09:47,696 - Cis-Aco_test - INFO - ....................
+
+2020-12-09 10:09:55,909 - Cis-Aco_test - INFO - Starting to process calculations...
+
+2020-12-09 10:09:55,915 - Cis-Aco_test - INFO - Getting data for Cis-Aco
+
+2020-12-09 10:09:55,919 - Cis-Aco_test - DEBUG - Checking limits for Cis-Aco
+
+2020-12-09 10:09:55,920 - Cis-Aco_test - DEBUG - nans list: []
+2020-12-09 10:09:55,921 - Cis-Aco_test - DEBUG - Cal dict x: [3094.135, 1678.43, 848.427, 349.587, 206.421, 160.435]
+ cal dict y: [1786587, 942549, 447704, 150298, 64943, 37526]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:09:55,922 - Cis-Aco_test - DEBUG - Cal dict x: [3094.135, 1678.43, 848.427, 349.587, 206.421, 160.435]
+ cal dict y: [1786587, 942549, 447704, 150298, 64943, 37526]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:09:55,923 - Cis-Aco_test - DEBUG - Performing calculations for equation
+ x=[3094.135 1678.43   848.427  349.587  206.421  160.435] 
+ y=[1786587  942549  447704  150298   64943   37526]
+2020-12-09 10:09:55,983 - Cis-Aco_test - INFO - Equation for Cis-Aco is equal to: 
+           2
+9.086e-08 x + 596.2 x - 5.812e+04
+ 
+2020-12-09 10:09:55,984 - Cis-Aco_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:09:56,675 - Cis-Aco_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:09:56,676 - Cis-Aco_test - DEBUG - Trying to predict 344899 of type <class 'int'> 
+
+2020-12-09 10:09:56,677 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176099e+09  6.75991671e+02]
+
+2020-12-09 10:09:56,678 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,678 - Cis-Aco_test - DEBUG - The calculated value is equal to: 675.9916712175618
+
+2020-12-09 10:09:56,679 - Cis-Aco_test - DEBUG - Trying to predict 195371 of type <class 'int'> 
+
+2020-12-09 10:09:56,680 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176074e+09  4.25188254e+02]
+
+2020-12-09 10:09:56,680 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,681 - Cis-Aco_test - DEBUG - The calculated value is equal to: 425.1882541262334
+
+2020-12-09 10:09:56,681 - Cis-Aco_test - DEBUG - Trying to predict 291200 of type <class 'int'> 
+
+2020-12-09 10:09:56,682 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176090e+09  5.85922304e+02]
+
+2020-12-09 10:09:56,683 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,684 - Cis-Aco_test - DEBUG - The calculated value is equal to: 585.9223038450053
+
+2020-12-09 10:09:56,685 - Cis-Aco_test - DEBUG - Trying to predict 299857 of type <class 'int'> 
+
+2020-12-09 10:09:56,685 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176091e+09  6.00442696e+02]
+
+2020-12-09 10:09:56,686 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,687 - Cis-Aco_test - DEBUG - The calculated value is equal to: 600.442695701868
+
+2020-12-09 10:09:56,687 - Cis-Aco_test - DEBUG - Trying to predict 280184 of type <class 'int'> 
+
+2020-12-09 10:09:56,688 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176088e+09  5.67445160e+02]
+
+2020-12-09 10:09:56,689 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,690 - Cis-Aco_test - DEBUG - The calculated value is equal to: 567.4451596265022
+
+2020-12-09 10:09:56,690 - Cis-Aco_test - DEBUG - Trying to predict 258959 of type <class 'int'> 
+
+2020-12-09 10:09:56,691 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176084e+09  5.31844453e+02]
+
+2020-12-09 10:09:56,691 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,692 - Cis-Aco_test - DEBUG - The calculated value is equal to: 531.8444525395553
+
+2020-12-09 10:09:56,692 - Cis-Aco_test - DEBUG - Trying to predict 228425 of type <class 'int'> 
+
+2020-12-09 10:09:56,693 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176079e+09  4.80629753e+02]
+
+2020-12-09 10:09:56,694 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,694 - Cis-Aco_test - DEBUG - The calculated value is equal to: 480.62975267737323
+
+2020-12-09 10:09:56,694 - Cis-Aco_test - DEBUG - Trying to predict 247537 of type <class 'int'> 
+
+2020-12-09 10:09:56,695 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176083e+09  5.12686324e+02]
+
+2020-12-09 10:09:56,696 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,696 - Cis-Aco_test - DEBUG - The calculated value is equal to: 512.6863239298732
+
+2020-12-09 10:09:56,697 - Cis-Aco_test - DEBUG - Trying to predict 276529 of type <class 'int'> 
+
+2020-12-09 10:09:56,697 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176087e+09  5.61314626e+02]
+
+2020-12-09 10:09:56,698 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,698 - Cis-Aco_test - DEBUG - The calculated value is equal to: 561.3146256421255
+
+2020-12-09 10:09:56,699 - Cis-Aco_test - DEBUG - Trying to predict 231403 of type <class 'int'> 
+
+2020-12-09 10:09:56,700 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176080e+09  4.85624754e+02]
+
+2020-12-09 10:09:56,700 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,700 - Cis-Aco_test - DEBUG - The calculated value is equal to: 485.62475422528314
+
+2020-12-09 10:09:56,701 - Cis-Aco_test - DEBUG - Trying to predict 233275 of type <class 'int'> 
+
+2020-12-09 10:09:56,703 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176080e+09  4.88764661e+02]
+
+2020-12-09 10:09:56,703 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,704 - Cis-Aco_test - DEBUG - The calculated value is equal to: 488.76466117158765
+
+2020-12-09 10:09:56,704 - Cis-Aco_test - DEBUG - Trying to predict 259455 of type <class 'int'> 
+
+2020-12-09 10:09:56,705 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176085e+09  5.32676394e+02]
+
+2020-12-09 10:09:56,705 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,706 - Cis-Aco_test - DEBUG - The calculated value is equal to: 532.6763936848411
+
+2020-12-09 10:09:56,706 - Cis-Aco_test - DEBUG - Trying to predict 274558 of type <class 'int'> 
+
+2020-12-09 10:09:56,707 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176087e+09  5.58008666e+02]
+
+2020-12-09 10:09:56,708 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,708 - Cis-Aco_test - DEBUG - The calculated value is equal to: 558.0086659976431
+
+2020-12-09 10:09:56,708 - Cis-Aco_test - DEBUG - Trying to predict 272392 of type <class 'int'> 
+
+2020-12-09 10:09:56,709 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176087e+09  5.54375633e+02]
+
+2020-12-09 10:09:56,710 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,710 - Cis-Aco_test - DEBUG - The calculated value is equal to: 554.375632716303
+
+2020-12-09 10:09:56,711 - Cis-Aco_test - DEBUG - Trying to predict 217197 of type <class 'int'> 
+
+2020-12-09 10:09:56,711 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176077e+09  4.61797020e+02]
+
+2020-12-09 10:09:56,712 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,712 - Cis-Aco_test - DEBUG - The calculated value is equal to: 461.79702011068775
+
+2020-12-09 10:09:56,713 - Cis-Aco_test - DEBUG - Trying to predict 266832 of type <class 'int'> 
+
+2020-12-09 10:09:56,714 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176086e+09  5.45049841e+02]
+
+2020-12-09 10:09:56,714 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,715 - Cis-Aco_test - DEBUG - The calculated value is equal to: 545.0498408953689
+
+2020-12-09 10:09:56,715 - Cis-Aco_test - DEBUG - Trying to predict 237474 of type <class 'int'> 
+
+2020-12-09 10:09:56,716 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176081e+09  4.95807647e+02]
+
+2020-12-09 10:09:56,716 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,717 - Cis-Aco_test - DEBUG - The calculated value is equal to: 495.8076468804938
+
+2020-12-09 10:09:56,717 - Cis-Aco_test - DEBUG - Trying to predict 150524 of type <class 'int'> 
+
+2020-12-09 10:09:56,718 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176066e+09  3.49966346e+02]
+
+2020-12-09 10:09:56,719 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,719 - Cis-Aco_test - DEBUG - The calculated value is equal to: 349.96634648921525
+
+2020-12-09 10:09:56,719 - Cis-Aco_test - DEBUG - Trying to predict 180411 of type <class 'int'> 
+
+2020-12-09 10:09:56,720 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176071e+09  4.00095835e+02]
+
+2020-12-09 10:09:56,721 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,721 - Cis-Aco_test - DEBUG - The calculated value is equal to: 400.09583479711984
+
+2020-12-09 10:09:56,721 - Cis-Aco_test - DEBUG - Trying to predict 203865 of type <class 'int'> 
+
+2020-12-09 10:09:56,723 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176075e+09  4.39435247e+02]
+
+2020-12-09 10:09:56,723 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,724 - Cis-Aco_test - DEBUG - The calculated value is equal to: 439.4352466732716
+
+2020-12-09 10:09:56,724 - Cis-Aco_test - DEBUG - Trying to predict 238471 of type <class 'int'> 
+
+2020-12-09 10:09:56,725 - Cis-Aco_test - DEBUG - Roots are equal to: [-6.56176081e+09  4.97479916e+02]
+
+2020-12-09 10:09:56,725 - Cis-Aco_test - DEBUG - minimum: 160.435
+ maximum: 3094.135
+
+2020-12-09 10:09:56,726 - Cis-Aco_test - DEBUG - The calculated value is equal to: 497.4799156926997
+
+2020-12-09 10:09:56,726 - Cis-Aco_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:09:57,502 - Cis-Aco_test - INFO - Done!
+2020-12-09 10:11:55,343 - Cis-Aco_test - INFO - Starting to process calculations...
+
+2020-12-09 10:11:55,344 - Cis-Aco_test - INFO - Getting data for Cis-Aco
+
+2020-12-09 10:11:55,347 - Cis-Aco_test - DEBUG - Checking limits for Cis-Aco
+
+2020-12-09 10:11:55,348 - Cis-Aco_test - DEBUG - nans list: []
+2020-12-09 10:11:55,349 - Cis-Aco_test - DEBUG - Cal dict x: [3094.135, 1678.43, 848.427, 349.587, 206.421, 160.435]
+ cal dict y: [1786587, 942549, 447704, 150298, 64943, 37526]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:11:55,350 - Cis-Aco_test - DEBUG - Cal dict x: [3094.135, 1678.43, 848.427, 349.587, 206.421, 160.435]
+ cal dict y: [1786587, 942549, 447704, 150298, 64943, 37526]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:11:55,351 - Cis-Aco_test - DEBUG - Performing calculations for equation
+ x=[3094.135 1678.43   848.427  349.587  206.421  160.435] 
+ y=[1786587  942549  447704  150298   64943   37526]
+2020-12-09 10:11:55,354 - Cis-Aco_test - INFO - Equation for Cis-Aco is equal to: 
+ 
+596.2 x - 5.812e+04
+ 
+2020-12-09 10:11:55,354 - Cis-Aco_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:11:55,976 - Cis-Aco_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:11:55,977 - Cis-Aco_test - DEBUG - Trying to predict 344899 of type <class 'int'> 
+
+2020-12-09 10:11:55,977 - Cis-Aco_test - DEBUG - The calculated value is equal to: 675.9915869074158
+
+2020-12-09 10:11:55,978 - Cis-Aco_test - DEBUG - Trying to predict 195371 of type <class 'int'> 
+
+2020-12-09 10:11:55,978 - Cis-Aco_test - DEBUG - The calculated value is equal to: 425.1882490203002
+
+2020-12-09 10:11:55,979 - Cis-Aco_test - DEBUG - Trying to predict 291200 of type <class 'int'> 
+
+2020-12-09 10:11:55,980 - Cis-Aco_test - DEBUG - The calculated value is equal to: 585.9222457726436
+
+2020-12-09 10:11:55,980 - Cis-Aco_test - DEBUG - Trying to predict 299857 of type <class 'int'> 
+
+2020-12-09 10:11:55,981 - Cis-Aco_test - DEBUG - The calculated value is equal to: 600.4426332324421
+
+2020-12-09 10:11:55,981 - Cis-Aco_test - DEBUG - Trying to predict 280184 of type <class 'int'> 
+
+2020-12-09 10:11:55,982 - Cis-Aco_test - DEBUG - The calculated value is equal to: 567.445107242305
+
+2020-12-09 10:11:55,982 - Cis-Aco_test - DEBUG - Trying to predict 258959 of type <class 'int'> 
+
+2020-12-09 10:11:55,983 - Cis-Aco_test - DEBUG - The calculated value is equal to: 531.8444114083874
+
+2020-12-09 10:11:55,984 - Cis-Aco_test - DEBUG - Trying to predict 228425 of type <class 'int'> 
+
+2020-12-09 10:11:55,984 - Cis-Aco_test - DEBUG - The calculated value is equal to: 480.6297284122584
+
+2020-12-09 10:11:55,985 - Cis-Aco_test - DEBUG - Trying to predict 247537 of type <class 'int'> 
+
+2020-12-09 10:11:55,985 - Cis-Aco_test - DEBUG - The calculated value is equal to: 512.6862890142764
+
+2020-12-09 10:11:55,986 - Cis-Aco_test - DEBUG - Trying to predict 276529 of type <class 'int'> 
+
+2020-12-09 10:11:55,986 - Cis-Aco_test - DEBUG - The calculated value is equal to: 561.3145751681958
+
+2020-12-09 10:11:55,987 - Cis-Aco_test - DEBUG - Trying to predict 231403 of type <class 'int'> 
+
+2020-12-09 10:11:55,987 - Cis-Aco_test - DEBUG - The calculated value is equal to: 485.6247282800278
+
+2020-12-09 10:11:55,987 - Cis-Aco_test - DEBUG - Trying to predict 233275 of type <class 'int'> 
+
+2020-12-09 10:11:55,988 - Cis-Aco_test - DEBUG - The calculated value is equal to: 488.7646341740723
+
+2020-12-09 10:11:55,988 - Cis-Aco_test - DEBUG - Trying to predict 259455 of type <class 'int'> 
+
+2020-12-09 10:11:55,989 - Cis-Aco_test - DEBUG - The calculated value is equal to: 532.6763522862966
+
+2020-12-09 10:11:55,989 - Cis-Aco_test - DEBUG - Trying to predict 274558 of type <class 'int'> 
+
+2020-12-09 10:11:55,989 - Cis-Aco_test - DEBUG - The calculated value is equal to: 558.0086165586008
+
+2020-12-09 10:11:55,990 - Cis-Aco_test - DEBUG - Trying to predict 272392 of type <class 'int'> 
+
+2020-12-09 10:11:55,990 - Cis-Aco_test - DEBUG - The calculated value is equal to: 554.3755844183763
+
+2020-12-09 10:11:55,991 - Cis-Aco_test - DEBUG - Trying to predict 217197 of type <class 'int'> 
+
+2020-12-09 10:11:55,991 - Cis-Aco_test - DEBUG - The calculated value is equal to: 461.7970022486199
+
+2020-12-09 10:11:55,992 - Cis-Aco_test - DEBUG - Trying to predict 266832 of type <class 'int'> 
+
+2020-12-09 10:11:55,992 - Cis-Aco_test - DEBUG - The calculated value is equal to: 545.0497955450392
+
+2020-12-09 10:11:55,992 - Cis-Aco_test - DEBUG - Trying to predict 237474 of type <class 'int'> 
+
+2020-12-09 10:11:55,993 - Cis-Aco_test - DEBUG - The calculated value is equal to: 495.8076175336303
+
+2020-12-09 10:11:55,993 - Cis-Aco_test - DEBUG - Trying to predict 150524 of type <class 'int'> 
+
+2020-12-09 10:11:55,993 - Cis-Aco_test - DEBUG - The calculated value is equal to: 349.9663688759562
+
+2020-12-09 10:11:55,994 - Cis-Aco_test - DEBUG - Trying to predict 180411 of type <class 'int'> 
+
+2020-12-09 10:11:55,994 - Cis-Aco_test - DEBUG - The calculated value is equal to: 400.09583867045774
+
+2020-12-09 10:11:55,995 - Cis-Aco_test - DEBUG - Trying to predict 203865 of type <class 'int'> 
+
+2020-12-09 10:11:55,995 - Cis-Aco_test - DEBUG - The calculated value is equal to: 439.43523655449553
+
+2020-12-09 10:11:55,995 - Cis-Aco_test - DEBUG - Trying to predict 238471 of type <class 'int'> 
+
+2020-12-09 10:11:55,996 - Cis-Aco_test - DEBUG - The calculated value is equal to: 497.47988579023416
+
+2020-12-09 10:11:55,996 - Cis-Aco_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:11:56,042 - Cis-Aco_test - INFO - Done!

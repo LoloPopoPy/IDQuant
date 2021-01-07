@@ -1,0 +1,109 @@
+2020-12-06 18:16:31,783 - 2_3-PG_Linear_Test - INFO - ....................
+
+2020-12-06 18:16:31,798 - 2_3-PG_Linear_Test - INFO - CHOSEN PARAMETERS:
+Run name: 2_3-PG_Linear_Test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-06 18:16:31,799 - 2_3-PG_Linear_Test - INFO - ....................
+
+2020-12-06 18:17:02,784 - 2_3-PG_Linear_Test - INFO - Starting to process calculations...
+
+2020-12-06 18:17:02,784 - 2_3-PG_Linear_Test - INFO - Getting data for 2_3-PG
+
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - Checking limits for 2_3-PG
+
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - nans list: []
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - Performing calculations for equation
+ x=[4128.907 2034.728 1190.326  567.859  236.386  122.295] 
+ y=[16.00599456  7.91219364  4.64865982  2.24288747  0.96177308  0.52082091]
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - INFO - Equation for 2_3-PG is equal to: 
+ 
+0.003865 x + 0.04816
+ 
+2020-12-06 18:17:02,799 - 2_3-PG_Linear_Test - DEBUG - Calculating residuals 
+
+2020-12-06 18:17:03,383 - 2_3-PG_Linear_Test - DEBUG - Predicting concentrations
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 2.131552099764514 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 539.0529068482458
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 1.8110396979606167 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 456.12397217557634
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 2.1765641955491457 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 550.6992741332396
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 2.241626209536903 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 567.5333294686841
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 2.457981199688113 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 623.5127197929731
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 2.239186276358256 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 566.9020245393307
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.5291777464573598 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 124.45678726385145
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.5325748390203254 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 125.33574628586008
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.833885911830356 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 203.29655570409693
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.8081491103158338 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 196.63745134660897
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.8538930221224065 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 208.47316769495993
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.9701790506964086 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 238.56085357757323
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 1.2906163163727853 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 321.4703476327326
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.8855911414383453 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 216.67469515911813
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 1.7184779124944347 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 432.17466407732934
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.7284162668607778 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 176.00748592581343
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.8784719259019043 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 214.83267919711676
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - Trying to predict 0.9817901034440265 of type <class 'float'> 
+
+2020-12-06 18:17:03,399 - 2_3-PG_Linear_Test - DEBUG - The calculated value is equal to: 241.56508127475064
+
+2020-12-06 18:17:03,415 - 2_3-PG_Linear_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 18:17:03,450 - 2_3-PG_Linear_Test - INFO - Done!

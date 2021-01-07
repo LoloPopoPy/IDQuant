@@ -1,0 +1,190 @@
+2020-12-03 11:12:58,524 - glycine_test_lara - INFO - ....................
+
+2020-12-03 11:12:58,526 - glycine_test_lara - INFO - CHOSEN PARAMETERS:
+Run name: glycine_test_lara 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 11:12:58,526 - glycine_test_lara - INFO - ....................
+
+2020-12-03 11:13:08,181 - glycine_test_lara - INFO - Starting to process calculations...
+
+2020-12-03 11:13:08,183 - glycine_test_lara - INFO - Getting data for Gly
+
+2020-12-03 11:13:08,186 - glycine_test_lara - DEBUG - Checking limits for Gly
+
+2020-12-03 11:13:08,187 - glycine_test_lara - INFO - For Gly the value to predict (150.5565839188313) is over range
+
+2020-12-03 11:13:08,188 - glycine_test_lara - INFO - For Gly the value to predict (139.24071074268315) is over range
+
+2020-12-03 11:13:08,189 - glycine_test_lara - INFO - For Gly the value to predict (141.01852851033928) is over range
+
+2020-12-03 11:13:08,190 - glycine_test_lara - INFO - For Gly the value to predict (137.75810975090698) is over range
+
+2020-12-03 11:13:08,190 - glycine_test_lara - DEBUG - nans list: []
+2020-12-03 11:13:08,191 - glycine_test_lara - DEBUG - Cal dict x: [53.012171, 23.152437000000003, 11.782646000000002, 5.57119, 1.77767, 0.407011]
+ cal dict y: [135.59433351396444, 59.32784688524774, 30.2875934132431, 14.422552018597887, 4.7333019371704825, 1.2324208625491568]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 11:13:08,191 - glycine_test_lara - DEBUG - Cal dict x: [53.012171, 23.152437000000003, 11.782646000000002, 5.57119, 1.77767, 0.407011]
+ cal dict y: [135.59433351396444, 59.32784688524774, 30.2875934132431, 14.422552018597887, 4.7333019371704825, 1.2324208625491568]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 11:13:08,192 - glycine_test_lara - DEBUG - Performing calculations for equation
+ x=[53.012171 23.152437 11.782646  5.57119   1.77767   0.407011] 
+ y=[135.59433351  59.32784689  30.28759341  14.42255202   4.73330194
+   1.23242086]
+2020-12-03 11:13:08,195 - glycine_test_lara - INFO - Equation for Gly is equal to: 
+ 
+0.1929 x + 2.554
+ 
+2020-12-03 11:13:08,196 - glycine_test_lara - DEBUG - Calculating residuals 
+
+2020-12-03 11:13:08,768 - glycine_test_lara - DEBUG - Predicting concentrations
+
+2020-12-03 11:13:08,769 - glycine_test_lara - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-03 11:13:08,770 - glycine_test_lara - DEBUG - Trying to predict 132.53786676102385 of type <class 'float'> 
+
+2020-12-03 11:13:08,770 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 132.53786676102385
+
+2020-12-03 11:13:08,771 - glycine_test_lara - DEBUG - The calculated value is equal to: 51.81550760206951
+
+2020-12-03 11:13:08,771 - glycine_test_lara - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-03 11:13:08,772 - glycine_test_lara - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-03 11:13:08,772 - glycine_test_lara - DEBUG - Trying to predict 131.6083194783574 of type <class 'float'> 
+
+2020-12-03 11:13:08,774 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 131.6083194783574
+
+2020-12-03 11:13:08,774 - glycine_test_lara - DEBUG - The calculated value is equal to: 51.45157274661628
+
+2020-12-03 11:13:08,775 - glycine_test_lara - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-03 11:13:08,775 - glycine_test_lara - DEBUG - Trying to predict 93.03917084792951 of type <class 'float'> 
+
+2020-12-03 11:13:08,776 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 93.03917084792951
+
+2020-12-03 11:13:08,776 - glycine_test_lara - DEBUG - The calculated value is equal to: 36.35104177469608
+
+2020-12-03 11:13:08,777 - glycine_test_lara - DEBUG - Trying to predict 80.90998382852665 of type <class 'float'> 
+
+2020-12-03 11:13:08,778 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 80.90998382852665
+
+2020-12-03 11:13:08,779 - glycine_test_lara - DEBUG - The calculated value is equal to: 31.602242001962452
+
+2020-12-03 11:13:08,780 - glycine_test_lara - DEBUG - Trying to predict 94.81284197104308 of type <class 'float'> 
+
+2020-12-03 11:13:08,781 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 94.81284197104308
+
+2020-12-03 11:13:08,781 - glycine_test_lara - DEBUG - The calculated value is equal to: 37.045466637044406
+
+2020-12-03 11:13:08,782 - glycine_test_lara - DEBUG - Trying to predict 98.04653765699291 of type <class 'float'> 
+
+2020-12-03 11:13:08,782 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 98.04653765699291
+
+2020-12-03 11:13:08,783 - glycine_test_lara - DEBUG - The calculated value is equal to: 38.31151796546099
+
+2020-12-03 11:13:08,783 - glycine_test_lara - DEBUG - Trying to predict 99.89816347815201 of type <class 'float'> 
+
+2020-12-03 11:13:08,784 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 99.89816347815201
+
+2020-12-03 11:13:08,784 - glycine_test_lara - DEBUG - The calculated value is equal to: 39.036463525673895
+
+2020-12-03 11:13:08,785 - glycine_test_lara - DEBUG - Trying to predict 107.19870409920736 of type <class 'float'> 
+
+2020-12-03 11:13:08,786 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 107.19870409920736
+
+2020-12-03 11:13:08,786 - glycine_test_lara - DEBUG - The calculated value is equal to: 41.894759435089846
+
+2020-12-03 11:13:08,787 - glycine_test_lara - DEBUG - Trying to predict 135.3519138871574 of type <class 'float'> 
+
+2020-12-03 11:13:08,787 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 135.3519138871574
+
+2020-12-03 11:13:08,788 - glycine_test_lara - DEBUG - The calculated value is equal to: 52.91725880201948
+
+2020-12-03 11:13:08,789 - glycine_test_lara - DEBUG - Trying to predict 95.49625543072489 of type <class 'float'> 
+
+2020-12-03 11:13:08,789 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 95.49625543072489
+
+2020-12-03 11:13:08,790 - glycine_test_lara - DEBUG - The calculated value is equal to: 37.3130355744207
+
+2020-12-03 11:13:08,790 - glycine_test_lara - DEBUG - Trying to predict 135.53810077890537 of type <class 'float'> 
+
+2020-12-03 11:13:08,791 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 135.53810077890537
+
+2020-12-03 11:13:08,791 - glycine_test_lara - DEBUG - The calculated value is equal to: 52.99015439409869
+
+2020-12-03 11:13:08,792 - glycine_test_lara - DEBUG - Trying to predict 86.73999570448123 of type <class 'float'> 
+
+2020-12-03 11:13:08,793 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 86.73999570448123
+
+2020-12-03 11:13:08,793 - glycine_test_lara - DEBUG - The calculated value is equal to: 33.88479886478263
+
+2020-12-03 11:13:08,794 - glycine_test_lara - DEBUG - Trying to predict 97.40103984458395 of type <class 'float'> 
+
+2020-12-03 11:13:08,795 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 97.40103984458395
+
+2020-12-03 11:13:08,795 - glycine_test_lara - DEBUG - The calculated value is equal to: 38.05879370125729
+
+2020-12-03 11:13:08,796 - glycine_test_lara - DEBUG - Trying to predict 86.08977625476618 of type <class 'float'> 
+
+2020-12-03 11:13:08,796 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 86.08977625476618
+
+2020-12-03 11:13:08,797 - glycine_test_lara - DEBUG - The calculated value is equal to: 33.630225992743114
+
+2020-12-03 11:13:08,797 - glycine_test_lara - DEBUG - Trying to predict 39.36685077173093 of type <class 'float'> 
+
+2020-12-03 11:13:08,798 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 39.36685077173093
+
+2020-12-03 11:13:08,798 - glycine_test_lara - DEBUG - The calculated value is equal to: 15.33734143581827
+
+2020-12-03 11:13:08,799 - glycine_test_lara - DEBUG - Trying to predict 39.80395583316451 of type <class 'float'> 
+
+2020-12-03 11:13:08,799 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 39.80395583316451
+
+2020-12-03 11:13:08,800 - glycine_test_lara - DEBUG - The calculated value is equal to: 15.508476105691527
+
+2020-12-03 11:13:08,800 - glycine_test_lara - DEBUG - Trying to predict 37.90852138758321 of type <class 'float'> 
+
+2020-12-03 11:13:08,800 - glycine_test_lara - DEBUG - Equation is equal to:  
+0.1929 x + 2.554
+ y_value is equal to: 37.90852138758321
+
+2020-12-03 11:13:08,801 - glycine_test_lara - DEBUG - The calculated value is equal to: 14.766378663380747
+
+2020-12-03 11:13:08,801 - glycine_test_lara - DEBUG - Rebuilding dataframes
+
+2020-12-03 11:13:08,842 - glycine_test_lara - INFO - Done!

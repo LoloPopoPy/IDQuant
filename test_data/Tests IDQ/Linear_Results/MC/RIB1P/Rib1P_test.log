@@ -1,0 +1,110 @@
+2020-12-07 15:28:21,058 - Rib1P_test - INFO - ....................
+
+2020-12-07 15:28:21,059 - Rib1P_test - INFO - CHOSEN PARAMETERS:
+Run name: Rib1P_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-07 15:28:21,060 - Rib1P_test - INFO - ....................
+
+2020-12-07 15:28:29,034 - Rib1P_test - INFO - Starting to process calculations...
+
+2020-12-07 15:28:29,036 - Rib1P_test - INFO - Getting data for Rib1P
+
+2020-12-07 15:28:29,039 - Rib1P_test - DEBUG - Checking limits for Rib1P
+
+2020-12-07 15:28:29,040 - Rib1P_test - INFO - For Rib1P the value to predict (7.71157401294071) is under range
+
+2020-12-07 15:28:29,041 - Rib1P_test - INFO - For Rib1P the value to predict (5.861059016000958) is under range
+
+2020-12-07 15:28:29,042 - Rib1P_test - INFO - For Rib1P the value to predict (7.495532006776733) is under range
+
+2020-12-07 15:28:29,043 - Rib1P_test - INFO - For Rib1P the value to predict (5.784121320249777) is under range
+
+2020-12-07 15:28:29,043 - Rib1P_test - INFO - For Rib1P the value to predict (6.654655460181211) is under range
+
+2020-12-07 15:28:29,044 - Rib1P_test - INFO - For Rib1P the value to predict (7.341699626658781) is under range
+
+2020-12-07 15:28:29,045 - Rib1P_test - INFO - For Rib1P the value to predict (1.0661762117638776) is under range
+
+2020-12-07 15:28:29,046 - Rib1P_test - INFO - For Rib1P the value to predict (0.8882125811122432) is under range
+
+2020-12-07 15:28:29,047 - Rib1P_test - INFO - For Rib1P the value to predict (1.1034523444321211) is under range
+
+2020-12-07 15:28:29,048 - Rib1P_test - INFO - For Rib1P the value to predict (1.0741361256544502) is under range
+
+2020-12-07 15:28:29,048 - Rib1P_test - INFO - For Rib1P the value to predict (1.1715022391097842) is under range
+
+2020-12-07 15:28:29,049 - Rib1P_test - INFO - For Rib1P the value to predict (1.220064328381069) is under range
+
+2020-12-07 15:28:29,049 - Rib1P_test - INFO - For Rib1P the value to predict (2.758835934204977) is under range
+
+2020-12-07 15:28:29,050 - Rib1P_test - INFO - For Rib1P the value to predict (1.2763887739051245) is under range
+
+2020-12-07 15:28:29,051 - Rib1P_test - INFO - For Rib1P the value to predict (2.7587713017327795) is under range
+
+2020-12-07 15:28:29,051 - Rib1P_test - INFO - For Rib1P the value to predict (1.121230808488921) is under range
+
+2020-12-07 15:28:29,051 - Rib1P_test - INFO - For Rib1P the value to predict (1.2205350479361616) is under range
+
+2020-12-07 15:28:29,052 - Rib1P_test - INFO - For Rib1P the value to predict (1.3495254200305478) is under range
+
+2020-12-07 15:28:29,052 - Rib1P_test - DEBUG - nans list: []
+2020-12-07 15:28:29,053 - Rib1P_test - DEBUG - Cal dict x: [1804.58, 843.268, 422.655, 207.5, 120.49700000000001, 91.473]
+ cal dict y: [814.7544892695508, 364.63667037449017, 167.70004726456338, 66.96019251742615, 26.223874173480965, 12.634246782087493]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:28:29,053 - Rib1P_test - DEBUG - Cal dict x: [1804.58, 843.268, 422.655, 207.5, 120.49700000000001, 91.473]
+ cal dict y: [814.7544892695508, 364.63667037449017, 167.70004726456338, 66.96019251742615, 26.223874173480965, 12.634246782087493]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:28:29,054 - Rib1P_test - DEBUG - Performing calculations for equation
+ x=[1804.58   843.268  422.655  207.5    120.497   91.473] 
+ y=[814.75448927 364.63667037 167.70004726  66.96019252  26.22387417
+  12.63424678]
+2020-12-07 15:28:29,055 - Rib1P_test - INFO - Equation for Rib1P is equal to: 
+           2
+8.804e-09 x + 0.4682 x - 30.19
+ 
+2020-12-07 15:28:29,056 - Rib1P_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:28:29,693 - Rib1P_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:28:29,693 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,694 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,694 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,695 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,696 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,696 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,697 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,697 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,698 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,698 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,698 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,699 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,700 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,700 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,701 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,701 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,702 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,702 - Rib1P_test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:28:29,703 - Rib1P_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:28:29,747 - Rib1P_test - INFO - Done!

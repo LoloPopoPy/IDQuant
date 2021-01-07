@@ -1,0 +1,470 @@
+2020-12-03 11:00:32,666 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:00:32,668 - alanine_test_lara - INFO - CHOSEN PARAMETERS:
+Run name: alanine_test_lara 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 11:00:32,670 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:00:50,832 - alanine_test_lara - INFO - Starting to process calculations...
+
+2020-12-03 11:00:50,835 - alanine_test_lara - INFO - Getting data for Ala
+
+2020-12-03 11:00:50,837 - alanine_test_lara - DEBUG - Checking limits for Ala
+
+2020-12-03 11:00:50,840 - alanine_test_lara - DEBUG - nans list: []
+2020-12-03 11:00:50,841 - alanine_test_lara - DEBUG - Cal dict x: [46901.105, 27483.56, 12943.825, 6289.880999999999, 1711.244, 390.519, 80.64699999999999]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:00:50,842 - alanine_test_lara - DEBUG - Cal dict x: [46901.105, 27483.56, 12943.825, 6289.880999999999, 1711.244, 390.519, 80.64699999999999]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:00:50,843 - alanine_test_lara - DEBUG - Performing calculations for equation
+ x=[46901.105 27483.56  12943.825  6289.881  1711.244   390.519    80.647] 
+ y=[41.76128157 24.49361098 11.56368897  5.64645699  1.57475816  0.40026154
+  0.12469758]
+2020-12-03 11:00:50,845 - alanine_test_lara - INFO - Equation for Ala is equal to: 
+ 
+0.05298 x + 0.0008893
+ 
+2020-12-03 11:00:50,846 - alanine_test_lara - DEBUG - Calculating residuals 
+
+2020-12-03 11:00:51,418 - alanine_test_lara - INFO - Removed data point cal1 from Ala because residual too large
+
+2020-12-03 11:00:51,949 - alanine_test_lara - INFO - Removed data point cal2 from Ala because residual too large
+
+2020-12-03 11:00:52,529 - alanine_test_lara - INFO - Removed data point cal3 from Ala because residual too large
+
+2020-12-03 11:00:53,106 - alanine_test_lara - INFO - Removed data point cal4 from Ala because residual too large
+
+2020-12-03 11:00:53,739 - alanine_test_lara - INFO - Removed data point cal5 from Ala because residual too large
+
+2020-12-03 11:00:54,272 - alanine_test_lara - INFO - Removed data point cal6 from Ala because residual too large
+
+2020-12-03 11:00:54,890 - alanine_test_lara - INFO - Removed data point cal7 from Ala because residual too large
+
+2020-12-03 11:00:55,219 - alanine_test_lara - ERROR - There was a problem calculating for Ala
+ Error: min() arg is an empty sequence 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 395, in main
+    self.build_plots(tmp_cal_dict, metabolite, r2)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 224, in build_plots
+    self.plot_res(tmp_cal_dict, metabolite, r2, npass)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 349, in plot_res
+    if min(tmp_cal_dict['relative_residuals']) < -30:
+ValueError: min() arg is an empty sequence
+2020-12-03 11:03:19,047 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:03:19,047 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:03:19,048 - alanine_test_lara - INFO - CHOSEN PARAMETERS:
+Run name: alanine_test_lara 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 11:03:19,048 - alanine_test_lara - INFO - CHOSEN PARAMETERS:
+Run name: alanine_test_lara 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 11:03:19,049 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:03:19,049 - alanine_test_lara - INFO - ....................
+
+2020-12-03 11:03:33,942 - alanine_test_lara - INFO - Starting to process calculations...
+
+2020-12-03 11:03:33,942 - alanine_test_lara - INFO - Starting to process calculations...
+
+2020-12-03 11:03:33,945 - alanine_test_lara - INFO - Getting data for Ala
+
+2020-12-03 11:03:33,945 - alanine_test_lara - INFO - Getting data for Ala
+
+2020-12-03 11:03:33,950 - alanine_test_lara - DEBUG - Checking limits for Ala
+
+2020-12-03 11:03:33,950 - alanine_test_lara - DEBUG - Checking limits for Ala
+
+2020-12-03 11:03:33,952 - alanine_test_lara - DEBUG - nans list: []
+2020-12-03 11:03:33,952 - alanine_test_lara - DEBUG - nans list: []
+2020-12-03 11:03:33,954 - alanine_test_lara - DEBUG - Cal dict x: [46.901105, 27.48356, 12.943825, 6.289881, 1.711244, 0.390519, 0.08064700000000001]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:03:33,954 - alanine_test_lara - DEBUG - Cal dict x: [46.901105, 27.48356, 12.943825, 6.289881, 1.711244, 0.390519, 0.08064700000000001]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:03:33,955 - alanine_test_lara - DEBUG - Cal dict x: [46.901105, 27.48356, 12.943825, 6.289881, 1.711244, 0.390519, 0.08064700000000001]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:03:33,955 - alanine_test_lara - DEBUG - Cal dict x: [46.901105, 27.48356, 12.943825, 6.289881, 1.711244, 0.390519, 0.08064700000000001]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-03 11:03:33,957 - alanine_test_lara - DEBUG - Performing calculations for equation
+ x=[46.901105 27.48356  12.943825  6.289881  1.711244  0.390519  0.080647] 
+ y=[41.76128157 24.49361098 11.56368897  5.64645699  1.57475816  0.40026154
+  0.12469758]
+2020-12-03 11:03:33,957 - alanine_test_lara - DEBUG - Performing calculations for equation
+ x=[46.901105 27.48356  12.943825  6.289881  1.711244  0.390519  0.080647] 
+ y=[41.76128157 24.49361098 11.56368897  5.64645699  1.57475816  0.40026154
+  0.12469758]
+2020-12-03 11:03:33,959 - alanine_test_lara - INFO - Equation for Ala is equal to: 
+ 
+0.05298 x + 0.8893
+ 
+2020-12-03 11:03:33,959 - alanine_test_lara - INFO - Equation for Ala is equal to: 
+ 
+0.05298 x + 0.8893
+ 
+2020-12-03 11:03:33,961 - alanine_test_lara - DEBUG - Calculating residuals 
+
+2020-12-03 11:03:33,961 - alanine_test_lara - DEBUG - Calculating residuals 
+
+2020-12-03 11:03:34,503 - alanine_test_lara - DEBUG - Predicting concentrations
+
+2020-12-03 11:03:34,503 - alanine_test_lara - DEBUG - Predicting concentrations
+
+2020-12-03 11:03:34,505 - alanine_test_lara - DEBUG - Trying to predict 10.614775175140396 of type <class 'float'> 
+
+2020-12-03 11:03:34,505 - alanine_test_lara - DEBUG - Trying to predict 10.614775175140396 of type <class 'float'> 
+
+2020-12-03 11:03:34,507 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.614775175140396
+
+2020-12-03 11:03:34,507 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.614775175140396
+
+2020-12-03 11:03:34,509 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.87676908033193
+
+2020-12-03 11:03:34,509 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.87676908033193
+
+2020-12-03 11:03:34,510 - alanine_test_lara - DEBUG - Trying to predict 9.885258587994503 of type <class 'float'> 
+
+2020-12-03 11:03:34,510 - alanine_test_lara - DEBUG - Trying to predict 9.885258587994503 of type <class 'float'> 
+
+2020-12-03 11:03:34,511 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.885258587994503
+
+2020-12-03 11:03:34,511 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.885258587994503
+
+2020-12-03 11:03:34,512 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.056425582224962
+
+2020-12-03 11:03:34,512 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.056425582224962
+
+2020-12-03 11:03:34,513 - alanine_test_lara - DEBUG - Trying to predict 9.91639515777614 of type <class 'float'> 
+
+2020-12-03 11:03:34,513 - alanine_test_lara - DEBUG - Trying to predict 9.91639515777614 of type <class 'float'> 
+
+2020-12-03 11:03:34,514 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.91639515777614
+
+2020-12-03 11:03:34,514 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.91639515777614
+
+2020-12-03 11:03:34,515 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.091438744398083
+
+2020-12-03 11:03:34,515 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.091438744398083
+
+2020-12-03 11:03:34,516 - alanine_test_lara - DEBUG - Trying to predict 10.058767593341088 of type <class 'float'> 
+
+2020-12-03 11:03:34,516 - alanine_test_lara - DEBUG - Trying to predict 10.058767593341088 of type <class 'float'> 
+
+2020-12-03 11:03:34,518 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.058767593341088
+
+2020-12-03 11:03:34,518 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.058767593341088
+
+2020-12-03 11:03:34,519 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.251536957219116
+
+2020-12-03 11:03:34,519 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.251536957219116
+
+2020-12-03 11:03:34,520 - alanine_test_lara - DEBUG - Trying to predict 10.551231994628894 of type <class 'float'> 
+
+2020-12-03 11:03:34,520 - alanine_test_lara - DEBUG - Trying to predict 10.551231994628894 of type <class 'float'> 
+
+2020-12-03 11:03:34,521 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.551231994628894
+
+2020-12-03 11:03:34,521 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 10.551231994628894
+
+2020-12-03 11:03:34,522 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.805314591290651
+
+2020-12-03 11:03:34,522 - alanine_test_lara - DEBUG - The calculated value is equal to: 11.805314591290651
+
+2020-12-03 11:03:34,523 - alanine_test_lara - DEBUG - Trying to predict 9.363621754317354 of type <class 'float'> 
+
+2020-12-03 11:03:34,523 - alanine_test_lara - DEBUG - Trying to predict 9.363621754317354 of type <class 'float'> 
+
+2020-12-03 11:03:34,524 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.363621754317354
+
+2020-12-03 11:03:34,524 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 9.363621754317354
+
+2020-12-03 11:03:34,525 - alanine_test_lara - DEBUG - The calculated value is equal to: 10.469843464120803
+
+2020-12-03 11:03:34,525 - alanine_test_lara - DEBUG - The calculated value is equal to: 10.469843464120803
+
+2020-12-03 11:03:34,527 - alanine_test_lara - DEBUG - Trying to predict 4.498719034876798 of type <class 'float'> 
+
+2020-12-03 11:03:34,527 - alanine_test_lara - DEBUG - Trying to predict 4.498719034876798 of type <class 'float'> 
+
+2020-12-03 11:03:34,528 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.498719034876798
+
+2020-12-03 11:03:34,528 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.498719034876798
+
+2020-12-03 11:03:34,529 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.99924637950942
+
+2020-12-03 11:03:34,529 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.99924637950942
+
+2020-12-03 11:03:34,530 - alanine_test_lara - DEBUG - Trying to predict 4.308010512279678 of type <class 'float'> 
+
+2020-12-03 11:03:34,530 - alanine_test_lara - DEBUG - Trying to predict 4.308010512279678 of type <class 'float'> 
+
+2020-12-03 11:03:34,531 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.308010512279678
+
+2020-12-03 11:03:34,531 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.308010512279678
+
+2020-12-03 11:03:34,532 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.784794097953762
+
+2020-12-03 11:03:34,532 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.784794097953762
+
+2020-12-03 11:03:34,533 - alanine_test_lara - DEBUG - Trying to predict 5.066435678495711 of type <class 'float'> 
+
+2020-12-03 11:03:34,533 - alanine_test_lara - DEBUG - Trying to predict 5.066435678495711 of type <class 'float'> 
+
+2020-12-03 11:03:34,534 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.066435678495711
+
+2020-12-03 11:03:34,534 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.066435678495711
+
+2020-12-03 11:03:34,536 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.637645376277876
+
+2020-12-03 11:03:34,536 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.637645376277876
+
+2020-12-03 11:03:34,537 - alanine_test_lara - DEBUG - Trying to predict 4.9199425242068635 of type <class 'float'> 
+
+2020-12-03 11:03:34,537 - alanine_test_lara - DEBUG - Trying to predict 4.9199425242068635 of type <class 'float'> 
+
+2020-12-03 11:03:34,538 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.9199425242068635
+
+2020-12-03 11:03:34,538 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.9199425242068635
+
+2020-12-03 11:03:34,539 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.472913403413216
+
+2020-12-03 11:03:34,539 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.472913403413216
+
+2020-12-03 11:03:34,540 - alanine_test_lara - DEBUG - Trying to predict 5.005680071901626 of type <class 'float'> 
+
+2020-12-03 11:03:34,540 - alanine_test_lara - DEBUG - Trying to predict 5.005680071901626 of type <class 'float'> 
+
+2020-12-03 11:03:34,542 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.005680071901626
+
+2020-12-03 11:03:34,542 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.005680071901626
+
+2020-12-03 11:03:34,543 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.56932552211528
+
+2020-12-03 11:03:34,543 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.56932552211528
+
+2020-12-03 11:03:34,544 - alanine_test_lara - DEBUG - Trying to predict 5.721796279817887 of type <class 'float'> 
+
+2020-12-03 11:03:34,544 - alanine_test_lara - DEBUG - Trying to predict 5.721796279817887 of type <class 'float'> 
+
+2020-12-03 11:03:34,545 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.721796279817887
+
+2020-12-03 11:03:34,545 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.721796279817887
+
+2020-12-03 11:03:34,546 - alanine_test_lara - DEBUG - The calculated value is equal to: 6.374600255279968
+
+2020-12-03 11:03:34,546 - alanine_test_lara - DEBUG - The calculated value is equal to: 6.374600255279968
+
+2020-12-03 11:03:34,548 - alanine_test_lara - DEBUG - Trying to predict 8.090909340073889 of type <class 'float'> 
+
+2020-12-03 11:03:34,548 - alanine_test_lara - DEBUG - Trying to predict 8.090909340073889 of type <class 'float'> 
+
+2020-12-03 11:03:34,549 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 8.090909340073889
+
+2020-12-03 11:03:34,549 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 8.090909340073889
+
+2020-12-03 11:03:34,550 - alanine_test_lara - DEBUG - The calculated value is equal to: 9.038674697870597
+
+2020-12-03 11:03:34,550 - alanine_test_lara - DEBUG - The calculated value is equal to: 9.038674697870597
+
+2020-12-03 11:03:34,551 - alanine_test_lara - DEBUG - Trying to predict 5.35140474643428 of type <class 'float'> 
+
+2020-12-03 11:03:34,551 - alanine_test_lara - DEBUG - Trying to predict 5.35140474643428 of type <class 'float'> 
+
+2020-12-03 11:03:34,552 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.35140474643428
+
+2020-12-03 11:03:34,552 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 5.35140474643428
+
+2020-12-03 11:03:34,554 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.958093911875404
+
+2020-12-03 11:03:34,554 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.958093911875404
+
+2020-12-03 11:03:34,555 - alanine_test_lara - DEBUG - Trying to predict 6.307890855505583 of type <class 'float'> 
+
+2020-12-03 11:03:34,555 - alanine_test_lara - DEBUG - Trying to predict 6.307890855505583 of type <class 'float'> 
+
+2020-12-03 11:03:34,556 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 6.307890855505583
+
+2020-12-03 11:03:34,556 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 6.307890855505583
+
+2020-12-03 11:03:34,558 - alanine_test_lara - DEBUG - The calculated value is equal to: 7.033665289458568
+
+2020-12-03 11:03:34,558 - alanine_test_lara - DEBUG - The calculated value is equal to: 7.033665289458568
+
+2020-12-03 11:03:34,559 - alanine_test_lara - DEBUG - Trying to predict 4.215829701044858 of type <class 'float'> 
+
+2020-12-03 11:03:34,559 - alanine_test_lara - DEBUG - Trying to predict 4.215829701044858 of type <class 'float'> 
+
+2020-12-03 11:03:34,560 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.215829701044858
+
+2020-12-03 11:03:34,560 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.215829701044858
+
+2020-12-03 11:03:34,561 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.681136510889759
+
+2020-12-03 11:03:34,561 - alanine_test_lara - DEBUG - The calculated value is equal to: 4.681136510889759
+
+2020-12-03 11:03:34,563 - alanine_test_lara - DEBUG - Trying to predict 4.791648041977868 of type <class 'float'> 
+
+2020-12-03 11:03:34,563 - alanine_test_lara - DEBUG - Trying to predict 4.791648041977868 of type <class 'float'> 
+
+2020-12-03 11:03:34,564 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.791648041977868
+
+2020-12-03 11:03:34,564 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.791648041977868
+
+2020-12-03 11:03:34,565 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.328645889563652
+
+2020-12-03 11:03:34,565 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.328645889563652
+
+2020-12-03 11:03:34,566 - alanine_test_lara - DEBUG - Trying to predict 4.760755455978541 of type <class 'float'> 
+
+2020-12-03 11:03:34,566 - alanine_test_lara - DEBUG - Trying to predict 4.760755455978541 of type <class 'float'> 
+
+2020-12-03 11:03:34,567 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.760755455978541
+
+2020-12-03 11:03:34,567 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 4.760755455978541
+
+2020-12-03 11:03:34,569 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.293907087854692
+
+2020-12-03 11:03:34,569 - alanine_test_lara - DEBUG - The calculated value is equal to: 5.293907087854692
+
+2020-12-03 11:03:34,570 - alanine_test_lara - DEBUG - Trying to predict 0.3435461719867108 of type <class 'float'> 
+
+2020-12-03 11:03:34,570 - alanine_test_lara - DEBUG - Trying to predict 0.3435461719867108 of type <class 'float'> 
+
+2020-12-03 11:03:34,572 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.3435461719867108
+
+2020-12-03 11:03:34,572 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.3435461719867108
+
+2020-12-03 11:03:34,573 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.32674255760425147
+
+2020-12-03 11:03:34,573 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.32674255760425147
+
+2020-12-03 11:03:34,574 - alanine_test_lara - DEBUG - Trying to predict 0.2602493369552735 of type <class 'float'> 
+
+2020-12-03 11:03:34,574 - alanine_test_lara - DEBUG - Trying to predict 0.2602493369552735 of type <class 'float'> 
+
+2020-12-03 11:03:34,575 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.2602493369552735
+
+2020-12-03 11:03:34,575 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.2602493369552735
+
+2020-12-03 11:03:34,576 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.23307502730413115
+
+2020-12-03 11:03:34,576 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.23307502730413115
+
+2020-12-03 11:03:34,578 - alanine_test_lara - DEBUG - Trying to predict 0.24059873060354633 of type <class 'float'> 
+
+2020-12-03 11:03:34,578 - alanine_test_lara - DEBUG - Trying to predict 0.24059873060354633 of type <class 'float'> 
+
+2020-12-03 11:03:34,579 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.24059873060354633
+
+2020-12-03 11:03:34,579 - alanine_test_lara - DEBUG - Equation is equal to:  
+0.05298 x + 0.8893
+ y_value is equal to: 0.24059873060354633
+
+2020-12-03 11:03:34,580 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.21097786400649243
+
+2020-12-03 11:03:34,580 - alanine_test_lara - DEBUG - The calculated value is equal to: 0.21097786400649243
+
+2020-12-03 11:03:34,581 - alanine_test_lara - DEBUG - Rebuilding dataframes
+
+2020-12-03 11:03:34,581 - alanine_test_lara - DEBUG - Rebuilding dataframes
+
+2020-12-03 11:03:34,731 - alanine_test_lara - INFO - Done!
+2020-12-03 11:03:34,731 - alanine_test_lara - INFO - Done!

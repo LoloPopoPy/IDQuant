@@ -1,0 +1,200 @@
+2020-12-06 18:20:15,999 - Asn_Quad_Test - INFO - ....................
+
+2020-12-06 18:20:16,016 - Asn_Quad_Test - INFO - CHOSEN PARAMETERS:
+Run name: Asn_Quad_Test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-06 18:20:16,016 - Asn_Quad_Test - INFO - ....................
+
+2020-12-06 18:20:22,433 - Asn_Quad_Test - INFO - Starting to process calculations...
+
+2020-12-06 18:20:22,445 - Asn_Quad_Test - INFO - Getting data for Asn
+
+2020-12-06 18:20:22,447 - Asn_Quad_Test - DEBUG - Checking limits for Asn
+
+2020-12-06 18:20:22,449 - Asn_Quad_Test - DEBUG - nans list: []
+2020-12-06 18:20:22,449 - Asn_Quad_Test - DEBUG - Cal dict x: [50.484408, 25.242204, 12.621102, 6.310551, 1.5776379999999999, 0.394409, 0.09860200000000001]
+ cal dict y: [231.04542714314908, 105.76840708179087, 53.24791023666412, 26.00718565666106, 6.841252558351527, 1.6546919057733438, 0.38110886937399124]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-06 18:20:22,449 - Asn_Quad_Test - DEBUG - Cal dict x: [50.484408, 25.242204, 12.621102, 6.310551, 1.5776379999999999, 0.394409, 0.09860200000000001]
+ cal dict y: [231.04542714314908, 105.76840708179087, 53.24791023666412, 26.00718565666106, 6.841252558351527, 1.6546919057733438, 0.38110886937399124]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-06 18:20:22,449 - Asn_Quad_Test - DEBUG - Performing calculations for equation
+ x=[50.484408 25.242204 12.621102  6.310551  1.577638  0.394409  0.098602] 
+ y=[231.04542714 105.76840708  53.24791024  26.00718566   6.84125256
+   1.65469191   0.38110887]
+2020-12-06 18:20:22,449 - Asn_Quad_Test - INFO - Equation for Asn is equal to: 
+         2
+0.01345 x + 3.882 x + 0.5541
+ 
+2020-12-06 18:20:22,449 - Asn_Quad_Test - DEBUG - Calculating residuals 
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Predicting concentrations
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Trying to predict 3.965727355344818 of type <class 'float'> 
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.59343349    0.8761336 ]
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.8761335977973006
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Trying to predict 3.5550663268183156 of type <class 'float'> 
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.4882518    0.7709519]
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.7709519036091381
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Trying to predict 3.244401349926046 of type <class 'float'> 
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.40863119    0.6913313 ]
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.6913313008107637
+
+2020-12-06 18:20:22,958 - Asn_Quad_Test - DEBUG - Trying to predict 3.1940448199197573 of type <class 'float'> 
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.39572116    0.67842126]
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.678421264347648
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Trying to predict 3.292008239076341 of type <class 'float'> 
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.42083524    0.70353535]
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.703535348035864
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Trying to predict 3.3813905133433604 of type <class 'float'> 
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.44374565    0.72644576]
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.7264457608114918
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Trying to predict 0.7274059680119932 of type <class 'float'> 
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88761930e+02  4.46296188e-02]
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88761930e+02  4.46296188e-02])
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Trying to predict 0.6828484494838016 of type <class 'float'> 
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88750455e+02  3.31551862e-02]
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88750455e+02  3.31551862e-02])
+
+2020-12-06 18:20:22,973 - Asn_Quad_Test - DEBUG - Trying to predict 0.8010735733286521 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88780898e+02  6.35984684e-02]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88780898e+02  6.35984684e-02])
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 0.7446716185494816 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88766376e+02  4.90756164e-02]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88766376e+02  4.90756164e-02])
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 0.8947691613994178 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88805021e+02  8.77207729e-02]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88805021e+02  8.77207729e-02])
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 0.8965451319971748 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88805478e+02  8.81779647e-02]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88805478e+02  8.81779647e-02])
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 1.903920172193062 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-289.06457575    0.34727585]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.34727585203280537
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 1.1965888245124916 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88882698e+02  1.65398080e-01]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.16539807995538805
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 1.5857363640496223 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88982789e+02  2.65488805e-01]
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.2654888046932078
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Trying to predict 1.0638722766046382 of type <class 'float'> 
+
+2020-12-06 18:20:22,989 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88848547e+02  1.31246854e-01]
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.13124685410899647
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - Trying to predict 1.2903135550511498 of type <class 'float'> 
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88906811e+02  1.89510893e-01]
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.1895108929340032
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - Trying to predict 1.1456537219078562 of type <class 'float'> 
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - Roots are equal to: [-2.88869592e+02  1.52292182e-01]
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - minimum: 0.09860200000000001
+ maximum: 50.484408
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - The calculated value is equal to: 0.1522921819863132
+
+2020-12-06 18:20:23,004 - Asn_Quad_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 18:20:23,049 - Asn_Quad_Test - INFO - Done!

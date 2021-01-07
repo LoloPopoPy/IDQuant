@@ -1,0 +1,210 @@
+2020-12-07 15:02:29,429 - P5P_lin - INFO - ....................
+
+2020-12-07 15:02:29,430 - P5P_lin - INFO - CHOSEN PARAMETERS:
+Run name: P5P_lin 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:02:29,431 - P5P_lin - INFO - ....................
+
+2020-12-07 15:02:35,093 - P5P_lin - INFO - Starting to process calculations...
+
+2020-12-07 15:02:35,094 - P5P_lin - INFO - Getting data for P5P
+
+2020-12-07 15:02:35,097 - P5P_lin - DEBUG - Checking limits for P5P
+
+2020-12-07 15:02:35,099 - P5P_lin - INFO - For P5P the value to predict (0.5711271510897967) is under range
+
+2020-12-07 15:02:35,100 - P5P_lin - INFO - For P5P the value to predict (0.5294943213032058) is under range
+
+2020-12-07 15:02:35,101 - P5P_lin - INFO - For P5P the value to predict (0.6243629194462365) is under range
+
+2020-12-07 15:02:35,101 - P5P_lin - INFO - For P5P the value to predict (0.6300498874076093) is under range
+
+2020-12-07 15:02:35,102 - P5P_lin - INFO - For P5P the value to predict (0.5948773549533263) is under range
+
+2020-12-07 15:02:35,103 - P5P_lin - INFO - For P5P the value to predict (0.5208911055198705) is under range
+
+2020-12-07 15:02:35,104 - P5P_lin - INFO - For P5P the value to predict (0.13655421404095547) is under range
+
+2020-12-07 15:02:35,104 - P5P_lin - INFO - For P5P the value to predict (0.13367282982324452) is under range
+
+2020-12-07 15:02:35,105 - P5P_lin - INFO - For P5P the value to predict (0.19992070719889057) is under range
+
+2020-12-07 15:02:35,106 - P5P_lin - INFO - For P5P the value to predict (0.17425125553810286) is under range
+
+2020-12-07 15:02:35,106 - P5P_lin - INFO - For P5P the value to predict (0.2031265052161939) is under range
+
+2020-12-07 15:02:35,106 - P5P_lin - INFO - For P5P the value to predict (0.1936921025235636) is under range
+
+2020-12-07 15:02:35,107 - P5P_lin - INFO - For P5P the value to predict (0.35690883148714975) is under range
+
+2020-12-07 15:02:35,107 - P5P_lin - INFO - For P5P the value to predict (0.20369178729656162) is under range
+
+2020-12-07 15:02:35,108 - P5P_lin - INFO - For P5P the value to predict (0.4685537654308962) is under range
+
+2020-12-07 15:02:35,108 - P5P_lin - INFO - For P5P the value to predict (0.15160798878151238) is under range
+
+2020-12-07 15:02:35,108 - P5P_lin - INFO - For P5P the value to predict (0.21220455336424676) is under range
+
+2020-12-07 15:02:35,109 - P5P_lin - INFO - For P5P the value to predict (0.2042704122775797) is under range
+
+2020-12-07 15:02:35,109 - P5P_lin - DEBUG - nans list: []
+2020-12-07 15:02:35,110 - P5P_lin - DEBUG - Cal dict x: [3289.393, 1485.3410000000001, 795.836, 357.346, 180.734, 118.35]
+ cal dict y: [41.07582388963711, 18.07731724059032, 9.287331271598937, 3.6973444221196923, 1.4458485697029595, 0.6505616421686898]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:02:35,110 - P5P_lin - DEBUG - Cal dict x: [3289.393, 1485.3410000000001, 795.836, 357.346, 180.734, 118.35]
+ cal dict y: [41.07582388963711, 18.07731724059032, 9.287331271598937, 3.6973444221196923, 1.4458485697029595, 0.6505616421686898]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:02:35,111 - P5P_lin - DEBUG - Performing calculations for equation
+ x=[3289.393 1485.341  795.836  357.346  180.734  118.35 ] 
+ y=[41.07582389 18.07731724  9.28733127  3.69734442  1.44584857  0.65056164]
+2020-12-07 15:02:35,112 - P5P_lin - INFO - Equation for P5P is equal to: 
+ 
+0.01275 x - 0.8582
+ 
+2020-12-07 15:02:35,113 - P5P_lin - DEBUG - Calculating residuals 
+
+2020-12-07 15:02:35,702 - P5P_lin - DEBUG - Predicting concentrations
+
+2020-12-07 15:02:35,703 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,704 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,704 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,705 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,706 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,707 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,707 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,708 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,709 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,709 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,710 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,710 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,711 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,711 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,711 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,712 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,712 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,713 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:02:35,714 - P5P_lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:02:35,761 - P5P_lin - INFO - Done!
+2020-12-07 15:05:29,397 - P5P_lin - INFO - Starting to process calculations...
+
+2020-12-07 15:05:29,398 - P5P_lin - INFO - Getting data for P5P
+
+2020-12-07 15:05:29,400 - P5P_lin - DEBUG - Checking limits for P5P
+
+2020-12-07 15:05:29,401 - P5P_lin - INFO - For P5P the value to predict (0.5711271510897967) is under range
+
+2020-12-07 15:05:29,402 - P5P_lin - INFO - For P5P the value to predict (0.5294943213032058) is under range
+
+2020-12-07 15:05:29,402 - P5P_lin - INFO - For P5P the value to predict (0.6243629194462365) is under range
+
+2020-12-07 15:05:29,403 - P5P_lin - INFO - For P5P the value to predict (0.6300498874076093) is under range
+
+2020-12-07 15:05:29,404 - P5P_lin - INFO - For P5P the value to predict (0.5948773549533263) is under range
+
+2020-12-07 15:05:29,404 - P5P_lin - INFO - For P5P the value to predict (0.5208911055198705) is under range
+
+2020-12-07 15:05:29,405 - P5P_lin - INFO - For P5P the value to predict (0.13655421404095547) is under range
+
+2020-12-07 15:05:29,406 - P5P_lin - INFO - For P5P the value to predict (0.13367282982324452) is under range
+
+2020-12-07 15:05:29,406 - P5P_lin - INFO - For P5P the value to predict (0.19992070719889057) is under range
+
+2020-12-07 15:05:29,407 - P5P_lin - INFO - For P5P the value to predict (0.17425125553810286) is under range
+
+2020-12-07 15:05:29,408 - P5P_lin - INFO - For P5P the value to predict (0.2031265052161939) is under range
+
+2020-12-07 15:05:29,408 - P5P_lin - INFO - For P5P the value to predict (0.1936921025235636) is under range
+
+2020-12-07 15:05:29,409 - P5P_lin - INFO - For P5P the value to predict (0.35690883148714975) is under range
+
+2020-12-07 15:05:29,409 - P5P_lin - INFO - For P5P the value to predict (0.20369178729656162) is under range
+
+2020-12-07 15:05:29,410 - P5P_lin - INFO - For P5P the value to predict (0.4685537654308962) is under range
+
+2020-12-07 15:05:29,410 - P5P_lin - INFO - For P5P the value to predict (0.15160798878151238) is under range
+
+2020-12-07 15:05:29,410 - P5P_lin - INFO - For P5P the value to predict (0.21220455336424676) is under range
+
+2020-12-07 15:05:29,411 - P5P_lin - INFO - For P5P the value to predict (0.2042704122775797) is under range
+
+2020-12-07 15:05:29,411 - P5P_lin - DEBUG - nans list: []
+2020-12-07 15:05:29,412 - P5P_lin - DEBUG - Cal dict x: [3289.393, 1485.3410000000001, 795.836, 357.346, 180.734, 118.35]
+ cal dict y: [41.07582388963711, 18.07731724059032, 9.287331271598937, 3.6973444221196923, 1.4458485697029595, 0.6505616421686898]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:05:29,412 - P5P_lin - DEBUG - Cal dict x: [3289.393, 1485.3410000000001, 795.836, 357.346, 180.734, 118.35]
+ cal dict y: [41.07582388963711, 18.07731724059032, 9.287331271598937, 3.6973444221196923, 1.4458485697029595, 0.6505616421686898]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:05:29,414 - P5P_lin - DEBUG - Performing calculations for equation
+ x=[3289.393 1485.341  795.836  357.346  180.734  118.35 ] 
+ y=[41.07582389 18.07731724  9.28733127  3.69734442  1.44584857  0.65056164]
+2020-12-07 15:05:29,415 - P5P_lin - INFO - Equation for P5P is equal to: 
+            2
+-3.079e-12 x + 0.01275 x - 0.8582
+ 
+2020-12-07 15:05:29,416 - P5P_lin - DEBUG - Calculating residuals 
+
+2020-12-07 15:05:30,002 - P5P_lin - DEBUG - Predicting concentrations
+
+2020-12-07 15:05:30,002 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,003 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,004 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,005 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,005 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,006 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,006 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,006 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,007 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,007 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,008 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,008 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,008 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,009 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,009 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,010 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,010 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,011 - P5P_lin - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:05:30,011 - P5P_lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:05:30,053 - P5P_lin - INFO - Done!

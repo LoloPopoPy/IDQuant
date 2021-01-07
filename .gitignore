@@ -1,2 +1,4 @@
-/test_data/
 /doc/_build/
+/.ipynb_checkpoints/
+/.spyproject/
+/.vscode/

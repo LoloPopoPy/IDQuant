@@ -1,0 +1,300 @@
+2020-12-07 15:24:58,270 - fum_test - INFO - ....................
+
+2020-12-07 15:24:58,271 - fum_test - INFO - CHOSEN PARAMETERS:
+Run name: fum_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:24:58,272 - fum_test - INFO - ....................
+
+2020-12-07 15:25:04,566 - fum_test - INFO - Starting to process calculations...
+
+2020-12-07 15:25:04,568 - fum_test - INFO - Getting data for Fum
+
+2020-12-07 15:25:04,572 - fum_test - DEBUG - Checking limits for Fum
+
+2020-12-07 15:25:04,573 - fum_test - DEBUG - nans list: []
+2020-12-07 15:25:04,574 - fum_test - DEBUG - Cal dict x: [3162.595, 1710.066, 992.812, 431.50300000000004, 187.81799999999998, 95.206]
+ cal dict y: [20.777434734809432, 11.23715127611622, 6.526228147701063, 2.839523940331307, 1.238992739069983, 0.6307235567172923]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:25:04,575 - fum_test - DEBUG - Cal dict x: [3162.595, 1710.066, 992.812, 431.50300000000004, 187.81799999999998, 95.206]
+ cal dict y: [20.777434734809432, 11.23715127611622, 6.526228147701063, 2.839523940331307, 1.238992739069983, 0.6307235567172923]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:25:04,576 - fum_test - DEBUG - Performing calculations for equation
+ x=[3162.595 1710.066  992.812  431.503  187.818   95.206] 
+ y=[20.77743473 11.23715128  6.52622815  2.83952394  1.23899274  0.63072356]
+2020-12-07 15:25:04,579 - fum_test - INFO - Equation for Fum is equal to: 
+ 
+0.006568 x + 0.0054
+ 
+2020-12-07 15:25:04,580 - fum_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:25:05,160 - fum_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:25:05,161 - fum_test - DEBUG - Trying to predict 6.897024443108111 of type <class 'float'> 
+
+2020-12-07 15:25:05,162 - fum_test - DEBUG - The calculated value is equal to: 1049.2677000752099
+
+2020-12-07 15:25:05,162 - fum_test - DEBUG - Trying to predict 6.549353772446194 of type <class 'float'> 
+
+2020-12-07 15:25:05,163 - fum_test - DEBUG - The calculated value is equal to: 996.3339383532199
+
+2020-12-07 15:25:05,164 - fum_test - DEBUG - Trying to predict 5.759586366057163 of type <class 'float'> 
+
+2020-12-07 15:25:05,164 - fum_test - DEBUG - The calculated value is equal to: 876.0898014923241
+
+2020-12-07 15:25:05,164 - fum_test - DEBUG - Trying to predict 7.390505169540679 of type <class 'float'> 
+
+2020-12-07 15:25:05,165 - fum_test - DEBUG - The calculated value is equal to: 1124.4014211269273
+
+2020-12-07 15:25:05,165 - fum_test - DEBUG - Trying to predict 6.044232864629274 of type <class 'float'> 
+
+2020-12-07 15:25:05,166 - fum_test - DEBUG - The calculated value is equal to: 919.4279694825334
+
+2020-12-07 15:25:05,166 - fum_test - DEBUG - Trying to predict 6.079791971570642 of type <class 'float'> 
+
+2020-12-07 15:25:05,167 - fum_test - DEBUG - The calculated value is equal to: 924.8419357808626
+
+2020-12-07 15:25:05,167 - fum_test - DEBUG - Trying to predict 5.235433655453815 of type <class 'float'> 
+
+2020-12-07 15:25:05,168 - fum_test - DEBUG - The calculated value is equal to: 796.2861912648943
+
+2020-12-07 15:25:05,168 - fum_test - DEBUG - Trying to predict 3.6431631968258884 of type <class 'float'> 
+
+2020-12-07 15:25:05,169 - fum_test - DEBUG - The calculated value is equal to: 553.8588824168183
+
+2020-12-07 15:25:05,169 - fum_test - DEBUG - Trying to predict 4.8896300030991116 of type <class 'float'> 
+
+2020-12-07 15:25:05,170 - fum_test - DEBUG - The calculated value is equal to: 743.6366879245979
+
+2020-12-07 15:25:05,170 - fum_test - DEBUG - Trying to predict 5.211333106098455 of type <class 'float'> 
+
+2020-12-07 15:25:05,171 - fum_test - DEBUG - The calculated value is equal to: 792.6168200909702
+
+2020-12-07 15:25:05,171 - fum_test - DEBUG - Trying to predict 5.4483483740828875 of type <class 'float'> 
+
+2020-12-07 15:25:05,172 - fum_test - DEBUG - The calculated value is equal to: 828.703009633722
+
+2020-12-07 15:25:05,172 - fum_test - DEBUG - Trying to predict 4.523734728703926 of type <class 'float'> 
+
+2020-12-07 15:25:05,173 - fum_test - DEBUG - The calculated value is equal to: 687.9281829961768
+
+2020-12-07 15:25:05,173 - fum_test - DEBUG - Trying to predict 8.429145755225381 of type <class 'float'> 
+
+2020-12-07 15:25:05,174 - fum_test - DEBUG - The calculated value is equal to: 1282.5371452958639
+
+2020-12-07 15:25:05,174 - fum_test - DEBUG - Trying to predict 3.789453466657211 of type <class 'float'> 
+
+2020-12-07 15:25:05,174 - fum_test - DEBUG - The calculated value is equal to: 576.1319555833122
+
+2020-12-07 15:25:05,175 - fum_test - DEBUG - Trying to predict 7.751887078499274 of type <class 'float'> 
+
+2020-12-07 15:25:05,175 - fum_test - DEBUG - The calculated value is equal to: 1179.4227544566343
+
+2020-12-07 15:25:05,176 - fum_test - DEBUG - Trying to predict 3.4535354171291863 of type <class 'float'> 
+
+2020-12-07 15:25:05,176 - fum_test - DEBUG - The calculated value is equal to: 524.9875609239101
+
+2020-12-07 15:25:05,176 - fum_test - DEBUG - Trying to predict 4.500655507310218 of type <class 'float'> 
+
+2020-12-07 15:25:05,177 - fum_test - DEBUG - The calculated value is equal to: 684.414311654491
+
+2020-12-07 15:25:05,177 - fum_test - DEBUG - Trying to predict 3.4596813171699705 of type <class 'float'> 
+
+2020-12-07 15:25:05,178 - fum_test - DEBUG - The calculated value is equal to: 525.9232901521095
+
+2020-12-07 15:25:05,179 - fum_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:25:05,219 - fum_test - INFO - Done!
+2020-12-07 15:25:51,614 - fum_test - INFO - Starting to process calculations...
+
+2020-12-07 15:25:51,616 - fum_test - INFO - Getting data for Fum
+
+2020-12-07 15:25:51,618 - fum_test - DEBUG - Checking limits for Fum
+
+2020-12-07 15:25:51,619 - fum_test - DEBUG - nans list: []
+2020-12-07 15:25:51,620 - fum_test - DEBUG - Cal dict x: [3162.595, 1710.066, 992.812, 431.50300000000004, 187.81799999999998, 95.206]
+ cal dict y: [20.777434734809432, 11.23715127611622, 6.526228147701063, 2.839523940331307, 1.238992739069983, 0.6307235567172923]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:25:51,621 - fum_test - DEBUG - Cal dict x: [3162.595, 1710.066, 992.812, 431.50300000000004, 187.81799999999998, 95.206]
+ cal dict y: [20.777434734809432, 11.23715127611622, 6.526228147701063, 2.839523940331307, 1.238992739069983, 0.6307235567172923]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:25:51,622 - fum_test - DEBUG - Performing calculations for equation
+ x=[3162.595 1710.066  992.812  431.503  187.818   95.206] 
+ y=[20.77743473 11.23715128  6.52622815  2.83952394  1.23899274  0.63072356]
+2020-12-07 15:25:51,625 - fum_test - INFO - Equation for Fum is equal to: 
+           2
+6.077e-12 x + 0.006568 x + 0.005407
+ 
+2020-12-07 15:25:51,626 - fum_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:25:52,223 - fum_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:25:52,225 - fum_test - DEBUG - Trying to predict 6.897024443108111 of type <class 'float'> 
+
+2020-12-07 15:25:52,226 - fum_test - DEBUG - Roots are equal to: [-1.08074804e+09  1.04926872e+03]
+
+2020-12-07 15:25:52,227 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,228 - fum_test - DEBUG - The calculated value is equal to: 1049.268721847208
+
+2020-12-07 15:25:52,229 - fum_test - DEBUG - Trying to predict 6.549353772446194 of type <class 'float'> 
+
+2020-12-07 15:25:52,230 - fum_test - DEBUG - Roots are equal to: [-1.08074799e+09  9.96334903e+02]
+
+2020-12-07 15:25:52,231 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,231 - fum_test - DEBUG - The calculated value is equal to: 996.3349034066
+
+2020-12-07 15:25:52,232 - fum_test - DEBUG - Trying to predict 5.759586366057163 of type <class 'float'> 
+
+2020-12-07 15:25:52,233 - fum_test - DEBUG - Roots are equal to: [-1.08074787e+09  8.76090618e+02]
+
+2020-12-07 15:25:52,235 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,235 - fum_test - DEBUG - The calculated value is equal to: 876.0906184360825
+
+2020-12-07 15:25:52,236 - fum_test - DEBUG - Trying to predict 7.390505169540679 of type <class 'float'> 
+
+2020-12-07 15:25:52,237 - fum_test - DEBUG - Roots are equal to: [-1.08074812e+09  1.12440251e+03]
+
+2020-12-07 15:25:52,238 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,239 - fum_test - DEBUG - The calculated value is equal to: 1124.4025145015644
+
+2020-12-07 15:25:52,239 - fum_test - DEBUG - Trying to predict 6.044232864629274 of type <class 'float'> 
+
+2020-12-07 15:25:52,240 - fum_test - DEBUG - Roots are equal to: [-1.08074791e+09  9.19428843e+02]
+
+2020-12-07 15:25:52,240 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,241 - fum_test - DEBUG - The calculated value is equal to: 919.428842891633
+
+2020-12-07 15:25:52,241 - fum_test - DEBUG - Trying to predict 6.079791971570642 of type <class 'float'> 
+
+2020-12-07 15:25:52,242 - fum_test - DEBUG - Roots are equal to: [-1.08074792e+09  9.24842816e+02]
+
+2020-12-07 15:25:52,243 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,243 - fum_test - DEBUG - The calculated value is equal to: 924.8428159996015
+
+2020-12-07 15:25:52,244 - fum_test - DEBUG - Trying to predict 5.235433655453815 of type <class 'float'> 
+
+2020-12-07 15:25:52,244 - fum_test - DEBUG - Roots are equal to: [-1.08074779e+09  7.96286895e+02]
+
+2020-12-07 15:25:52,245 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,245 - fum_test - DEBUG - The calculated value is equal to: 796.2868951395099
+
+2020-12-07 15:25:52,246 - fum_test - DEBUG - Trying to predict 3.6431631968258884 of type <class 'float'> 
+
+2020-12-07 15:25:52,247 - fum_test - DEBUG - Roots are equal to: [-1.08074754e+09  5.53859171e+02]
+
+2020-12-07 15:25:52,248 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,248 - fum_test - DEBUG - The calculated value is equal to: 553.8591705289056
+
+2020-12-07 15:25:52,248 - fum_test - DEBUG - Trying to predict 4.8896300030991116 of type <class 'float'> 
+
+2020-12-07 15:25:52,249 - fum_test - DEBUG - Roots are equal to: [-1.08074773e+09  7.43637311e+02]
+
+2020-12-07 15:25:52,250 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,250 - fum_test - DEBUG - The calculated value is equal to: 743.6373107505868
+
+2020-12-07 15:25:52,251 - fum_test - DEBUG - Trying to predict 5.211333106098455 of type <class 'float'> 
+
+2020-12-07 15:25:52,253 - fum_test - DEBUG - Roots are equal to: [-1.08074778e+09  7.92617518e+02]
+
+2020-12-07 15:25:52,256 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,257 - fum_test - DEBUG - The calculated value is equal to: 792.6175184832553
+
+2020-12-07 15:25:52,258 - fum_test - DEBUG - Trying to predict 5.4483483740828875 of type <class 'float'> 
+
+2020-12-07 15:25:52,259 - fum_test - DEBUG - Roots are equal to: [-1.08074782e+09  8.28703761e+02]
+
+2020-12-07 15:25:52,260 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,261 - fum_test - DEBUG - The calculated value is equal to: 828.7037608592223
+
+2020-12-07 15:25:52,261 - fum_test - DEBUG - Trying to predict 4.523734728703926 of type <class 'float'> 
+
+2020-12-07 15:25:52,262 - fum_test - DEBUG - Roots are equal to: [-1.08074768e+09  6.87928714e+02]
+
+2020-12-07 15:25:52,263 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,263 - fum_test - DEBUG - The calculated value is equal to: 687.9287144790493
+
+2020-12-07 15:25:52,264 - fum_test - DEBUG - Trying to predict 8.429145755225381 of type <class 'float'> 
+
+2020-12-07 15:25:52,265 - fum_test - DEBUG - Roots are equal to: [-1.08074827e+09  1.28253836e+03]
+
+2020-12-07 15:25:52,265 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,265 - fum_test - DEBUG - The calculated value is equal to: 1282.5383552421251
+
+2020-12-07 15:25:52,266 - fum_test - DEBUG - Trying to predict 3.789453466657211 of type <class 'float'> 
+
+2020-12-07 15:25:52,267 - fum_test - DEBUG - Roots are equal to: [-1.08074757e+09  5.76132286e+02]
+
+2020-12-07 15:25:52,267 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,268 - fum_test - DEBUG - The calculated value is equal to: 576.1322864308528
+
+2020-12-07 15:25:52,268 - fum_test - DEBUG - Trying to predict 7.751887078499274 of type <class 'float'> 
+
+2020-12-07 15:25:52,269 - fum_test - DEBUG - Roots are equal to: [-1.08074817e+09  1.17942389e+03]
+
+2020-12-07 15:25:52,269 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,270 - fum_test - DEBUG - The calculated value is equal to: 1179.4238936404975
+
+2020-12-07 15:25:52,270 - fum_test - DEBUG - Trying to predict 3.4535354171291863 of type <class 'float'> 
+
+2020-12-07 15:25:52,271 - fum_test - DEBUG - Roots are equal to: [-1.08074752e+09  5.24987792e+02]
+
+2020-12-07 15:25:52,271 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,272 - fum_test - DEBUG - The calculated value is equal to: 524.9877922741663
+
+2020-12-07 15:25:52,272 - fum_test - DEBUG - Trying to predict 4.500655507310218 of type <class 'float'> 
+
+2020-12-07 15:25:52,273 - fum_test - DEBUG - Roots are equal to: [-1.08074768e+09  6.84414837e+02]
+
+2020-12-07 15:25:52,274 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,274 - fum_test - DEBUG - The calculated value is equal to: 684.4148371832501
+
+2020-12-07 15:25:52,274 - fum_test - DEBUG - Trying to predict 3.4596813171699705 of type <class 'float'> 
+
+2020-12-07 15:25:52,275 - fum_test - DEBUG - Roots are equal to: [-1.08074752e+09  5.25923523e+02]
+
+2020-12-07 15:25:52,276 - fum_test - DEBUG - minimum: 95.206
+ maximum: 3162.595
+
+2020-12-07 15:25:52,276 - fum_test - DEBUG - The calculated value is equal to: 525.9235233662229
+
+2020-12-07 15:25:52,276 - fum_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:25:52,317 - fum_test - INFO - Done!

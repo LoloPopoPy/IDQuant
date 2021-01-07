@@ -1,0 +1,300 @@
+2020-12-07 14:46:01,293 - G6P_Lin - INFO - ....................
+
+2020-12-07 14:46:01,294 - G6P_Lin - INFO - CHOSEN PARAMETERS:
+Run name: G6P_Lin 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 14:46:01,294 - G6P_Lin - INFO - ....................
+
+2020-12-07 14:46:17,097 - G6P_Lin - INFO - Starting to process calculations...
+
+2020-12-07 14:46:17,106 - G6P_Lin - INFO - Getting data for G6P
+
+2020-12-07 14:46:17,111 - G6P_Lin - DEBUG - Checking limits for G6P
+
+2020-12-07 14:46:17,112 - G6P_Lin - DEBUG - nans list: []
+2020-12-07 14:46:17,113 - G6P_Lin - DEBUG - Cal dict x: [2101.153, 1062.181, 582.321, 266.92, 120.87899999999999, 68.045]
+ cal dict y: [1.8295066490444585, 0.9143252600876697, 0.4916396658586257, 0.21381780638272188, 0.08517641538208864, 0.03863810491783563]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:46:17,114 - G6P_Lin - DEBUG - Cal dict x: [2101.153, 1062.181, 582.321, 266.92, 120.87899999999999, 68.045]
+ cal dict y: [1.8295066490444585, 0.9143252600876697, 0.4916396658586257, 0.21381780638272188, 0.08517641538208864, 0.03863810491783563]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:46:17,115 - G6P_Lin - DEBUG - Performing calculations for equation
+ x=[2101.153 1062.181  582.321  266.92   120.879   68.045] 
+ y=[1.82950665 0.91432526 0.49163967 0.21381781 0.08517642 0.0386381 ]
+2020-12-07 14:46:17,179 - G6P_Lin - INFO - Equation for G6P is equal to: 
+ 
+0.0008809 x - 0.0213
+ 
+2020-12-07 14:46:17,180 - G6P_Lin - DEBUG - Calculating residuals 
+
+2020-12-07 14:46:17,868 - G6P_Lin - DEBUG - Predicting concentrations
+
+2020-12-07 14:46:17,869 - G6P_Lin - DEBUG - Trying to predict 0.8848117793461687 of type <class 'float'> 
+
+2020-12-07 14:46:17,870 - G6P_Lin - DEBUG - The calculated value is equal to: 1028.6752972958218
+
+2020-12-07 14:46:17,870 - G6P_Lin - DEBUG - Trying to predict 0.9261496950983076 of type <class 'float'> 
+
+2020-12-07 14:46:17,871 - G6P_Lin - DEBUG - The calculated value is equal to: 1075.6047270798542
+
+2020-12-07 14:46:17,872 - G6P_Lin - DEBUG - Trying to predict 0.7069871971877696 of type <class 'float'> 
+
+2020-12-07 14:46:17,872 - G6P_Lin - DEBUG - The calculated value is equal to: 826.7975274460994
+
+2020-12-07 14:46:17,873 - G6P_Lin - DEBUG - Trying to predict 0.8320865612275229 of type <class 'float'> 
+
+2020-12-07 14:46:17,873 - G6P_Lin - DEBUG - The calculated value is equal to: 968.8182779825353
+
+2020-12-07 14:46:17,874 - G6P_Lin - DEBUG - Trying to predict 0.8193959608998264 of type <class 'float'> 
+
+2020-12-07 14:46:17,875 - G6P_Lin - DEBUG - The calculated value is equal to: 954.411101758005
+
+2020-12-07 14:46:17,875 - G6P_Lin - DEBUG - Trying to predict 0.6993434159809119 of type <class 'float'> 
+
+2020-12-07 14:46:17,876 - G6P_Lin - DEBUG - The calculated value is equal to: 818.1198211102841
+
+2020-12-07 14:46:17,876 - G6P_Lin - DEBUG - Trying to predict 0.5305458547460457 of type <class 'float'> 
+
+2020-12-07 14:46:17,876 - G6P_Lin - DEBUG - The calculated value is equal to: 626.4900992543218
+
+2020-12-07 14:46:17,877 - G6P_Lin - DEBUG - Trying to predict 0.596717545230388 of type <class 'float'> 
+
+2020-12-07 14:46:17,877 - G6P_Lin - DEBUG - The calculated value is equal to: 701.6124087799295
+
+2020-12-07 14:46:17,878 - G6P_Lin - DEBUG - Trying to predict 0.7753237477718607 of type <class 'float'> 
+
+2020-12-07 14:46:17,879 - G6P_Lin - DEBUG - The calculated value is equal to: 904.3775237755746
+
+2020-12-07 14:46:17,879 - G6P_Lin - DEBUG - Trying to predict 0.6136065475161666 of type <class 'float'> 
+
+2020-12-07 14:46:17,879 - G6P_Lin - DEBUG - The calculated value is equal to: 720.7858777967317
+
+2020-12-07 14:46:17,880 - G6P_Lin - DEBUG - Trying to predict 0.6200412396625826 of type <class 'float'> 
+
+2020-12-07 14:46:17,880 - G6P_Lin - DEBUG - The calculated value is equal to: 728.0909493701931
+
+2020-12-07 14:46:17,881 - G6P_Lin - DEBUG - Trying to predict 0.5594843356247857 of type <class 'float'> 
+
+2020-12-07 14:46:17,881 - G6P_Lin - DEBUG - The calculated value is equal to: 659.3429023467256
+
+2020-12-07 14:46:17,881 - G6P_Lin - DEBUG - Trying to predict 1.2206123048567812 of type <class 'float'> 
+
+2020-12-07 14:46:17,882 - G6P_Lin - DEBUG - The calculated value is equal to: 1409.897400458488
+
+2020-12-07 14:46:17,882 - G6P_Lin - DEBUG - Trying to predict 0.7146582667055612 of type <class 'float'> 
+
+2020-12-07 14:46:17,883 - G6P_Lin - DEBUG - The calculated value is equal to: 835.5062132071856
+
+2020-12-07 14:46:17,884 - G6P_Lin - DEBUG - Trying to predict 1.1559576879376872 of type <class 'float'> 
+
+2020-12-07 14:46:17,884 - G6P_Lin - DEBUG - The calculated value is equal to: 1336.4973692834485
+
+2020-12-07 14:46:17,885 - G6P_Lin - DEBUG - Trying to predict 0.5516688087979088 of type <class 'float'> 
+
+2020-12-07 14:46:17,888 - G6P_Lin - DEBUG - The calculated value is equal to: 650.4702194653164
+
+2020-12-07 14:46:17,890 - G6P_Lin - DEBUG - Trying to predict 0.5469910263319288 of type <class 'float'> 
+
+2020-12-07 14:46:17,890 - G6P_Lin - DEBUG - The calculated value is equal to: 645.1597034465974
+
+2020-12-07 14:46:17,891 - G6P_Lin - DEBUG - Trying to predict 0.54956682402447 of type <class 'float'> 
+
+2020-12-07 14:46:17,892 - G6P_Lin - DEBUG - The calculated value is equal to: 648.0839127288162
+
+2020-12-07 14:46:17,892 - G6P_Lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 14:46:18,667 - G6P_Lin - INFO - Done!
+2020-12-07 14:47:32,950 - G6P_Lin - INFO - Starting to process calculations...
+
+2020-12-07 14:47:32,952 - G6P_Lin - INFO - Getting data for G6P
+
+2020-12-07 14:47:32,954 - G6P_Lin - DEBUG - Checking limits for G6P
+
+2020-12-07 14:47:32,955 - G6P_Lin - DEBUG - nans list: []
+2020-12-07 14:47:32,956 - G6P_Lin - DEBUG - Cal dict x: [2101.153, 1062.181, 582.321, 266.92, 120.87899999999999, 68.045]
+ cal dict y: [1.8295066490444585, 0.9143252600876697, 0.4916396658586257, 0.21381780638272188, 0.08517641538208864, 0.03863810491783563]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:47:32,957 - G6P_Lin - DEBUG - Cal dict x: [2101.153, 1062.181, 582.321, 266.92, 120.87899999999999, 68.045]
+ cal dict y: [1.8295066490444585, 0.9143252600876697, 0.4916396658586257, 0.21381780638272188, 0.08517641538208864, 0.03863810491783563]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:47:32,958 - G6P_Lin - DEBUG - Performing calculations for equation
+ x=[2101.153 1062.181  582.321  266.92   120.879   68.045] 
+ y=[1.82950665 0.91432526 0.49163967 0.21381781 0.08517642 0.0386381 ]
+2020-12-07 14:47:32,964 - G6P_Lin - INFO - Equation for G6P is equal to: 
+           2
+-1.52e-13 x + 0.0008809 x - 0.0213
+ 
+2020-12-07 14:47:32,964 - G6P_Lin - DEBUG - Calculating residuals 
+
+2020-12-07 14:47:33,587 - G6P_Lin - DEBUG - Predicting concentrations
+
+2020-12-07 14:47:33,587 - G6P_Lin - DEBUG - Trying to predict 0.8848117793461687 of type <class 'float'> 
+
+2020-12-07 14:47:33,588 - G6P_Lin - DEBUG - Roots are equal to: [5.79655553e+09 1.02867519e+03]
+
+2020-12-07 14:47:33,589 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,590 - G6P_Lin - DEBUG - The calculated value is equal to: 1028.6751863920874
+
+2020-12-07 14:47:33,590 - G6P_Lin - DEBUG - Trying to predict 0.9261496950983076 of type <class 'float'> 
+
+2020-12-07 14:47:33,591 - G6P_Lin - DEBUG - Roots are equal to: [5.79655549e+09 1.07560462e+03]
+
+2020-12-07 14:47:33,592 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,593 - G6P_Lin - DEBUG - The calculated value is equal to: 1075.6046158189165
+
+2020-12-07 14:47:33,593 - G6P_Lin - DEBUG - Trying to predict 0.7069871971877696 of type <class 'float'> 
+
+2020-12-07 14:47:33,594 - G6P_Lin - DEBUG - Roots are equal to: [5.79655573e+09 8.26797427e+02]
+
+2020-12-07 14:47:33,595 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,596 - G6P_Lin - DEBUG - The calculated value is equal to: 826.797426744216
+
+2020-12-07 14:47:33,596 - G6P_Lin - DEBUG - Trying to predict 0.8320865612275229 of type <class 'float'> 
+
+2020-12-07 14:47:33,597 - G6P_Lin - DEBUG - Roots are equal to: [5.79655559e+09 9.68818169e+02]
+
+2020-12-07 14:47:33,598 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,598 - G6P_Lin - DEBUG - The calculated value is equal to: 968.8181686371128
+
+2020-12-07 14:47:33,598 - G6P_Lin - DEBUG - Trying to predict 0.8193959608998264 of type <class 'float'> 
+
+2020-12-07 14:47:33,599 - G6P_Lin - DEBUG - Roots are equal to: [5.79655561e+09 9.54410993e+02]
+
+2020-12-07 14:47:33,600 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,600 - G6P_Lin - DEBUG - The calculated value is equal to: 954.4109929722389
+
+2020-12-07 14:47:33,601 - G6P_Lin - DEBUG - Trying to predict 0.6993434159809119 of type <class 'float'> 
+
+2020-12-07 14:47:33,602 - G6P_Lin - DEBUG - Roots are equal to: [5.79655574e+09 8.18119721e+02]
+
+2020-12-07 14:47:33,602 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,603 - G6P_Lin - DEBUG - The calculated value is equal to: 818.1197211621376
+
+2020-12-07 14:47:33,603 - G6P_Lin - DEBUG - Trying to predict 0.5305458547460457 of type <class 'float'> 
+
+2020-12-07 14:47:33,604 - G6P_Lin - DEBUG - Roots are equal to: [5.79655593e+09 6.26490023e+02]
+
+2020-12-07 14:47:33,605 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,605 - G6P_Lin - DEBUG - The calculated value is equal to: 626.490022572958
+
+2020-12-07 14:47:33,606 - G6P_Lin - DEBUG - Trying to predict 0.596717545230388 of type <class 'float'> 
+
+2020-12-07 14:47:33,607 - G6P_Lin - DEBUG - Roots are equal to: [5.79655586e+09 7.01612321e+02]
+
+2020-12-07 14:47:33,608 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,608 - G6P_Lin - DEBUG - The calculated value is equal to: 701.6123214676524
+
+2020-12-07 14:47:33,609 - G6P_Lin - DEBUG - Trying to predict 0.7753237477718607 of type <class 'float'> 
+
+2020-12-07 14:47:33,609 - G6P_Lin - DEBUG - Roots are equal to: [5.79655566e+09 9.04377417e+02]
+
+2020-12-07 14:47:33,610 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,611 - G6P_Lin - DEBUG - The calculated value is equal to: 904.3774174896243
+
+2020-12-07 14:47:33,611 - G6P_Lin - DEBUG - Trying to predict 0.6136065475161666 of type <class 'float'> 
+
+2020-12-07 14:47:33,612 - G6P_Lin - DEBUG - Roots are equal to: [5.79655584e+09 7.20785788e+02]
+
+2020-12-07 14:47:33,613 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,614 - G6P_Lin - DEBUG - The calculated value is equal to: 720.7857880830315
+
+2020-12-07 14:47:33,614 - G6P_Lin - DEBUG - Trying to predict 0.6200412396625826 of type <class 'float'> 
+
+2020-12-07 14:47:33,616 - G6P_Lin - DEBUG - Roots are equal to: [5.79655583e+09 7.28090859e+02]
+
+2020-12-07 14:47:33,617 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,618 - G6P_Lin - DEBUG - The calculated value is equal to: 728.0908587749228
+
+2020-12-07 14:47:33,619 - G6P_Lin - DEBUG - Trying to predict 0.5594843356247857 of type <class 'float'> 
+
+2020-12-07 14:47:33,622 - G6P_Lin - DEBUG - Roots are equal to: [5.79655590e+09 6.59342821e+02]
+
+2020-12-07 14:47:33,623 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,624 - G6P_Lin - DEBUG - The calculated value is equal to: 659.342820776638
+
+2020-12-07 14:47:33,625 - G6P_Lin - DEBUG - Trying to predict 1.2206123048567812 of type <class 'float'> 
+
+2020-12-07 14:47:33,626 - G6P_Lin - DEBUG - Roots are equal to: [5.79655515e+09 1.40989731e+03]
+
+2020-12-07 14:47:33,627 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,627 - G6P_Lin - DEBUG - The calculated value is equal to: 1409.897308638515
+
+2020-12-07 14:47:33,628 - G6P_Lin - DEBUG - Trying to predict 0.7146582667055612 of type <class 'float'> 
+
+2020-12-07 14:47:33,629 - G6P_Lin - DEBUG - Roots are equal to: [5.79655573e+09 8.35506112e+02]
+
+2020-12-07 14:47:33,629 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,630 - G6P_Lin - DEBUG - The calculated value is equal to: 835.5061117749952
+
+2020-12-07 14:47:33,630 - G6P_Lin - DEBUG - Trying to predict 1.1559576879376872 of type <class 'float'> 
+
+2020-12-07 14:47:33,631 - G6P_Lin - DEBUG - Roots are equal to: [5.79655522e+09 1.33649727e+03]
+
+2020-12-07 14:47:33,632 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,632 - G6P_Lin - DEBUG - The calculated value is equal to: 1336.4972698912525
+
+2020-12-07 14:47:33,632 - G6P_Lin - DEBUG - Trying to predict 0.5516688087979088 of type <class 'float'> 
+
+2020-12-07 14:47:33,633 - G6P_Lin - DEBUG - Roots are equal to: [5.79655591e+09 6.50470139e+02]
+
+2020-12-07 14:47:33,634 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,635 - G6P_Lin - DEBUG - The calculated value is equal to: 650.4701391788392
+
+2020-12-07 14:47:33,637 - G6P_Lin - DEBUG - Trying to predict 0.5469910263319288 of type <class 'float'> 
+
+2020-12-07 14:47:33,640 - G6P_Lin - DEBUG - Roots are equal to: [5.79655592e+09 6.45159624e+02]
+
+2020-12-07 14:47:33,642 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,643 - G6P_Lin - DEBUG - The calculated value is equal to: 645.1596239413863
+
+2020-12-07 14:47:33,644 - G6P_Lin - DEBUG - Trying to predict 0.54956682402447 of type <class 'float'> 
+
+2020-12-07 14:47:33,645 - G6P_Lin - DEBUG - Roots are equal to: [5.79655591e+09 6.48083833e+02]
+
+2020-12-07 14:47:33,646 - G6P_Lin - DEBUG - minimum: 68.045
+ maximum: 2101.153
+
+2020-12-07 14:47:33,647 - G6P_Lin - DEBUG - The calculated value is equal to: 648.0838327922011
+
+2020-12-07 14:47:33,647 - G6P_Lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 14:47:33,688 - G6P_Lin - INFO - Done!

@@ -1,0 +1,300 @@
+2020-12-07 15:38:44,047 - 2_3-PG_test - INFO - ....................
+
+2020-12-07 15:38:44,048 - 2_3-PG_test - INFO - CHOSEN PARAMETERS:
+Run name: 2_3-PG_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:38:44,050 - 2_3-PG_test - INFO - ....................
+
+2020-12-07 15:38:54,874 - 2_3-PG_test - INFO - Starting to process calculations...
+
+2020-12-07 15:38:54,876 - 2_3-PG_test - INFO - Getting data for 2_3-PG
+
+2020-12-07 15:38:54,877 - 2_3-PG_test - DEBUG - Checking limits for 2_3-PG
+
+2020-12-07 15:38:54,879 - 2_3-PG_test - DEBUG - nans list: []
+2020-12-07 15:38:54,880 - 2_3-PG_test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:38:54,880 - 2_3-PG_test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:38:54,881 - 2_3-PG_test - DEBUG - Performing calculations for equation
+ x=[4128.907 2034.728 1190.326  567.859  236.386  122.295] 
+ y=[16.00599456  7.91219364  4.64865982  2.24288747  0.96177308  0.52082091]
+2020-12-07 15:38:54,883 - 2_3-PG_test - INFO - Equation for 2_3-PG is equal to: 
+ 
+0.003865 x + 0.04816
+ 
+2020-12-07 15:38:54,884 - 2_3-PG_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:38:55,518 - 2_3-PG_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:38:55,518 - 2_3-PG_test - DEBUG - Trying to predict 2.131552099764514 of type <class 'float'> 
+
+2020-12-07 15:38:55,519 - 2_3-PG_test - DEBUG - The calculated value is equal to: 539.0529068482458
+
+2020-12-07 15:38:55,520 - 2_3-PG_test - DEBUG - Trying to predict 1.8110396979606167 of type <class 'float'> 
+
+2020-12-07 15:38:55,520 - 2_3-PG_test - DEBUG - The calculated value is equal to: 456.12397217557634
+
+2020-12-07 15:38:55,522 - 2_3-PG_test - DEBUG - Trying to predict 2.1765641955491457 of type <class 'float'> 
+
+2020-12-07 15:38:55,522 - 2_3-PG_test - DEBUG - The calculated value is equal to: 550.6992741332396
+
+2020-12-07 15:38:55,522 - 2_3-PG_test - DEBUG - Trying to predict 2.241626209536903 of type <class 'float'> 
+
+2020-12-07 15:38:55,523 - 2_3-PG_test - DEBUG - The calculated value is equal to: 567.5333294686841
+
+2020-12-07 15:38:55,524 - 2_3-PG_test - DEBUG - Trying to predict 2.457981199688113 of type <class 'float'> 
+
+2020-12-07 15:38:55,524 - 2_3-PG_test - DEBUG - The calculated value is equal to: 623.5127197929731
+
+2020-12-07 15:38:55,525 - 2_3-PG_test - DEBUG - Trying to predict 2.239186276358256 of type <class 'float'> 
+
+2020-12-07 15:38:55,526 - 2_3-PG_test - DEBUG - The calculated value is equal to: 566.9020245393307
+
+2020-12-07 15:38:55,526 - 2_3-PG_test - DEBUG - Trying to predict 0.5291777464573598 of type <class 'float'> 
+
+2020-12-07 15:38:55,527 - 2_3-PG_test - DEBUG - The calculated value is equal to: 124.45678726385145
+
+2020-12-07 15:38:55,528 - 2_3-PG_test - DEBUG - Trying to predict 0.5325748390203254 of type <class 'float'> 
+
+2020-12-07 15:38:55,529 - 2_3-PG_test - DEBUG - The calculated value is equal to: 125.33574628586008
+
+2020-12-07 15:38:55,530 - 2_3-PG_test - DEBUG - Trying to predict 0.833885911830356 of type <class 'float'> 
+
+2020-12-07 15:38:55,531 - 2_3-PG_test - DEBUG - The calculated value is equal to: 203.29655570409693
+
+2020-12-07 15:38:55,532 - 2_3-PG_test - DEBUG - Trying to predict 0.8081491103158338 of type <class 'float'> 
+
+2020-12-07 15:38:55,532 - 2_3-PG_test - DEBUG - The calculated value is equal to: 196.63745134660897
+
+2020-12-07 15:38:55,533 - 2_3-PG_test - DEBUG - Trying to predict 0.8538930221224065 of type <class 'float'> 
+
+2020-12-07 15:38:55,533 - 2_3-PG_test - DEBUG - The calculated value is equal to: 208.47316769495993
+
+2020-12-07 15:38:55,534 - 2_3-PG_test - DEBUG - Trying to predict 0.9701790506964086 of type <class 'float'> 
+
+2020-12-07 15:38:55,535 - 2_3-PG_test - DEBUG - The calculated value is equal to: 238.56085357757323
+
+2020-12-07 15:38:55,535 - 2_3-PG_test - DEBUG - Trying to predict 1.2906163163727853 of type <class 'float'> 
+
+2020-12-07 15:38:55,536 - 2_3-PG_test - DEBUG - The calculated value is equal to: 321.4703476327326
+
+2020-12-07 15:38:55,536 - 2_3-PG_test - DEBUG - Trying to predict 0.8855911414383453 of type <class 'float'> 
+
+2020-12-07 15:38:55,537 - 2_3-PG_test - DEBUG - The calculated value is equal to: 216.67469515911813
+
+2020-12-07 15:38:55,539 - 2_3-PG_test - DEBUG - Trying to predict 1.7184779124944347 of type <class 'float'> 
+
+2020-12-07 15:38:55,539 - 2_3-PG_test - DEBUG - The calculated value is equal to: 432.17466407732934
+
+2020-12-07 15:38:55,540 - 2_3-PG_test - DEBUG - Trying to predict 0.7284162668607778 of type <class 'float'> 
+
+2020-12-07 15:38:55,541 - 2_3-PG_test - DEBUG - The calculated value is equal to: 176.00748592581343
+
+2020-12-07 15:38:55,542 - 2_3-PG_test - DEBUG - Trying to predict 0.8784719259019043 of type <class 'float'> 
+
+2020-12-07 15:38:55,543 - 2_3-PG_test - DEBUG - The calculated value is equal to: 214.83267919711676
+
+2020-12-07 15:38:55,543 - 2_3-PG_test - DEBUG - Trying to predict 0.9817901034440265 of type <class 'float'> 
+
+2020-12-07 15:38:55,544 - 2_3-PG_test - DEBUG - The calculated value is equal to: 241.56508127475064
+
+2020-12-07 15:38:55,544 - 2_3-PG_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:38:55,667 - 2_3-PG_test - INFO - Done!
+2020-12-07 15:41:21,434 - 2_3-PG_test - INFO - Starting to process calculations...
+
+2020-12-07 15:41:21,434 - 2_3-PG_test - INFO - Getting data for 2_3-PG
+
+2020-12-07 15:41:21,434 - 2_3-PG_test - DEBUG - Checking limits for 2_3-PG
+
+2020-12-07 15:41:21,434 - 2_3-PG_test - DEBUG - nans list: []
+2020-12-07 15:41:21,434 - 2_3-PG_test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:41:21,434 - 2_3-PG_test - DEBUG - Cal dict x: [4128.907, 2034.7279999999998, 1190.326, 567.859, 236.386, 122.295]
+ cal dict y: [16.005994559864625, 7.912193636602942, 4.648659821384851, 2.242887468725543, 0.9617730750552571, 0.5208209127123926]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:41:21,434 - 2_3-PG_test - DEBUG - Performing calculations for equation
+ x=[4128.907 2034.728 1190.326  567.859  236.386  122.295] 
+ y=[16.00599456  7.91219364  4.64865982  2.24288747  0.96177308  0.52082091]
+2020-12-07 15:41:21,450 - 2_3-PG_test - INFO - Equation for 2_3-PG is equal to: 
+            2
+-2.537e-13 x + 0.003865 x + 0.04816
+ 
+2020-12-07 15:41:21,450 - 2_3-PG_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Trying to predict 2.131552099764514 of type <class 'float'> 
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369173e+10 5.39052908e+02]
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - The calculated value is equal to: 539.0529079147414
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Trying to predict 1.8110396979606167 of type <class 'float'> 
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369174e+10 4.56123991e+02]
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - The calculated value is equal to: 456.12399085540284
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Trying to predict 2.1765641955491457 of type <class 'float'> 
+
+2020-12-07 15:41:22,000 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369173e+10 5.50699273e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 550.6992727984442
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 2.241626209536903 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369173e+10 5.67533325e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 567.5333246944471
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 2.457981199688113 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369173e+10 6.23512704e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 623.5127038488462
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 2.239186276358256 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369173e+10 5.66902020e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 566.9020198934071
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 0.5291777464573598 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 1.24456885e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 124.45688541134143
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 0.5325748390203254 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 1.25335844e+02]
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - The calculated value is equal to: 125.33584420366904
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Trying to predict 0.833885911830356 of type <class 'float'> 
+
+2020-12-07 15:41:22,017 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 2.03296634e+02]
+
+2020-12-07 15:41:22,032 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,032 - 2_3-PG_test - DEBUG - The calculated value is equal to: 203.2966336533354
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.8081491103158338 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 1.96637531e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 196.63753097032227
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.8538930221224065 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 2.08473244e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 208.47324434652685
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.9701790506964086 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369176e+10 2.38560923e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 238.56092275640307
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 1.2906163163727853 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369176e+10 3.21470397e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 321.47039683457876
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.8855911414383453 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 2.16674770e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 216.67476976192964
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 1.7184779124944347 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369174e+10 4.32174688e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 432.1746880117559
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.7284162668607778 of type <class 'float'> 
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 1.76007571e+02]
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - The calculated value is equal to: 176.00757077401303
+
+2020-12-07 15:41:22,033 - 2_3-PG_test - DEBUG - Trying to predict 0.8784719259019043 of type <class 'float'> 
+
+2020-12-07 15:41:22,049 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369177e+10 2.14832754e+02]
+
+2020-12-07 15:41:22,049 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - The calculated value is equal to: 214.83275425929818
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - Trying to predict 0.9817901034440265 of type <class 'float'> 
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - Roots are equal to: [1.52369176e+10 2.41565150e+02]
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - minimum: 122.295
+ maximum: 4128.907
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - The calculated value is equal to: 241.56514971395922
+
+2020-12-07 15:41:22,050 - 2_3-PG_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:41:22,100 - 2_3-PG_test - INFO - Done!

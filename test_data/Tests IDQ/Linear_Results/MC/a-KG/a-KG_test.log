@@ -1,0 +1,300 @@
+2020-12-09 10:17:08,019 - a-KG_test - INFO - ....................
+
+2020-12-09 10:17:08,020 - a-KG_test - INFO - CHOSEN PARAMETERS:
+Run name: a-KG_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-09 10:17:08,021 - a-KG_test - INFO - ....................
+
+2020-12-09 10:17:14,894 - a-KG_test - INFO - Starting to process calculations...
+
+2020-12-09 10:17:14,895 - a-KG_test - INFO - Getting data for a-KG
+
+2020-12-09 10:17:14,897 - a-KG_test - DEBUG - Checking limits for a-KG
+
+2020-12-09 10:17:14,898 - a-KG_test - DEBUG - nans list: []
+2020-12-09 10:17:14,899 - a-KG_test - DEBUG - Cal dict x: [444.402, 194.50799999999998, 105.99700000000001, 58.376000000000005, 26.217, 22.259]
+ cal dict y: [17144623, 7039583, 3460463, 1534817, 234374, 74338]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:17:14,900 - a-KG_test - DEBUG - Cal dict x: [444.402, 194.50799999999998, 105.99700000000001, 58.376000000000005, 26.217, 22.259]
+ cal dict y: [17144623, 7039583, 3460463, 1534817, 234374, 74338]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:17:14,901 - a-KG_test - DEBUG - Performing calculations for equation
+ x=[444.402 194.508 105.997  58.376  26.217  22.259] 
+ y=[17144623  7039583  3460463  1534817   234374    74338]
+2020-12-09 10:17:14,903 - a-KG_test - INFO - Equation for a-KG is equal to: 
+ 
+4.044e+04 x - 8.258e+05
+ 
+2020-12-09 10:17:14,904 - a-KG_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:17:15,477 - a-KG_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:17:15,477 - a-KG_test - DEBUG - Trying to predict 4049567 of type <class 'int'> 
+
+2020-12-09 10:17:15,478 - a-KG_test - DEBUG - The calculated value is equal to: 120.56536315961823
+
+2020-12-09 10:17:15,478 - a-KG_test - DEBUG - Trying to predict 811403 of type <class 'int'> 
+
+2020-12-09 10:17:15,479 - a-KG_test - DEBUG - The calculated value is equal to: 40.486543130168755
+
+2020-12-09 10:17:15,480 - a-KG_test - DEBUG - Trying to predict 2969642 of type <class 'int'> 
+
+2020-12-09 10:17:15,480 - a-KG_test - DEBUG - The calculated value is equal to: 93.8591433016051
+
+2020-12-09 10:17:15,481 - a-KG_test - DEBUG - Trying to predict 1767382 of type <class 'int'> 
+
+2020-12-09 10:17:15,482 - a-KG_test - DEBUG - The calculated value is equal to: 64.12761575432648
+
+2020-12-09 10:17:15,482 - a-KG_test - DEBUG - Trying to predict 1434887 of type <class 'int'> 
+
+2020-12-09 10:17:15,483 - a-KG_test - DEBUG - The calculated value is equal to: 55.90511458832878
+
+2020-12-09 10:17:15,483 - a-KG_test - DEBUG - Trying to predict 789194 of type <class 'int'> 
+
+2020-12-09 10:17:15,484 - a-KG_test - DEBUG - The calculated value is equal to: 39.93732125195813
+
+2020-12-09 10:17:15,484 - a-KG_test - DEBUG - Trying to predict 219318 of type <class 'int'> 
+
+2020-12-09 10:17:15,485 - a-KG_test - DEBUG - The calculated value is equal to: 25.844459481182298
+
+2020-12-09 10:17:15,485 - a-KG_test - DEBUG - Trying to predict 278790 of type <class 'int'> 
+
+2020-12-09 10:17:15,485 - a-KG_test - DEBUG - The calculated value is equal to: 27.315184121685814
+
+2020-12-09 10:17:15,486 - a-KG_test - DEBUG - Trying to predict 243514 of type <class 'int'> 
+
+2020-12-09 10:17:15,486 - a-KG_test - DEBUG - The calculated value is equal to: 26.442819270690354
+
+2020-12-09 10:17:15,486 - a-KG_test - DEBUG - Trying to predict 375085 of type <class 'int'> 
+
+2020-12-09 10:17:15,486 - a-KG_test - DEBUG - The calculated value is equal to: 29.696530457058522
+
+2020-12-09 10:17:15,486 - a-KG_test - DEBUG - Trying to predict 241559 of type <class 'int'> 
+
+2020-12-09 10:17:15,487 - a-KG_test - DEBUG - The calculated value is equal to: 26.394472709751014
+
+2020-12-09 10:17:15,487 - a-KG_test - DEBUG - Trying to predict 381705 of type <class 'int'> 
+
+2020-12-09 10:17:15,488 - a-KG_test - DEBUG - The calculated value is equal to: 29.86024106238764
+
+2020-12-09 10:17:15,488 - a-KG_test - DEBUG - Trying to predict 427394 of type <class 'int'> 
+
+2020-12-09 10:17:15,489 - a-KG_test - DEBUG - The calculated value is equal to: 30.99011626584414
+
+2020-12-09 10:17:15,489 - a-KG_test - DEBUG - Trying to predict 291250 of type <class 'int'> 
+
+2020-12-09 10:17:15,490 - a-KG_test - DEBUG - The calculated value is equal to: 27.62331616736569
+
+2020-12-09 10:17:15,490 - a-KG_test - DEBUG - Trying to predict 236196 of type <class 'int'> 
+
+2020-12-09 10:17:15,491 - a-KG_test - DEBUG - The calculated value is equal to: 26.261847335675476
+
+2020-12-09 10:17:15,491 - a-KG_test - DEBUG - Trying to predict 228392 of type <class 'int'> 
+
+2020-12-09 10:17:15,492 - a-KG_test - DEBUG - The calculated value is equal to: 26.068856767097163
+
+2020-12-09 10:17:15,492 - a-KG_test - DEBUG - Trying to predict 189296 of type <class 'int'> 
+
+2020-12-09 10:17:15,492 - a-KG_test - DEBUG - The calculated value is equal to: 25.102024467105146
+
+2020-12-09 10:17:15,493 - a-KG_test - DEBUG - Trying to predict 204583 of type <class 'int'> 
+
+2020-12-09 10:17:15,493 - a-KG_test - DEBUG - The calculated value is equal to: 25.480067370982216
+
+2020-12-09 10:17:15,494 - a-KG_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:17:15,534 - a-KG_test - INFO - Done!
+2020-12-09 10:18:20,972 - a-KG_test - INFO - Starting to process calculations...
+
+2020-12-09 10:18:20,974 - a-KG_test - INFO - Getting data for a-KG
+
+2020-12-09 10:18:20,976 - a-KG_test - DEBUG - Checking limits for a-KG
+
+2020-12-09 10:18:20,977 - a-KG_test - DEBUG - nans list: []
+2020-12-09 10:18:20,977 - a-KG_test - DEBUG - Cal dict x: [444.402, 194.50799999999998, 105.99700000000001, 58.376000000000005, 26.217, 22.259]
+ cal dict y: [17144623, 7039583, 3460463, 1534817, 234374, 74338]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:18:20,979 - a-KG_test - DEBUG - Cal dict x: [444.402, 194.50799999999998, 105.99700000000001, 58.376000000000005, 26.217, 22.259]
+ cal dict y: [17144623, 7039583, 3460463, 1534817, 234374, 74338]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-09 10:18:20,980 - a-KG_test - DEBUG - Performing calculations for equation
+ x=[444.402 194.508 105.997  58.376  26.217  22.259] 
+ y=[17144623  7039583  3460463  1534817   234374    74338]
+2020-12-09 10:18:20,982 - a-KG_test - INFO - Equation for a-KG is equal to: 
+          2
+0.000368 x + 4.044e+04 x - 8.258e+05
+ 
+2020-12-09 10:18:20,982 - a-KG_test - DEBUG - Calculating residuals 
+
+2020-12-09 10:18:21,548 - a-KG_test - DEBUG - Predicting concentrations
+
+2020-12-09 10:18:21,549 - a-KG_test - DEBUG - Trying to predict 4049567 of type <class 'int'> 
+
+2020-12-09 10:18:21,550 - a-KG_test - DEBUG - Roots are equal to: [-1.09897034e+08  1.20565521e+02]
+
+2020-12-09 10:18:21,551 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,551 - a-KG_test - DEBUG - The calculated value is equal to: 120.56552076167617
+
+2020-12-09 10:18:21,552 - a-KG_test - DEBUG - Trying to predict 811403 of type <class 'int'> 
+
+2020-12-09 10:18:21,553 - a-KG_test - DEBUG - Roots are equal to: [-1.09896954e+08  4.04864774e+01]
+
+2020-12-09 10:18:21,553 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,554 - a-KG_test - DEBUG - The calculated value is equal to: 40.48647740529877
+
+2020-12-09 10:18:21,554 - a-KG_test - DEBUG - Trying to predict 2969642 of type <class 'int'> 
+
+2020-12-09 10:18:21,555 - a-KG_test - DEBUG - Roots are equal to: [-1.09897007e+08  9.38592394e+01]
+
+2020-12-09 10:18:21,556 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,557 - a-KG_test - DEBUG - The calculated value is equal to: 93.85923939452717
+
+2020-12-09 10:18:21,557 - a-KG_test - DEBUG - Trying to predict 1767382 of type <class 'int'> 
+
+2020-12-09 10:18:21,558 - a-KG_test - DEBUG - Roots are equal to: [-1.09896977e+08  6.41276281e+01]
+
+2020-12-09 10:18:21,559 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,560 - a-KG_test - DEBUG - The calculated value is equal to: 64.12762810156609
+
+2020-12-09 10:18:21,560 - a-KG_test - DEBUG - Trying to predict 1434887 of type <class 'int'> 
+
+2020-12-09 10:18:21,561 - a-KG_test - DEBUG - Roots are equal to: [-1.09896969e+08  5.59051009e+01]
+
+2020-12-09 10:18:21,561 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,562 - a-KG_test - DEBUG - The calculated value is equal to: 55.90510093526513
+
+2020-12-09 10:18:21,562 - a-KG_test - DEBUG - Trying to predict 789194 of type <class 'int'> 
+
+2020-12-09 10:18:21,563 - a-KG_test - DEBUG - Roots are equal to: [-1.09896953e+08  3.99372536e+01]
+
+2020-12-09 10:18:21,563 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,564 - a-KG_test - DEBUG - The calculated value is equal to: 39.93725359244738
+
+2020-12-09 10:18:21,564 - a-KG_test - DEBUG - Trying to predict 219318 of type <class 'int'> 
+
+2020-12-09 10:18:21,565 - a-KG_test - DEBUG - Roots are equal to: [-1.09896939e+08  2.58443403e+01]
+
+2020-12-09 10:18:21,566 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,566 - a-KG_test - DEBUG - The calculated value is equal to: 25.84434030172311
+
+2020-12-09 10:18:21,567 - a-KG_test - DEBUG - Trying to predict 278790 of type <class 'int'> 
+
+2020-12-09 10:18:21,567 - a-KG_test - DEBUG - Roots are equal to: [-1.09896941e+08  2.73150705e+01]
+
+2020-12-09 10:18:21,568 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,568 - a-KG_test - DEBUG - The calculated value is equal to: 27.315070487745242
+
+2020-12-09 10:18:21,569 - a-KG_test - DEBUG - Trying to predict 243514 of type <class 'int'> 
+
+2020-12-09 10:18:21,570 - a-KG_test - DEBUG - Roots are equal to: [-1.09896940e+08  2.64427024e+01]
+
+2020-12-09 10:18:21,571 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,571 - a-KG_test - DEBUG - The calculated value is equal to: 26.442702352158157
+
+2020-12-09 10:18:21,571 - a-KG_test - DEBUG - Trying to predict 375085 of type <class 'int'> 
+
+2020-12-09 10:18:21,572 - a-KG_test - DEBUG - Roots are equal to: [-1.09896943e+08  2.96964257e+01]
+
+2020-12-09 10:18:21,573 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,573 - a-KG_test - DEBUG - The calculated value is equal to: 29.696425718758636
+
+2020-12-09 10:18:21,574 - a-KG_test - DEBUG - Trying to predict 241559 of type <class 'int'> 
+
+2020-12-09 10:18:21,574 - a-KG_test - DEBUG - Roots are equal to: [-1.09896940e+08  2.63943556e+01]
+
+2020-12-09 10:18:21,575 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,576 - a-KG_test - DEBUG - The calculated value is equal to: 26.394355608781325
+
+2020-12-09 10:18:21,576 - a-KG_test - DEBUG - Trying to predict 381705 of type <class 'int'> 
+
+2020-12-09 10:18:21,577 - a-KG_test - DEBUG - Roots are equal to: [-1.09896943e+08  2.98601369e+01]
+
+2020-12-09 10:18:21,577 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,578 - a-KG_test - DEBUG - The calculated value is equal to: 29.860136931845744
+
+2020-12-09 10:18:21,578 - a-KG_test - DEBUG - Trying to predict 427394 of type <class 'int'> 
+
+2020-12-09 10:18:21,579 - a-KG_test - DEBUG - Roots are equal to: [-1.09896944e+08  3.09900163e+01]
+
+2020-12-09 10:18:21,579 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,580 - a-KG_test - DEBUG - The calculated value is equal to: 30.99001631654246
+
+2020-12-09 10:18:21,580 - a-KG_test - DEBUG - Trying to predict 291250 of type <class 'int'> 
+
+2020-12-09 10:18:21,582 - a-KG_test - DEBUG - Roots are equal to: [-1.09896941e+08  2.76232037e+01]
+
+2020-12-09 10:18:21,583 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,583 - a-KG_test - DEBUG - The calculated value is equal to: 27.623203690281073
+
+2020-12-09 10:18:21,584 - a-KG_test - DEBUG - Trying to predict 236196 of type <class 'int'> 
+
+2020-12-09 10:18:21,585 - a-KG_test - DEBUG - Roots are equal to: [-1.09896939e+08  2.62617297e+01]
+
+2020-12-09 10:18:21,585 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,586 - a-KG_test - DEBUG - The calculated value is equal to: 26.261729734020747
+
+2020-12-09 10:18:21,586 - a-KG_test - DEBUG - Trying to predict 228392 of type <class 'int'> 
+
+2020-12-09 10:18:21,587 - a-KG_test - DEBUG - Roots are equal to: [-1.09896939e+08  2.60687384e+01]
+
+2020-12-09 10:18:21,587 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,588 - a-KG_test - DEBUG - The calculated value is equal to: 26.068738436295913
+
+2020-12-09 10:18:21,588 - a-KG_test - DEBUG - Trying to predict 189296 of type <class 'int'> 
+
+2020-12-09 10:18:21,589 - a-KG_test - DEBUG - Roots are equal to: [-1.09896938e+08  2.51019025e+01]
+
+2020-12-09 10:18:21,590 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,591 - a-KG_test - DEBUG - The calculated value is equal to: 25.101902473266684
+
+2020-12-09 10:18:21,591 - a-KG_test - DEBUG - Trying to predict 204583 of type <class 'int'> 
+
+2020-12-09 10:18:21,592 - a-KG_test - DEBUG - Roots are equal to: [-1.09896939e+08  2.54799468e+01]
+
+2020-12-09 10:18:21,592 - a-KG_test - DEBUG - minimum: 22.259
+ maximum: 444.402
+
+2020-12-09 10:18:21,593 - a-KG_test - DEBUG - The calculated value is equal to: 25.479946811460216
+
+2020-12-09 10:18:21,593 - a-KG_test - DEBUG - Rebuilding dataframes
+
+2020-12-09 10:18:21,636 - a-KG_test - INFO - Done!

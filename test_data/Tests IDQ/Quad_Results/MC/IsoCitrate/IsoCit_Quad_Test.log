@@ -1,0 +1,226 @@
+2020-12-06 17:12:42,549 - IsoCit_Quad_Test - INFO - ....................
+
+2020-12-06 17:12:42,549 - IsoCit_Quad_Test - INFO - CHOSEN PARAMETERS:
+Run name: IsoCit_Quad_Test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-06 17:12:42,549 - IsoCit_Quad_Test - INFO - ....................
+
+2020-12-06 17:12:46,183 - IsoCit_Quad_Test - INFO - Starting to process calculations...
+
+2020-12-06 17:12:46,196 - IsoCit_Quad_Test - INFO - Getting data for IsoCit
+
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - Checking limits for IsoCit
+
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - nans list: []
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - Performing calculations for equation
+ x=[1185.95   696.431  368.132  164.545   76.28 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - INFO - Equation for IsoCit is equal to: 
+            2
+-4.813e-07 x + 0.0028 x + 0.04459
+ 
+2020-12-06 17:12:46,199 - IsoCit_Quad_Test - DEBUG - Calculating residuals 
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Predicting concentrations
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5403.37821817  414.15677997]
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 414.15677996522726
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5479.96074647  337.57425166]
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 337.5742516606805
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-06 17:12:46,706 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5413.95707598  403.57792216]
+
+2020-12-06 17:12:46,722 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,722 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 403.5779221579455
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5374.90225281  442.63274533]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 442.63274532505505
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5431.40041593  386.1345822 ]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 386.1345821987929
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5415.9991776   401.53582054]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 401.53582053570756
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5475.35962253  342.17537561]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 342.17537560533765
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5516.10041888  301.43457925]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 301.4345792497634
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5428.47997727  389.05502086]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 389.0550208630743
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5495.76564978  321.76934835]
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 321.76934835325676
+
+2020-12-06 17:12:46,723 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5369.58163188  447.95336626]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 447.9533662550274
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5404.56981408  412.96518405]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 412.9651840506216
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5240.47017069  577.06482744]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 577.0648274397806
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5499.16896897  318.36602916]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 318.3660291626029
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5284.16492778  533.37007036]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 533.3700703572563
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5511.13260025  306.40239788]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 306.40239787853
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5417.3060912   400.22890694]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 400.22890693583645
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5547.81358073  269.72141741]
+
+2020-12-06 17:12:46,739 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 269.72141740726613
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5511.09728055  306.43771759]
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 306.43771758611666
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5388.80020545  428.73479268]
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 428.7347926835253
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Roots are equal to: [5245.3380871   572.19691103]
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - minimum: 76.28
+ maximum: 1185.95
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - The calculated value is equal to: 572.1969110310428
+
+2020-12-06 17:12:46,754 - IsoCit_Quad_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 17:12:46,799 - IsoCit_Quad_Test - INFO - Done!

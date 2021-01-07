@@ -1,0 +1,410 @@
+2020-12-03 14:10:15,893 - isocit_test - INFO - ....................
+
+2020-12-03 14:10:15,893 - isocit_test - INFO - ....................
+
+2020-12-03 14:10:15,894 - isocit_test - INFO - CHOSEN PARAMETERS:
+Run name: isocit_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 14:10:15,894 - isocit_test - INFO - CHOSEN PARAMETERS:
+Run name: isocit_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-03 14:10:15,895 - isocit_test - INFO - ....................
+
+2020-12-03 14:10:15,895 - isocit_test - INFO - ....................
+
+2020-12-03 14:11:25,485 - isocit_test - INFO - Starting to process calculations...
+
+2020-12-03 14:11:25,485 - isocit_test - INFO - Starting to process calculations...
+
+2020-12-03 14:11:25,491 - isocit_test - INFO - Getting data for IsoCit
+
+2020-12-03 14:11:25,491 - isocit_test - INFO - Getting data for IsoCit
+
+2020-12-03 14:11:25,494 - isocit_test - DEBUG - Checking limits for IsoCit
+
+2020-12-03 14:11:25,494 - isocit_test - DEBUG - Checking limits for IsoCit
+
+2020-12-03 14:11:25,496 - isocit_test - DEBUG - nans list: []
+2020-12-03 14:11:25,496 - isocit_test - DEBUG - nans list: []
+2020-12-03 14:11:25,497 - isocit_test - DEBUG - Cal dict x: [1.18595, 0.696431, 0.368132, 0.164545, 0.07628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 14:11:25,497 - isocit_test - DEBUG - Cal dict x: [1.18595, 0.696431, 0.368132, 0.164545, 0.07628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 14:11:25,498 - isocit_test - DEBUG - Cal dict x: [1.18595, 0.696431, 0.368132, 0.164545, 0.07628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 14:11:25,498 - isocit_test - DEBUG - Cal dict x: [1.18595, 0.696431, 0.368132, 0.164545, 0.07628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-03 14:11:25,499 - isocit_test - DEBUG - Performing calculations for equation
+ x=[1.18595  0.696431 0.368132 0.164545 0.07628 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-03 14:11:25,499 - isocit_test - DEBUG - Performing calculations for equation
+ x=[1.18595  0.696431 0.368132 0.164545 0.07628 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-03 14:11:25,501 - isocit_test - INFO - Equation for IsoCit is equal to: 
+ 
+0.1493 x + 2.192
+ 
+2020-12-03 14:11:25,501 - isocit_test - INFO - Equation for IsoCit is equal to: 
+ 
+0.1493 x + 2.192
+ 
+2020-12-03 14:11:25,502 - isocit_test - DEBUG - Calculating residuals 
+
+2020-12-03 14:11:25,502 - isocit_test - DEBUG - Calculating residuals 
+
+2020-12-03 14:11:26,007 - isocit_test - DEBUG - Predicting concentrations
+
+2020-12-03 14:11:26,007 - isocit_test - DEBUG - Predicting concentrations
+
+2020-12-03 14:11:26,009 - isocit_test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-03 14:11:26,009 - isocit_test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-03 14:11:26,010 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.121684259037693
+
+2020-12-03 14:11:26,010 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.121684259037693
+
+2020-12-03 14:11:26,011 - isocit_test - DEBUG - The calculated value is equal to: 0.44362188825679966
+
+2020-12-03 14:11:26,011 - isocit_test - DEBUG - The calculated value is equal to: 0.44362188825679966
+
+2020-12-03 14:11:26,012 - isocit_test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-03 14:11:26,012 - isocit_test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-03 14:11:26,013 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.9349602001703764
+
+2020-12-03 14:11:26,013 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.9349602001703764
+
+2020-12-03 14:11:26,014 - isocit_test - DEBUG - The calculated value is equal to: 0.3584343762235079
+
+2020-12-03 14:11:26,014 - isocit_test - DEBUG - The calculated value is equal to: 0.3584343762235079
+
+2020-12-03 14:11:26,015 - isocit_test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-03 14:11:26,015 - isocit_test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-03 14:11:26,017 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0962268830396742
+
+2020-12-03 14:11:26,017 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0962268830396742
+
+2020-12-03 14:11:26,018 - isocit_test - DEBUG - The calculated value is equal to: 0.4320076884727843
+
+2020-12-03 14:11:26,018 - isocit_test - DEBUG - The calculated value is equal to: 0.4320076884727843
+
+2020-12-03 14:11:26,018 - isocit_test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-03 14:11:26,018 - isocit_test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-03 14:11:26,019 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1896746596369658
+
+2020-12-03 14:11:26,019 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1896746596369658
+
+2020-12-03 14:11:26,020 - isocit_test - DEBUG - The calculated value is equal to: 0.47464056418069095
+
+2020-12-03 14:11:26,020 - isocit_test - DEBUG - The calculated value is equal to: 0.47464056418069095
+
+2020-12-03 14:11:26,020 - isocit_test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-03 14:11:26,020 - isocit_test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-03 14:11:26,021 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0540152862590488
+
+2020-12-03 14:11:26,021 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0540152862590488
+
+2020-12-03 14:11:26,022 - isocit_test - DEBUG - The calculated value is equal to: 0.4127498545840663
+
+2020-12-03 14:11:26,022 - isocit_test - DEBUG - The calculated value is equal to: 0.4127498545840663
+
+2020-12-03 14:11:26,023 - isocit_test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-03 14:11:26,023 - isocit_test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-03 14:11:26,024 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.091300285193381
+
+2020-12-03 14:11:26,024 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.091300285193381
+
+2020-12-03 14:11:26,024 - isocit_test - DEBUG - The calculated value is equal to: 0.42976006909336356
+
+2020-12-03 14:11:26,024 - isocit_test - DEBUG - The calculated value is equal to: 0.42976006909336356
+
+2020-12-03 14:11:26,025 - isocit_test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-03 14:11:26,025 - isocit_test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-03 14:11:26,026 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.9463380995714479
+
+2020-12-03 14:11:26,026 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.9463380995714479
+
+2020-12-03 14:11:26,027 - isocit_test - DEBUG - The calculated value is equal to: 0.363625217446765
+
+2020-12-03 14:11:26,027 - isocit_test - DEBUG - The calculated value is equal to: 0.363625217446765
+
+2020-12-03 14:11:26,027 - isocit_test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-03 14:11:26,027 - isocit_test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-03 14:11:26,028 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8448834755309614
+
+2020-12-03 14:11:26,028 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8448834755309614
+
+2020-12-03 14:11:26,029 - isocit_test - DEBUG - The calculated value is equal to: 0.3173394465680194
+
+2020-12-03 14:11:26,029 - isocit_test - DEBUG - The calculated value is equal to: 0.3173394465680194
+
+2020-12-03 14:11:26,030 - isocit_test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-03 14:11:26,030 - isocit_test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-03 14:11:26,030 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0611029463237827
+
+2020-12-03 14:11:26,030 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0611029463237827
+
+2020-12-03 14:11:26,031 - isocit_test - DEBUG - The calculated value is equal to: 0.4159833967998631
+
+2020-12-03 14:11:26,031 - isocit_test - DEBUG - The calculated value is equal to: 0.4159833967998631
+
+2020-12-03 14:11:26,032 - isocit_test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-03 14:11:26,032 - isocit_test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-03 14:11:26,033 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8957217816160493
+
+2020-12-03 14:11:26,033 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8957217816160493
+
+2020-12-03 14:11:26,034 - isocit_test - DEBUG - The calculated value is equal to: 0.34053296987533455
+
+2020-12-03 14:11:26,034 - isocit_test - DEBUG - The calculated value is equal to: 0.34053296987533455
+
+2020-12-03 14:11:26,034 - isocit_test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-03 14:11:26,034 - isocit_test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-03 14:11:26,035 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.2022918476506839
+
+2020-12-03 14:11:26,035 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.2022918476506839
+
+2020-12-03 14:11:26,036 - isocit_test - DEBUG - The calculated value is equal to: 0.4803967953930205
+
+2020-12-03 14:11:26,036 - isocit_test - DEBUG - The calculated value is equal to: 0.4803967953930205
+
+2020-12-03 14:11:26,036 - isocit_test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-03 14:11:26,036 - isocit_test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-03 14:11:26,037 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1188221399722322
+
+2020-12-03 14:11:26,037 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1188221399722322
+
+2020-12-03 14:11:26,038 - isocit_test - DEBUG - The calculated value is equal to: 0.44231612828238254
+
+2020-12-03 14:11:26,038 - isocit_test - DEBUG - The calculated value is equal to: 0.44231612828238254
+
+2020-12-03 14:11:26,039 - isocit_test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-03 14:11:26,039 - isocit_test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-03 14:11:26,039 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.5001096399348364
+
+2020-12-03 14:11:26,039 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.5001096399348364
+
+2020-12-03 14:11:26,040 - isocit_test - DEBUG - The calculated value is equal to: 0.6162676463044311
+
+2020-12-03 14:11:26,040 - isocit_test - DEBUG - The calculated value is equal to: 0.6162676463044311
+
+2020-12-03 14:11:26,041 - isocit_test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-03 14:11:26,041 - isocit_test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-03 14:11:26,041 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8872409865360743
+
+2020-12-03 14:11:26,041 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8872409865360743
+
+2020-12-03 14:11:26,042 - isocit_test - DEBUG - The calculated value is equal to: 0.3366638496488905
+
+2020-12-03 14:11:26,042 - isocit_test - DEBUG - The calculated value is equal to: 0.3366638496488905
+
+2020-12-03 14:11:26,043 - isocit_test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-03 14:11:26,043 - isocit_test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-03 14:11:26,044 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.4011165312435205
+
+2020-12-03 14:11:26,044 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.4011165312435205
+
+2020-12-03 14:11:26,044 - isocit_test - DEBUG - The calculated value is equal to: 0.5711048714107749
+
+2020-12-03 14:11:26,044 - isocit_test - DEBUG - The calculated value is equal to: 0.5711048714107749
+
+2020-12-03 14:11:26,045 - isocit_test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-03 14:11:26,045 - isocit_test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-03 14:11:26,046 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8573401031372969
+
+2020-12-03 14:11:26,046 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8573401031372969
+
+2020-12-03 14:11:26,047 - isocit_test - DEBUG - The calculated value is equal to: 0.3230224266860928
+
+2020-12-03 14:11:26,047 - isocit_test - DEBUG - The calculated value is equal to: 0.3230224266860928
+
+2020-12-03 14:11:26,047 - isocit_test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-03 14:11:26,047 - isocit_test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-03 14:11:26,048 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0881452317972495
+
+2020-12-03 14:11:26,048 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.0881452317972495
+
+2020-12-03 14:11:26,049 - isocit_test - DEBUG - The calculated value is equal to: 0.42832066620774173
+
+2020-12-03 14:11:26,049 - isocit_test - DEBUG - The calculated value is equal to: 0.42832066620774173
+
+2020-12-03 14:11:26,050 - isocit_test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-03 14:11:26,050 - isocit_test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-03 14:11:26,050 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.7648039660343459
+
+2020-12-03 14:11:26,050 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.7648039660343459
+
+2020-12-03 14:11:26,051 - isocit_test - DEBUG - The calculated value is equal to: 0.2808054604269485
+
+2020-12-03 14:11:26,051 - isocit_test - DEBUG - The calculated value is equal to: 0.2808054604269485
+
+2020-12-03 14:11:26,052 - isocit_test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-03 14:11:26,052 - isocit_test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-03 14:11:26,052 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8574285809898825
+
+2020-12-03 14:11:26,052 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 0.8574285809898825
+
+2020-12-03 14:11:26,053 - isocit_test - DEBUG - The calculated value is equal to: 0.32306279217609735
+
+2020-12-03 14:11:26,053 - isocit_test - DEBUG - The calculated value is equal to: 0.32306279217609735
+
+2020-12-03 14:11:26,054 - isocit_test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-03 14:11:26,054 - isocit_test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-03 14:11:26,055 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1565888441989292
+
+2020-12-03 14:11:26,055 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.1565888441989292
+
+2020-12-03 14:11:26,056 - isocit_test - DEBUG - The calculated value is equal to: 0.45954610705579624
+
+2020-12-03 14:11:26,056 - isocit_test - DEBUG - The calculated value is equal to: 0.45954610705579624
+
+2020-12-03 14:11:26,057 - isocit_test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-03 14:11:26,057 - isocit_test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-03 14:11:26,058 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.4891720514092703
+
+2020-12-03 14:11:26,058 - isocit_test - DEBUG - Equation is equal to:  
+0.1493 x + 2.192
+ y_value is equal to: 1.4891720514092703
+
+2020-12-03 14:11:26,059 - isocit_test - DEBUG - The calculated value is equal to: 0.6112776843263716
+
+2020-12-03 14:11:26,059 - isocit_test - DEBUG - The calculated value is equal to: 0.6112776843263716
+
+2020-12-03 14:11:26,060 - isocit_test - DEBUG - Rebuilding dataframes
+
+2020-12-03 14:11:26,060 - isocit_test - DEBUG - Rebuilding dataframes
+
+2020-12-03 14:11:26,157 - isocit_test - INFO - Done!
+2020-12-03 14:11:26,157 - isocit_test - INFO - Done!

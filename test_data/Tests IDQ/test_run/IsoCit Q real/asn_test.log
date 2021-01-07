@@ -1,0 +1,34 @@
+2020-12-04 16:39:24,468 - asn_test - INFO - ....................
+
+2020-12-04 16:39:24,470 - asn_test - INFO - CHOSEN PARAMETERS:
+Run name: asn_test 
+Logger level: 20 
+Order of polynomial : 2
+2020-12-04 16:39:24,472 - asn_test - INFO - ....................
+
+2020-12-04 16:39:41,294 - asn_test - INFO - Starting to process calculations...
+
+2020-12-04 16:39:41,297 - asn_test - INFO - Getting data for Asn
+
+2020-12-04 16:39:41,303 - asn_test - INFO - Equation for Asn is equal to: 
+           2
+1.094e-08 x + 0.003992 x + 0.1959
+ 
+2020-12-04 16:39:41,887 - asn_test - INFO - Done!
+2020-12-04 16:42:15,597 - asn_test - INFO - ....................
+
+2020-12-04 16:42:15,600 - asn_test - INFO - CHOSEN PARAMETERS:
+Run name: asn_test 
+Logger level: 20 
+Order of polynomial : 2
+2020-12-04 16:42:15,602 - asn_test - INFO - ....................
+
+2020-12-04 16:42:23,418 - asn_test - INFO - Starting to process calculations...
+
+2020-12-04 16:42:23,421 - asn_test - INFO - Getting data for Asn
+
+2020-12-04 16:42:23,428 - asn_test - INFO - Equation for Asn is equal to: 
+           2
+1.345e-08 x + 0.003882 x + 0.5541
+ 
+2020-12-04 16:42:24,006 - asn_test - INFO - Done!

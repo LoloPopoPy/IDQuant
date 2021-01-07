@@ -1,0 +1,210 @@
+2020-12-07 15:47:20,483 - ATP_test - INFO - ....................
+
+2020-12-07 15:47:20,483 - ATP_test - INFO - CHOSEN PARAMETERS:
+Run name: ATP_test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:47:20,483 - ATP_test - INFO - ....................
+
+2020-12-07 15:47:30,600 - ATP_test - INFO - Starting to process calculations...
+
+2020-12-07 15:47:30,617 - ATP_test - INFO - Getting data for ATP
+
+2020-12-07 15:47:30,619 - ATP_test - DEBUG - Checking limits for ATP
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (12.037508504721822) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (7.80738113232034) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (12.238568943318903) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (9.362631319763624) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (10.013910351780245) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (9.85051649609159) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (6.204682515438854) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (4.435705127820955) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (7.776401787946606) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (7.011642634714937) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (7.491912525979071) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (7.3055388604019615) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (9.891724905104422) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (6.187448856596246) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (9.595039831420035) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (5.728175642600691) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (6.681079220070518) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - INFO - For ATP the value to predict (6.95229540619825) is over range
+
+2020-12-07 15:47:30,619 - ATP_test - DEBUG - nans list: []
+2020-12-07 15:47:30,619 - ATP_test - DEBUG - Cal dict x: [2941.475, 1344.425, 761.3910000000001, 348.084, 183.62400000000002, 146.653]
+ cal dict y: [1.599699196967922, 0.7010021360074986, 0.3729153726051112, 0.14033808857210142, 0.04779275388142924, 0.02698803277303216]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:47:30,619 - ATP_test - DEBUG - Cal dict x: [2941.475, 1344.425, 761.3910000000001, 348.084, 183.62400000000002, 146.653]
+ cal dict y: [1.599699196967922, 0.7010021360074986, 0.3729153726051112, 0.14033808857210142, 0.04779275388142924, 0.02698803277303216]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:47:30,619 - ATP_test - DEBUG - Performing calculations for equation
+ x=[2941.475 1344.425  761.391  348.084  183.624  146.653] 
+ y=[1.5996992  0.70100214 0.37291537 0.14033809 0.04779275 0.02698803]
+2020-12-07 15:47:30,634 - ATP_test - INFO - Equation for ATP is equal to: 
+ 
+0.0005627 x - 0.05554
+ 
+2020-12-07 15:47:30,634 - ATP_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,184 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:47:31,199 - ATP_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:47:31,234 - ATP_test - INFO - Done!
+2020-12-07 15:48:08,883 - ATP_test - INFO - Starting to process calculations...
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - Getting data for ATP
+
+2020-12-07 15:48:08,883 - ATP_test - DEBUG - Checking limits for ATP
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (12.037508504721822) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (7.80738113232034) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (12.238568943318903) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (9.362631319763624) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (10.013910351780245) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (9.85051649609159) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (6.204682515438854) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (4.435705127820955) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (7.776401787946606) is over range
+
+2020-12-07 15:48:08,883 - ATP_test - INFO - For ATP the value to predict (7.011642634714937) is over range
+
+2020-12-07 15:48:08,899 - ATP_test - INFO - For ATP the value to predict (7.491912525979071) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (7.3055388604019615) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (9.891724905104422) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (6.187448856596246) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (9.595039831420035) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (5.728175642600691) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (6.681079220070518) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - INFO - For ATP the value to predict (6.95229540619825) is over range
+
+2020-12-07 15:48:08,900 - ATP_test - DEBUG - nans list: []
+2020-12-07 15:48:08,900 - ATP_test - DEBUG - Cal dict x: [2941.475, 1344.425, 761.3910000000001, 348.084, 183.62400000000002, 146.653]
+ cal dict y: [1.599699196967922, 0.7010021360074986, 0.3729153726051112, 0.14033808857210142, 0.04779275388142924, 0.02698803277303216]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:48:08,900 - ATP_test - DEBUG - Cal dict x: [2941.475, 1344.425, 761.3910000000001, 348.084, 183.62400000000002, 146.653]
+ cal dict y: [1.599699196967922, 0.7010021360074986, 0.3729153726051112, 0.14033808857210142, 0.04779275388142924, 0.02698803277303216]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 15:48:08,900 - ATP_test - DEBUG - Performing calculations for equation
+ x=[2941.475 1344.425  761.391  348.084  183.624  146.653] 
+ y=[1.5996992  0.70100214 0.37291537 0.14033809 0.04779275 0.02698803]
+2020-12-07 15:48:08,900 - ATP_test - INFO - Equation for ATP is equal to: 
+           2
+4.356e-14 x + 0.0005627 x - 0.05554
+ 
+2020-12-07 15:48:08,900 - ATP_test - DEBUG - Calculating residuals 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Predicting concentrations
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:48:09,451 - ATP_test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:48:09,500 - ATP_test - INFO - Done!

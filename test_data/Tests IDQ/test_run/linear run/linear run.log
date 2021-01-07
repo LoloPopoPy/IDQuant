@@ -1,0 +1,185 @@
+2020-12-02 13:28:58,220 - linear run - INFO - Starting to process calculations...
+
+2020-12-02 13:28:58,222 - linear run - INFO - Getting data for Alanine
+
+2020-12-02 13:28:58,225 - linear run - INFO - For Alanine the value to predict (0.3282376624408256) is under range
+
+2020-12-02 13:28:58,226 - linear run - INFO - For Alanine the value to predict (0.3279321665637116) is under range
+
+2020-12-02 13:28:58,227 - linear run - INFO - For Alanine the value to predict (0.2851401397458788) is under range
+
+2020-12-02 13:28:58,236 - linear run - INFO - Equation for Alanine is equal to: 
+ 
+0.2628 x + 0.8582
+ 
+2020-12-02 13:28:58,860 - linear run - INFO - Getting data for Arginine
+
+2020-12-02 13:28:58,864 - linear run - INFO - Equation for Arginine is equal to: 
+ 
+0.004823 x + 4.915
+ 
+2020-12-02 13:28:59,497 - linear run - INFO - Getting data for Asparagine
+
+2020-12-02 13:28:59,502 - linear run - INFO - Equation for Asparagine is equal to: 
+ 
+-1.055 x + 4.517
+ 
+2020-12-02 13:29:00,101 - linear run - INFO - Getting data for Aspartate
+
+2020-12-02 13:29:00,107 - linear run - INFO - Equation for Aspartate is equal to: 
+ 
+-0.1636 x + 0.8921
+ 
+2020-12-02 13:29:00,711 - linear run - INFO - Getting data for Glutamate
+
+2020-12-02 13:29:00,713 - linear run - INFO - For Glutamate the value to predict (5.96786638872353) is over range
+
+2020-12-02 13:29:00,714 - linear run - INFO - For Glutamate the value to predict (3.2178790132976984) is over range
+
+2020-12-02 13:29:00,714 - linear run - INFO - For Glutamate the value to predict (3.3587725579350964) is over range
+
+2020-12-02 13:29:00,715 - linear run - INFO - For Glutamate the value to predict (3.3149405022316443) is over range
+
+2020-12-02 13:29:00,716 - linear run - INFO - For Glutamate the value to predict (4.818330680653649) is over range
+
+2020-12-02 13:29:00,716 - linear run - INFO - For Glutamate the value to predict (3.049784667529753) is over range
+
+2020-12-02 13:29:00,717 - linear run - INFO - For Glutamate the value to predict (4.383712909245862) is over range
+
+2020-12-02 13:29:00,717 - linear run - INFO - For Glutamate the value to predict (2.608992879367282) is over range
+
+2020-12-02 13:29:00,718 - linear run - INFO - For Glutamate the value to predict (3.0662846461712814) is over range
+
+2020-12-02 13:29:00,718 - linear run - INFO - For Glutamate the value to predict (2.9974597701787125) is over range
+
+2020-12-02 13:29:00,719 - linear run - INFO - For Glutamate the value to predict (5.357032970290335) is over range
+
+2020-12-02 13:29:00,719 - linear run - INFO - For Glutamate the value to predict (5.672463832368816) is over range
+
+2020-12-02 13:29:00,720 - linear run - INFO - For Glutamate the value to predict (5.655964814382741) is over range
+
+2020-12-02 13:29:00,720 - linear run - INFO - For Glutamate the value to predict (5.499667731339523) is over range
+
+2020-12-02 13:29:00,721 - linear run - INFO - For Glutamate the value to predict (5.39506559780976) is over range
+
+2020-12-02 13:29:00,721 - linear run - INFO - For Glutamate the value to predict (2.9633126895355946) is over range
+
+2020-12-02 13:29:00,722 - linear run - INFO - For Glutamate the value to predict (2.594691162862293) is over range
+
+2020-12-02 13:29:00,722 - linear run - INFO - For Glutamate the value to predict (3.251781878761162) is over range
+
+2020-12-02 13:29:00,726 - linear run - INFO - Equation for Glutamate is equal to: 
+ 
+0.000904 x + 0.03814
+ 
+2020-12-02 13:29:01,324 - linear run - INFO - Getting data for Glutamine
+
+2020-12-02 13:29:01,327 - linear run - INFO - For Glutamine the value to predict (38.849618807052664) is over range
+
+2020-12-02 13:29:01,327 - linear run - INFO - For Glutamine the value to predict (32.51452931688023) is over range
+
+2020-12-02 13:29:01,328 - linear run - INFO - For Glutamine the value to predict (35.89696284877821) is over range
+
+2020-12-02 13:29:01,328 - linear run - INFO - For Glutamine the value to predict (36.86721074849507) is over range
+
+2020-12-02 13:29:01,328 - linear run - INFO - For Glutamine the value to predict (37.411023327114755) is over range
+
+2020-12-02 13:29:01,329 - linear run - INFO - For Glutamine the value to predict (36.63380840056666) is over range
+
+2020-12-02 13:29:01,329 - linear run - INFO - For Glutamine the value to predict (37.1436239774275) is over range
+
+2020-12-02 13:29:01,332 - linear run - INFO - Equation for Glutamine is equal to: 
+ 
+-0.1215 x + 0.5116
+ 
+2020-12-02 13:29:01,929 - linear run - INFO - Getting data for Glycine
+
+2020-12-02 13:29:01,932 - linear run - INFO - For Glycine the value to predict (84.23275957918395) is over range
+
+2020-12-02 13:29:01,933 - linear run - INFO - For Glycine the value to predict (87.5234395898251) is over range
+
+2020-12-02 13:29:01,934 - linear run - INFO - For Glycine the value to predict (83.25795331386782) is over range
+
+2020-12-02 13:29:01,934 - linear run - INFO - For Glycine the value to predict (83.21128275414763) is over range
+
+2020-12-02 13:29:01,939 - linear run - INFO - Equation for Glycine is equal to: 
+ 
+1.326 x + 1.06
+ 
+2020-12-02 13:29:02,524 - linear run - INFO - Getting data for Histidine
+
+2020-12-02 13:29:02,527 - linear run - INFO - For Histidine the value to predict (2.5426475493328033) is under range
+
+2020-12-02 13:29:02,530 - linear run - INFO - Equation for Histidine is equal to: 
+ 
+-0.734 x + 26.81
+ 
+2020-12-02 13:29:03,167 - linear run - INFO - Getting data for Isoleucine
+
+2020-12-02 13:29:03,175 - linear run - INFO - Equation for Isoleucine is equal to: 
+ 
+3.155 x + 36.81
+ 
+2020-12-02 13:29:03,823 - linear run - INFO - Getting data for Leucine
+
+2020-12-02 13:29:03,829 - linear run - INFO - Equation for Leucine is equal to: 
+ 
+0.755 x + 7.093
+ 
+2020-12-02 13:29:04,450 - linear run - INFO - Getting data for Lysine
+
+2020-12-02 13:29:04,457 - linear run - INFO - Equation for Lysine is equal to: 
+ 
+-0.1446 x + 3.304
+ 
+2020-12-02 13:29:05,120 - linear run - INFO - Getting data for Methionine
+
+2020-12-02 13:29:05,126 - linear run - INFO - Equation for Methionine is equal to: 
+ 
+4.475 x + 19.15
+ 
+2020-12-02 13:29:05,784 - linear run - INFO - Getting data for Phenylalanine
+
+2020-12-02 13:29:05,789 - linear run - INFO - Equation for Phenylalanine is equal to: 
+ 
+1.296 x + 13.78
+ 
+2020-12-02 13:29:06,445 - linear run - INFO - Getting data for Proline
+
+2020-12-02 13:29:06,447 - linear run - INFO - For Proline the value to predict (0.46784395869482864) is under range
+
+2020-12-02 13:29:06,448 - linear run - INFO - For Proline the value to predict (0.3421382757007747) is under range
+
+2020-12-02 13:29:06,448 - linear run - INFO - For Proline the value to predict (0.3356713032846165) is under range
+
+2020-12-02 13:29:06,451 - linear run - INFO - Equation for Proline is equal to: 
+ 
+-0.0162 x + 4.317
+ 
+2020-12-02 13:29:07,055 - linear run - INFO - Getting data for Serine
+
+2020-12-02 13:29:07,059 - linear run - INFO - Equation for Serine is equal to: 
+ 
+-1.198 x + 4.176
+ 
+2020-12-02 13:29:07,728 - linear run - INFO - Getting data for Threonine
+
+2020-12-02 13:29:07,731 - linear run - INFO - For Threonine the value to predict (110.27974162049823) is over range
+
+2020-12-02 13:29:07,735 - linear run - INFO - Equation for Threonine is equal to: 
+ 
+-0.2133 x + 1.798
+ 
+2020-12-02 13:29:08,336 - linear run - INFO - Getting data for Tyrosine
+
+2020-12-02 13:29:08,341 - linear run - INFO - Equation for Tyrosine is equal to: 
+ 
+-0.3427 x + 10.61
+ 
+2020-12-02 13:29:08,928 - linear run - INFO - Getting data for Valine
+
+2020-12-02 13:29:08,933 - linear run - INFO - Equation for Valine is equal to: 
+ 
+-0.02763 x + 2.06
+ 
+2020-12-02 13:29:09,618 - linear run - INFO - Done!

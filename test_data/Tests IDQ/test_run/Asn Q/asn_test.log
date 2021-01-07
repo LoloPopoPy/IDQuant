@@ -1,0 +1,200 @@
+2020-12-04 16:58:21,406 - asn_test - INFO - ....................
+
+2020-12-04 16:58:21,407 - asn_test - INFO - CHOSEN PARAMETERS:
+Run name: asn_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-04 16:58:21,408 - asn_test - INFO - ....................
+
+2020-12-04 16:58:29,032 - asn_test - INFO - Starting to process calculations...
+
+2020-12-04 16:58:29,033 - asn_test - INFO - Getting data for Asn
+
+2020-12-04 16:58:29,036 - asn_test - DEBUG - Checking limits for Asn
+
+2020-12-04 16:58:29,037 - asn_test - DEBUG - nans list: []
+2020-12-04 16:58:29,038 - asn_test - DEBUG - Cal dict x: [50484.408, 25242.204, 12621.102, 6310.551, 1577.638, 394.409, 98.602]
+ cal dict y: [231.04542714314908, 105.76840708179087, 53.24791023666412, 26.00718565666106, 6.841252558351527, 1.6546919057733438, 0.38110886937399124]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-04 16:58:29,039 - asn_test - DEBUG - Cal dict x: [50484.408, 25242.204, 12621.102, 6310.551, 1577.638, 394.409, 98.602]
+ cal dict y: [231.04542714314908, 105.76840708179087, 53.24791023666412, 26.00718565666106, 6.841252558351527, 1.6546919057733438, 0.38110886937399124]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-04 16:58:29,041 - asn_test - DEBUG - Performing calculations for equation
+ x=[50484.408 25242.204 12621.102  6310.551  1577.638   394.409    98.602] 
+ y=[231.04542714 105.76840708  53.24791024  26.00718566   6.84125256
+   1.65469191   0.38110887]
+2020-12-04 16:58:29,046 - asn_test - INFO - Equation for Asn is equal to: 
+           2
+1.345e-08 x + 0.003882 x + 0.5541
+ 
+2020-12-04 16:58:29,046 - asn_test - DEBUG - Calculating residuals 
+
+2020-12-04 16:58:29,611 - asn_test - DEBUG - Predicting concentrations
+
+2020-12-04 16:58:29,612 - asn_test - DEBUG - Trying to predict 3.965727355344818 of type <class 'float'> 
+
+2020-12-04 16:58:29,613 - asn_test - DEBUG - Roots are equal to: [-289593.4334912     876.1335978]
+
+2020-12-04 16:58:29,615 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,615 - asn_test - DEBUG - The calculated value is equal to: 876.1335977972931
+
+2020-12-04 16:58:29,616 - asn_test - DEBUG - Trying to predict 3.5550663268183156 of type <class 'float'> 
+
+2020-12-04 16:58:29,617 - asn_test - DEBUG - Roots are equal to: [-289488.25179701     770.95190361]
+
+2020-12-04 16:58:29,617 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,618 - asn_test - DEBUG - The calculated value is equal to: 770.9519036091303
+
+2020-12-04 16:58:29,618 - asn_test - DEBUG - Trying to predict 3.244401349926046 of type <class 'float'> 
+
+2020-12-04 16:58:29,619 - asn_test - DEBUG - Roots are equal to: [-289408.63119421     691.33130081]
+
+2020-12-04 16:58:29,620 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,620 - asn_test - DEBUG - The calculated value is equal to: 691.3313008107563
+
+2020-12-04 16:58:29,620 - asn_test - DEBUG - Trying to predict 3.1940448199197573 of type <class 'float'> 
+
+2020-12-04 16:58:29,621 - asn_test - DEBUG - Roots are equal to: [-289395.72115775     678.42126435]
+
+2020-12-04 16:58:29,622 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,622 - asn_test - DEBUG - The calculated value is equal to: 678.4212643476407
+
+2020-12-04 16:58:29,622 - asn_test - DEBUG - Trying to predict 3.292008239076341 of type <class 'float'> 
+
+2020-12-04 16:58:29,623 - asn_test - DEBUG - Roots are equal to: [-289420.83524144     703.53534804]
+
+2020-12-04 16:58:29,624 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,624 - asn_test - DEBUG - The calculated value is equal to: 703.5353480358565
+
+2020-12-04 16:58:29,625 - asn_test - DEBUG - Trying to predict 3.3813905133433604 of type <class 'float'> 
+
+2020-12-04 16:58:29,625 - asn_test - DEBUG - Roots are equal to: [-289443.74565421     726.44576081]
+
+2020-12-04 16:58:29,626 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,626 - asn_test - DEBUG - The calculated value is equal to: 726.4457608114844
+
+2020-12-04 16:58:29,627 - asn_test - DEBUG - Trying to predict 0.7274059680119932 of type <class 'float'> 
+
+2020-12-04 16:58:29,627 - asn_test - DEBUG - Roots are equal to: [-2.88761930e+05  4.46296188e+01]
+
+2020-12-04 16:58:29,628 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,629 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88761930e+05  4.46296188e+01])
+
+2020-12-04 16:58:29,629 - asn_test - DEBUG - Trying to predict 0.6828484494838016 of type <class 'float'> 
+
+2020-12-04 16:58:29,630 - asn_test - DEBUG - Roots are equal to: [-2.88750455e+05  3.31551862e+01]
+
+2020-12-04 16:58:29,630 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,631 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88750455e+05  3.31551862e+01])
+
+2020-12-04 16:58:29,631 - asn_test - DEBUG - Trying to predict 0.8010735733286521 of type <class 'float'> 
+
+2020-12-04 16:58:29,632 - asn_test - DEBUG - Roots are equal to: [-2.88780898e+05  6.35984684e+01]
+
+2020-12-04 16:58:29,633 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,633 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88780898e+05  6.35984684e+01])
+
+2020-12-04 16:58:29,634 - asn_test - DEBUG - Trying to predict 0.7446716185494816 of type <class 'float'> 
+
+2020-12-04 16:58:29,634 - asn_test - DEBUG - Roots are equal to: [-2.88766376e+05  4.90756164e+01]
+
+2020-12-04 16:58:29,635 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,636 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88766376e+05  4.90756164e+01])
+
+2020-12-04 16:58:29,636 - asn_test - DEBUG - Trying to predict 0.8947691613994178 of type <class 'float'> 
+
+2020-12-04 16:58:29,637 - asn_test - DEBUG - Roots are equal to: [-2.88805021e+05  8.77207729e+01]
+
+2020-12-04 16:58:29,638 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,638 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88805021e+05  8.77207729e+01])
+
+2020-12-04 16:58:29,639 - asn_test - DEBUG - Trying to predict 0.8965451319971748 of type <class 'float'> 
+
+2020-12-04 16:58:29,639 - asn_test - DEBUG - Roots are equal to: [-2.88805478e+05  8.81779647e+01]
+
+2020-12-04 16:58:29,640 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,640 - asn_test - DEBUG - The calculated value is equal to: Roots out of range ([-2.88805478e+05  8.81779647e+01])
+
+2020-12-04 16:58:29,641 - asn_test - DEBUG - Trying to predict 1.903920172193062 of type <class 'float'> 
+
+2020-12-04 16:58:29,641 - asn_test - DEBUG - Roots are equal to: [-289064.57574543     347.27585203]
+
+2020-12-04 16:58:29,642 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,642 - asn_test - DEBUG - The calculated value is equal to: 347.27585203279796
+
+2020-12-04 16:58:29,643 - asn_test - DEBUG - Trying to predict 1.1965888245124916 of type <class 'float'> 
+
+2020-12-04 16:58:29,643 - asn_test - DEBUG - Roots are equal to: [-2.88882698e+05  1.65398080e+02]
+
+2020-12-04 16:58:29,644 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,644 - asn_test - DEBUG - The calculated value is equal to: 165.39807995538064
+
+2020-12-04 16:58:29,645 - asn_test - DEBUG - Trying to predict 1.5857363640496223 of type <class 'float'> 
+
+2020-12-04 16:58:29,646 - asn_test - DEBUG - Roots are equal to: [-2.88982789e+05  2.65488805e+02]
+
+2020-12-04 16:58:29,646 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,646 - asn_test - DEBUG - The calculated value is equal to: 265.48880469320034
+
+2020-12-04 16:58:29,647 - asn_test - DEBUG - Trying to predict 1.0638722766046382 of type <class 'float'> 
+
+2020-12-04 16:58:29,648 - asn_test - DEBUG - Roots are equal to: [-2.88848547e+05  1.31246854e+02]
+
+2020-12-04 16:58:29,648 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,649 - asn_test - DEBUG - The calculated value is equal to: 131.24685410898914
+
+2020-12-04 16:58:29,649 - asn_test - DEBUG - Trying to predict 1.2903135550511498 of type <class 'float'> 
+
+2020-12-04 16:58:29,650 - asn_test - DEBUG - Roots are equal to: [-2.88906811e+05  1.89510893e+02]
+
+2020-12-04 16:58:29,650 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,651 - asn_test - DEBUG - The calculated value is equal to: 189.5108929339958
+
+2020-12-04 16:58:29,651 - asn_test - DEBUG - Trying to predict 1.1456537219078562 of type <class 'float'> 
+
+2020-12-04 16:58:29,652 - asn_test - DEBUG - Roots are equal to: [-2.88869592e+05  1.52292182e+02]
+
+2020-12-04 16:58:29,652 - asn_test - DEBUG - minimum: 98.602
+ maximum: 50484.408
+
+2020-12-04 16:58:29,653 - asn_test - DEBUG - The calculated value is equal to: 152.2921819863058
+
+2020-12-04 16:58:29,653 - asn_test - DEBUG - Rebuilding dataframes
+
+2020-12-04 16:58:29,944 - asn_test - INFO - Done!

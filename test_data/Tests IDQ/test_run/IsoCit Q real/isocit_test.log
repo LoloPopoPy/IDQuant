@@ -1,0 +1,678 @@
+2020-12-04 16:23:38,329 - isocit_test - INFO - ....................
+
+2020-12-04 16:23:38,330 - isocit_test - INFO - CHOSEN PARAMETERS:
+Run name: isocit_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-04 16:23:38,330 - isocit_test - INFO - ....................
+
+2020-12-04 16:23:47,619 - isocit_test - INFO - Starting to process calculations...
+
+2020-12-04 16:23:47,621 - isocit_test - INFO - Getting data for IsoCit
+
+2020-12-04 16:23:47,624 - isocit_test - DEBUG - Checking limits for IsoCit
+
+2020-12-04 16:23:47,625 - isocit_test - DEBUG - nans list: []
+2020-12-04 16:23:47,626 - isocit_test - DEBUG - Cal dict x: [11.8595, 6.96431, 3.6813200000000004, 1.6454499999999999, 0.7628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:23:47,627 - isocit_test - DEBUG - Cal dict x: [11.8595, 6.96431, 3.6813200000000004, 1.6454499999999999, 0.7628]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:23:47,628 - isocit_test - DEBUG - Performing calculations for equation
+ x=[11.8595   6.96431  3.68132  1.64545  0.7628 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-04 16:23:47,632 - isocit_test - INFO - Equation for IsoCit is equal to: 
+           2
+-0.004813 x + 0.28 x + 0.04459
+ 
+2020-12-04 16:23:47,633 - isocit_test - DEBUG - Calculating residuals 
+
+2020-12-04 16:23:48,209 - isocit_test - DEBUG - Predicting concentrations
+
+2020-12-04 16:23:48,210 - isocit_test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-04 16:23:48,211 - isocit_test - DEBUG - Roots are equal to: [54.03378218  4.1415678 ]
+
+2020-12-04 16:23:48,212 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,213 - isocit_test - DEBUG - The calculated value is equal to: 4.141567799652273
+
+2020-12-04 16:23:48,213 - isocit_test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-04 16:23:48,214 - isocit_test - DEBUG - Roots are equal to: [54.79960746  3.37574252]
+
+2020-12-04 16:23:48,215 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,215 - isocit_test - DEBUG - The calculated value is equal to: 3.3757425166068034
+
+2020-12-04 16:23:48,216 - isocit_test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-04 16:23:48,217 - isocit_test - DEBUG - Roots are equal to: [54.13957076  4.03577922]
+
+2020-12-04 16:23:48,217 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,218 - isocit_test - DEBUG - The calculated value is equal to: 4.035779221579455
+
+2020-12-04 16:23:48,218 - isocit_test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-04 16:23:48,219 - isocit_test - DEBUG - Roots are equal to: [53.74902253  4.42632745]
+
+2020-12-04 16:23:48,220 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,220 - isocit_test - DEBUG - The calculated value is equal to: 4.426327453250551
+
+2020-12-04 16:23:48,220 - isocit_test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-04 16:23:48,221 - isocit_test - DEBUG - Roots are equal to: [54.31400416  3.86134582]
+
+2020-12-04 16:23:48,222 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,222 - isocit_test - DEBUG - The calculated value is equal to: 3.861345821987929
+
+2020-12-04 16:23:48,223 - isocit_test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-04 16:23:48,223 - isocit_test - DEBUG - Roots are equal to: [54.15999178  4.01535821]
+
+2020-12-04 16:23:48,224 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,224 - isocit_test - DEBUG - The calculated value is equal to: 4.015358205357074
+
+2020-12-04 16:23:48,225 - isocit_test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-04 16:23:48,225 - isocit_test - DEBUG - Roots are equal to: [54.75359623  3.42175376]
+
+2020-12-04 16:23:48,226 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,227 - isocit_test - DEBUG - The calculated value is equal to: 3.421753756053375
+
+2020-12-04 16:23:48,227 - isocit_test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-04 16:23:48,228 - isocit_test - DEBUG - Roots are equal to: [55.16100419  3.01434579]
+
+2020-12-04 16:23:48,228 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,229 - isocit_test - DEBUG - The calculated value is equal to: 3.0143457924976316
+
+2020-12-04 16:23:48,229 - isocit_test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-04 16:23:48,230 - isocit_test - DEBUG - Roots are equal to: [54.28479977  3.89055021]
+
+2020-12-04 16:23:48,230 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,231 - isocit_test - DEBUG - The calculated value is equal to: 3.8905502086307417
+
+2020-12-04 16:23:48,231 - isocit_test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-04 16:23:48,232 - isocit_test - DEBUG - Roots are equal to: [54.9576565   3.21769348]
+
+2020-12-04 16:23:48,232 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,233 - isocit_test - DEBUG - The calculated value is equal to: 3.217693483532566
+
+2020-12-04 16:23:48,233 - isocit_test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-04 16:23:48,234 - isocit_test - DEBUG - Roots are equal to: [53.69581632  4.47953366]
+
+2020-12-04 16:23:48,236 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,238 - isocit_test - DEBUG - The calculated value is equal to: 4.479533662550274
+
+2020-12-04 16:23:48,238 - isocit_test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-04 16:23:48,239 - isocit_test - DEBUG - Roots are equal to: [54.04569814  4.12965184]
+
+2020-12-04 16:23:48,240 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,241 - isocit_test - DEBUG - The calculated value is equal to: 4.129651840506217
+
+2020-12-04 16:23:48,241 - isocit_test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-04 16:23:48,242 - isocit_test - DEBUG - Roots are equal to: [52.40470171  5.77064827]
+
+2020-12-04 16:23:48,243 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,244 - isocit_test - DEBUG - The calculated value is equal to: 5.770648274397808
+
+2020-12-04 16:23:48,244 - isocit_test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-04 16:23:48,245 - isocit_test - DEBUG - Roots are equal to: [54.99168969  3.18366029]
+
+2020-12-04 16:23:48,246 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,246 - isocit_test - DEBUG - The calculated value is equal to: 3.1836602916260275
+
+2020-12-04 16:23:48,246 - isocit_test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-04 16:23:48,247 - isocit_test - DEBUG - Roots are equal to: [52.84164928  5.3337007 ]
+
+2020-12-04 16:23:48,248 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,248 - isocit_test - DEBUG - The calculated value is equal to: 5.333700703572566
+
+2020-12-04 16:23:48,248 - isocit_test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-04 16:23:48,249 - isocit_test - DEBUG - Roots are equal to: [55.111326    3.06402398]
+
+2020-12-04 16:23:48,250 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,250 - isocit_test - DEBUG - The calculated value is equal to: 3.0640239787852974
+
+2020-12-04 16:23:48,251 - isocit_test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-04 16:23:48,251 - isocit_test - DEBUG - Roots are equal to: [54.17306091  4.00228907]
+
+2020-12-04 16:23:48,252 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,252 - isocit_test - DEBUG - The calculated value is equal to: 4.002289069358365
+
+2020-12-04 16:23:48,253 - isocit_test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-04 16:23:48,253 - isocit_test - DEBUG - Roots are equal to: [55.47813581  2.69721417]
+
+2020-12-04 16:23:48,254 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,254 - isocit_test - DEBUG - The calculated value is equal to: 2.6972141740726587
+
+2020-12-04 16:23:48,255 - isocit_test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-04 16:23:48,256 - isocit_test - DEBUG - Roots are equal to: [55.11097281  3.06437718]
+
+2020-12-04 16:23:48,256 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,257 - isocit_test - DEBUG - The calculated value is equal to: 3.0643771758611638
+
+2020-12-04 16:23:48,257 - isocit_test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-04 16:23:48,258 - isocit_test - DEBUG - Roots are equal to: [53.88800205  4.28734793]
+
+2020-12-04 16:23:48,258 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,259 - isocit_test - DEBUG - The calculated value is equal to: 4.287347926835252
+
+2020-12-04 16:23:48,259 - isocit_test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-04 16:23:48,260 - isocit_test - DEBUG - Roots are equal to: [52.45338087  5.72196911]
+
+2020-12-04 16:23:48,261 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:23:48,261 - isocit_test - DEBUG - The calculated value is equal to: 5.7219691103104315
+
+2020-12-04 16:23:48,261 - isocit_test - DEBUG - Rebuilding dataframes
+
+2020-12-04 16:23:48,567 - isocit_test - INFO - Done!
+2020-12-04 16:28:19,605 - isocit_test - INFO - ....................
+
+2020-12-04 16:28:19,605 - isocit_test - INFO - ....................
+
+2020-12-04 16:28:19,607 - isocit_test - INFO - CHOSEN PARAMETERS:
+Run name: isocit_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-04 16:28:19,607 - isocit_test - INFO - CHOSEN PARAMETERS:
+Run name: isocit_test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-04 16:28:19,608 - isocit_test - INFO - ....................
+
+2020-12-04 16:28:19,608 - isocit_test - INFO - ....................
+
+2020-12-04 16:28:48,093 - isocit_test - INFO - Starting to process calculations...
+
+2020-12-04 16:28:48,093 - isocit_test - INFO - Starting to process calculations...
+
+2020-12-04 16:28:48,095 - isocit_test - INFO - Getting data for IsoCit
+
+2020-12-04 16:28:48,095 - isocit_test - INFO - Getting data for IsoCit
+
+2020-12-04 16:28:48,099 - isocit_test - DEBUG - Checking limits for IsoCit
+
+2020-12-04 16:28:48,099 - isocit_test - DEBUG - Checking limits for IsoCit
+
+2020-12-04 16:28:48,100 - isocit_test - DEBUG - nans list: []
+2020-12-04 16:28:48,100 - isocit_test - DEBUG - nans list: []
+2020-12-04 16:28:48,101 - isocit_test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:28:48,101 - isocit_test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:28:48,102 - isocit_test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:28:48,102 - isocit_test - DEBUG - Cal dict x: [1185.95, 696.431, 368.13199999999995, 164.545, 76.28]
+ cal dict y: [2.688330213954227, 1.7611727437197429, 1.0101431032759418, 0.49229176591981033, 0.2553781215864706]
+ cal dict names: ['cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-04 16:28:48,104 - isocit_test - DEBUG - Performing calculations for equation
+ x=[1185.95   696.431  368.132  164.545   76.28 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-04 16:28:48,104 - isocit_test - DEBUG - Performing calculations for equation
+ x=[1185.95   696.431  368.132  164.545   76.28 ] 
+ y=[2.68833021 1.76117274 1.0101431  0.49229177 0.25537812]
+2020-12-04 16:28:48,106 - isocit_test - INFO - Equation for IsoCit is equal to: 
+            2
+-4.813e-07 x + 0.0028 x + 0.04459
+ 
+2020-12-04 16:28:48,106 - isocit_test - INFO - Equation for IsoCit is equal to: 
+            2
+-4.813e-07 x + 0.0028 x + 0.04459
+ 
+2020-12-04 16:28:48,108 - isocit_test - DEBUG - Calculating residuals 
+
+2020-12-04 16:28:48,108 - isocit_test - DEBUG - Calculating residuals 
+
+2020-12-04 16:28:48,679 - isocit_test - DEBUG - Predicting concentrations
+
+2020-12-04 16:28:48,679 - isocit_test - DEBUG - Predicting concentrations
+
+2020-12-04 16:28:48,681 - isocit_test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-04 16:28:48,681 - isocit_test - DEBUG - Trying to predict 1.121684259037693 of type <class 'float'> 
+
+2020-12-04 16:28:48,683 - isocit_test - DEBUG - Roots are equal to: [5403.37821817  414.15677997]
+
+2020-12-04 16:28:48,683 - isocit_test - DEBUG - Roots are equal to: [5403.37821817  414.15677997]
+
+2020-12-04 16:28:48,685 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,685 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,686 - isocit_test - DEBUG - The calculated value is equal to: 414.15677996522726
+
+2020-12-04 16:28:48,686 - isocit_test - DEBUG - The calculated value is equal to: 414.15677996522726
+
+2020-12-04 16:28:48,687 - isocit_test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-04 16:28:48,687 - isocit_test - DEBUG - Trying to predict 0.9349602001703764 of type <class 'float'> 
+
+2020-12-04 16:28:48,689 - isocit_test - DEBUG - Roots are equal to: [5479.96074647  337.57425166]
+
+2020-12-04 16:28:48,689 - isocit_test - DEBUG - Roots are equal to: [5479.96074647  337.57425166]
+
+2020-12-04 16:28:48,690 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,690 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,691 - isocit_test - DEBUG - The calculated value is equal to: 337.5742516606805
+
+2020-12-04 16:28:48,691 - isocit_test - DEBUG - The calculated value is equal to: 337.5742516606805
+
+2020-12-04 16:28:48,691 - isocit_test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-04 16:28:48,691 - isocit_test - DEBUG - Trying to predict 1.0962268830396742 of type <class 'float'> 
+
+2020-12-04 16:28:48,693 - isocit_test - DEBUG - Roots are equal to: [5413.95707598  403.57792216]
+
+2020-12-04 16:28:48,693 - isocit_test - DEBUG - Roots are equal to: [5413.95707598  403.57792216]
+
+2020-12-04 16:28:48,693 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,693 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,694 - isocit_test - DEBUG - The calculated value is equal to: 403.5779221579455
+
+2020-12-04 16:28:48,694 - isocit_test - DEBUG - The calculated value is equal to: 403.5779221579455
+
+2020-12-04 16:28:48,695 - isocit_test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-04 16:28:48,695 - isocit_test - DEBUG - Trying to predict 1.1896746596369658 of type <class 'float'> 
+
+2020-12-04 16:28:48,697 - isocit_test - DEBUG - Roots are equal to: [5374.90225281  442.63274533]
+
+2020-12-04 16:28:48,697 - isocit_test - DEBUG - Roots are equal to: [5374.90225281  442.63274533]
+
+2020-12-04 16:28:48,698 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,698 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,699 - isocit_test - DEBUG - The calculated value is equal to: 442.63274532505505
+
+2020-12-04 16:28:48,699 - isocit_test - DEBUG - The calculated value is equal to: 442.63274532505505
+
+2020-12-04 16:28:48,700 - isocit_test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-04 16:28:48,700 - isocit_test - DEBUG - Trying to predict 1.0540152862590488 of type <class 'float'> 
+
+2020-12-04 16:28:48,701 - isocit_test - DEBUG - Roots are equal to: [5431.40041593  386.1345822 ]
+
+2020-12-04 16:28:48,701 - isocit_test - DEBUG - Roots are equal to: [5431.40041593  386.1345822 ]
+
+2020-12-04 16:28:48,702 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,702 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,703 - isocit_test - DEBUG - The calculated value is equal to: 386.1345821987929
+
+2020-12-04 16:28:48,703 - isocit_test - DEBUG - The calculated value is equal to: 386.1345821987929
+
+2020-12-04 16:28:48,704 - isocit_test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-04 16:28:48,704 - isocit_test - DEBUG - Trying to predict 1.091300285193381 of type <class 'float'> 
+
+2020-12-04 16:28:48,705 - isocit_test - DEBUG - Roots are equal to: [5415.9991776   401.53582054]
+
+2020-12-04 16:28:48,705 - isocit_test - DEBUG - Roots are equal to: [5415.9991776   401.53582054]
+
+2020-12-04 16:28:48,706 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,706 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,707 - isocit_test - DEBUG - The calculated value is equal to: 401.53582053570756
+
+2020-12-04 16:28:48,707 - isocit_test - DEBUG - The calculated value is equal to: 401.53582053570756
+
+2020-12-04 16:28:48,707 - isocit_test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-04 16:28:48,707 - isocit_test - DEBUG - Trying to predict 0.9463380995714479 of type <class 'float'> 
+
+2020-12-04 16:28:48,709 - isocit_test - DEBUG - Roots are equal to: [5475.35962253  342.17537561]
+
+2020-12-04 16:28:48,709 - isocit_test - DEBUG - Roots are equal to: [5475.35962253  342.17537561]
+
+2020-12-04 16:28:48,710 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,710 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,710 - isocit_test - DEBUG - The calculated value is equal to: 342.17537560533765
+
+2020-12-04 16:28:48,710 - isocit_test - DEBUG - The calculated value is equal to: 342.17537560533765
+
+2020-12-04 16:28:48,711 - isocit_test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-04 16:28:48,711 - isocit_test - DEBUG - Trying to predict 0.8448834755309614 of type <class 'float'> 
+
+2020-12-04 16:28:48,712 - isocit_test - DEBUG - Roots are equal to: [5516.10041888  301.43457925]
+
+2020-12-04 16:28:48,712 - isocit_test - DEBUG - Roots are equal to: [5516.10041888  301.43457925]
+
+2020-12-04 16:28:48,713 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,713 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,714 - isocit_test - DEBUG - The calculated value is equal to: 301.4345792497634
+
+2020-12-04 16:28:48,714 - isocit_test - DEBUG - The calculated value is equal to: 301.4345792497634
+
+2020-12-04 16:28:48,715 - isocit_test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-04 16:28:48,715 - isocit_test - DEBUG - Trying to predict 1.0611029463237827 of type <class 'float'> 
+
+2020-12-04 16:28:48,716 - isocit_test - DEBUG - Roots are equal to: [5428.47997727  389.05502086]
+
+2020-12-04 16:28:48,716 - isocit_test - DEBUG - Roots are equal to: [5428.47997727  389.05502086]
+
+2020-12-04 16:28:48,717 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,717 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,718 - isocit_test - DEBUG - The calculated value is equal to: 389.0550208630743
+
+2020-12-04 16:28:48,718 - isocit_test - DEBUG - The calculated value is equal to: 389.0550208630743
+
+2020-12-04 16:28:48,719 - isocit_test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-04 16:28:48,719 - isocit_test - DEBUG - Trying to predict 0.8957217816160493 of type <class 'float'> 
+
+2020-12-04 16:28:48,720 - isocit_test - DEBUG - Roots are equal to: [5495.76564978  321.76934835]
+
+2020-12-04 16:28:48,720 - isocit_test - DEBUG - Roots are equal to: [5495.76564978  321.76934835]
+
+2020-12-04 16:28:48,721 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,721 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,721 - isocit_test - DEBUG - The calculated value is equal to: 321.76934835325676
+
+2020-12-04 16:28:48,721 - isocit_test - DEBUG - The calculated value is equal to: 321.76934835325676
+
+2020-12-04 16:28:48,722 - isocit_test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-04 16:28:48,722 - isocit_test - DEBUG - Trying to predict 1.2022918476506839 of type <class 'float'> 
+
+2020-12-04 16:28:48,723 - isocit_test - DEBUG - Roots are equal to: [5369.58163188  447.95336626]
+
+2020-12-04 16:28:48,723 - isocit_test - DEBUG - Roots are equal to: [5369.58163188  447.95336626]
+
+2020-12-04 16:28:48,724 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,724 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,725 - isocit_test - DEBUG - The calculated value is equal to: 447.9533662550274
+
+2020-12-04 16:28:48,725 - isocit_test - DEBUG - The calculated value is equal to: 447.9533662550274
+
+2020-12-04 16:28:48,726 - isocit_test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-04 16:28:48,726 - isocit_test - DEBUG - Trying to predict 1.1188221399722322 of type <class 'float'> 
+
+2020-12-04 16:28:48,727 - isocit_test - DEBUG - Roots are equal to: [5404.56981408  412.96518405]
+
+2020-12-04 16:28:48,727 - isocit_test - DEBUG - Roots are equal to: [5404.56981408  412.96518405]
+
+2020-12-04 16:28:48,728 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,728 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,729 - isocit_test - DEBUG - The calculated value is equal to: 412.9651840506216
+
+2020-12-04 16:28:48,729 - isocit_test - DEBUG - The calculated value is equal to: 412.9651840506216
+
+2020-12-04 16:28:48,730 - isocit_test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-04 16:28:48,730 - isocit_test - DEBUG - Trying to predict 1.5001096399348364 of type <class 'float'> 
+
+2020-12-04 16:28:48,731 - isocit_test - DEBUG - Roots are equal to: [5240.47017069  577.06482744]
+
+2020-12-04 16:28:48,731 - isocit_test - DEBUG - Roots are equal to: [5240.47017069  577.06482744]
+
+2020-12-04 16:28:48,732 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,732 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,732 - isocit_test - DEBUG - The calculated value is equal to: 577.0648274397806
+
+2020-12-04 16:28:48,732 - isocit_test - DEBUG - The calculated value is equal to: 577.0648274397806
+
+2020-12-04 16:28:48,733 - isocit_test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-04 16:28:48,733 - isocit_test - DEBUG - Trying to predict 0.8872409865360743 of type <class 'float'> 
+
+2020-12-04 16:28:48,735 - isocit_test - DEBUG - Roots are equal to: [5499.16896897  318.36602916]
+
+2020-12-04 16:28:48,735 - isocit_test - DEBUG - Roots are equal to: [5499.16896897  318.36602916]
+
+2020-12-04 16:28:48,739 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,739 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,741 - isocit_test - DEBUG - The calculated value is equal to: 318.3660291626029
+
+2020-12-04 16:28:48,741 - isocit_test - DEBUG - The calculated value is equal to: 318.3660291626029
+
+2020-12-04 16:28:48,742 - isocit_test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-04 16:28:48,742 - isocit_test - DEBUG - Trying to predict 1.4011165312435205 of type <class 'float'> 
+
+2020-12-04 16:28:48,744 - isocit_test - DEBUG - Roots are equal to: [5284.16492778  533.37007036]
+
+2020-12-04 16:28:48,744 - isocit_test - DEBUG - Roots are equal to: [5284.16492778  533.37007036]
+
+2020-12-04 16:28:48,745 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,745 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,747 - isocit_test - DEBUG - The calculated value is equal to: 533.3700703572563
+
+2020-12-04 16:28:48,747 - isocit_test - DEBUG - The calculated value is equal to: 533.3700703572563
+
+2020-12-04 16:28:48,748 - isocit_test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-04 16:28:48,748 - isocit_test - DEBUG - Trying to predict 0.8573401031372969 of type <class 'float'> 
+
+2020-12-04 16:28:48,750 - isocit_test - DEBUG - Roots are equal to: [5511.13260025  306.40239788]
+
+2020-12-04 16:28:48,750 - isocit_test - DEBUG - Roots are equal to: [5511.13260025  306.40239788]
+
+2020-12-04 16:28:48,751 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,751 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,752 - isocit_test - DEBUG - The calculated value is equal to: 306.40239787853
+
+2020-12-04 16:28:48,752 - isocit_test - DEBUG - The calculated value is equal to: 306.40239787853
+
+2020-12-04 16:28:48,752 - isocit_test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-04 16:28:48,752 - isocit_test - DEBUG - Trying to predict 1.0881452317972495 of type <class 'float'> 
+
+2020-12-04 16:28:48,753 - isocit_test - DEBUG - Roots are equal to: [5417.3060912   400.22890694]
+
+2020-12-04 16:28:48,753 - isocit_test - DEBUG - Roots are equal to: [5417.3060912   400.22890694]
+
+2020-12-04 16:28:48,754 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,754 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,755 - isocit_test - DEBUG - The calculated value is equal to: 400.22890693583645
+
+2020-12-04 16:28:48,755 - isocit_test - DEBUG - The calculated value is equal to: 400.22890693583645
+
+2020-12-04 16:28:48,756 - isocit_test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-04 16:28:48,756 - isocit_test - DEBUG - Trying to predict 0.7648039660343459 of type <class 'float'> 
+
+2020-12-04 16:28:48,757 - isocit_test - DEBUG - Roots are equal to: [5547.81358073  269.72141741]
+
+2020-12-04 16:28:48,757 - isocit_test - DEBUG - Roots are equal to: [5547.81358073  269.72141741]
+
+2020-12-04 16:28:48,758 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,758 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,759 - isocit_test - DEBUG - The calculated value is equal to: 269.72141740726613
+
+2020-12-04 16:28:48,759 - isocit_test - DEBUG - The calculated value is equal to: 269.72141740726613
+
+2020-12-04 16:28:48,760 - isocit_test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-04 16:28:48,760 - isocit_test - DEBUG - Trying to predict 0.8574285809898825 of type <class 'float'> 
+
+2020-12-04 16:28:48,761 - isocit_test - DEBUG - Roots are equal to: [5511.09728055  306.43771759]
+
+2020-12-04 16:28:48,761 - isocit_test - DEBUG - Roots are equal to: [5511.09728055  306.43771759]
+
+2020-12-04 16:28:48,762 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,762 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,763 - isocit_test - DEBUG - The calculated value is equal to: 306.43771758611666
+
+2020-12-04 16:28:48,763 - isocit_test - DEBUG - The calculated value is equal to: 306.43771758611666
+
+2020-12-04 16:28:48,763 - isocit_test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-04 16:28:48,763 - isocit_test - DEBUG - Trying to predict 1.1565888441989292 of type <class 'float'> 
+
+2020-12-04 16:28:48,764 - isocit_test - DEBUG - Roots are equal to: [5388.80020545  428.73479268]
+
+2020-12-04 16:28:48,764 - isocit_test - DEBUG - Roots are equal to: [5388.80020545  428.73479268]
+
+2020-12-04 16:28:48,765 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,765 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,766 - isocit_test - DEBUG - The calculated value is equal to: 428.7347926835253
+
+2020-12-04 16:28:48,766 - isocit_test - DEBUG - The calculated value is equal to: 428.7347926835253
+
+2020-12-04 16:28:48,767 - isocit_test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-04 16:28:48,767 - isocit_test - DEBUG - Trying to predict 1.4891720514092703 of type <class 'float'> 
+
+2020-12-04 16:28:48,768 - isocit_test - DEBUG - Roots are equal to: [5245.3380871   572.19691103]
+
+2020-12-04 16:28:48,768 - isocit_test - DEBUG - Roots are equal to: [5245.3380871   572.19691103]
+
+2020-12-04 16:28:48,769 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,769 - isocit_test - DEBUG - minimum: 0.2553781215864706
+ maximum: 2.688330213954227
+
+2020-12-04 16:28:48,770 - isocit_test - DEBUG - The calculated value is equal to: 572.1969110310428
+
+2020-12-04 16:28:48,770 - isocit_test - DEBUG - The calculated value is equal to: 572.1969110310428
+
+2020-12-04 16:28:48,770 - isocit_test - DEBUG - Rebuilding dataframes
+
+2020-12-04 16:28:48,770 - isocit_test - DEBUG - Rebuilding dataframes
+
+2020-12-04 16:28:48,819 - isocit_test - INFO - Done!
+2020-12-04 16:28:48,819 - isocit_test - INFO - Done!

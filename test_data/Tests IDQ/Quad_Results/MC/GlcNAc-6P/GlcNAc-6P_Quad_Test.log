@@ -1,0 +1,118 @@
+2020-12-06 18:21:52,415 - GlcNAc-6P_Quad_Test - INFO - ....................
+
+2020-12-06 18:21:52,416 - GlcNAc-6P_Quad_Test - INFO - CHOSEN PARAMETERS:
+Run name: GlcNAc-6P_Quad_Test 
+Logger level: 10 
+Order of polynomial : 2
+2020-12-06 18:21:52,416 - GlcNAc-6P_Quad_Test - INFO - ....................
+
+2020-12-06 18:21:56,883 - GlcNAc-6P_Quad_Test - INFO - Starting to process calculations...
+
+2020-12-06 18:21:56,891 - GlcNAc-6P_Quad_Test - INFO - Getting data for GlcNAc-6P
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - DEBUG - Checking limits for GlcNAc-6P
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (2.054982973893303) is under range
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (2.0302580035120896) is under range
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.5300430199026143) is under range
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.6958135572593405) is under range
+
+2020-12-06 18:21:56,893 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.5086885153110319) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.0378227896707306) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.7415496947189526) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.4912842860804922) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.1384380884067067) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.21519318241229676) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.6821097161572053) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.36486724107613855) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (1.979448070833064) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.7505501244543847) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (2.0220252484555465) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.5977441285537701) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.5305442428730099) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - For GlcNAc-6P the value to predict (0.40349397166859996) is under range
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - DEBUG - nans list: [5]
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - DEBUG - Cal dict x: [2567.4829999999997, 1200.874, 662.96, 322.839, 153.361, 78.437]
+ cal dict y: [2871.3157821617115, 1018.5466955218911, 351.8001168622486, 140.87396686044212, 54.44667918729725, nan]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - Removing cal6 from GlcNAc-6P calibration datas because nan value detected
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - DEBUG - Cal dict x: [2567.4829999999997, 1200.874, 662.96, 322.839, 153.361]
+ cal dict y: [2871.3157821617115, 1018.5466955218911, 351.8001168622486, 140.87396686044212, 54.44667918729725]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5']
+
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - DEBUG - Performing calculations for equation
+ x=[2567.483 1200.874  662.96   322.839  153.361] 
+ y=[2871.31578216 1018.54669552  351.80011686  140.87396686   54.44667919]
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - INFO - Equation for GlcNAc-6P is equal to: 
+          2
+0.000205 x + 0.6252 x - 78.88
+ 
+2020-12-06 18:21:56,899 - GlcNAc-6P_Quad_Test - DEBUG - Calculating residuals 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Predicting concentrations
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-06 18:21:57,429 - GlcNAc-6P_Quad_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 18:21:57,466 - GlcNAc-6P_Quad_Test - INFO - Done!
+2020-12-06 18:28:23,566 - GlcNAc-6P_Quad_Test - INFO - ....................
+
+2020-12-06 18:28:23,566 - GlcNAc-6P_Quad_Test - INFO - CHOSEN PARAMETERS:
+Run name: GlcNAc-6P_Quad_Test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-06 18:28:23,566 - GlcNAc-6P_Quad_Test - INFO - ....................
+

@@ -1,0 +1,2885 @@
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - ....................
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - CHOSEN PARAMETERS:
+Run name: Final Linear Test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - ....................
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - Starting to process calculations...
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - Getting data for 2_3-PG
+
+2020-12-07 15:54:34,477 - Final Linear Test - DEBUG - Checking limits for 2_3-PG
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - For 2_3-PG the value to predict (0.002464739525573359) is under range
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - For 2_3-PG the value to predict (0.00785168674903547) is under range
+
+2020-12-07 15:54:34,477 - Final Linear Test - INFO - For 2_3-PG the value to predict (0.5314156820262612) is under range
+
+2020-12-07 15:54:34,493 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:34,493 - Final Linear Test - DEBUG - Cal dict x: [42.065, 21.035, 10.515, 5.26, 2.63, 1.3]
+ cal dict y: [15.466553789537326, 7.80500012649438, 4.6152045227886145, 2.2088933864734805, 0.971129978779029, 0.5328392369279632]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:34,500 - Final Linear Test - DEBUG - Cal dict x: [42.065, 21.035, 10.515, 5.26, 2.63, 1.3]
+ cal dict y: [15.466553789537326, 7.80500012649438, 4.6152045227886145, 2.2088933864734805, 0.971129978779029, 0.5328392369279632]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:34,500 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[42.065 21.035 10.515  5.26   2.63   1.3  ] 
+ y=[15.46655379  7.80500013  4.61520452  2.20889339  0.97112998  0.53283924]
+2020-12-07 15:54:34,517 - Final Linear Test - INFO - Equation for 2_3-PG is equal to: 
+ 
+0.3635 x + 0.2494
+ 
+2020-12-07 15:54:34,517 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - Trying to predict 2.14648250582656 of type <class 'float'> 
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - The calculated value is equal to: 5.218390544491481
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - Trying to predict 0.817033983467004 of type <class 'float'> 
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5615080453258772
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - Trying to predict 0.86553841510722 of type <class 'float'> 
+
+2020-12-07 15:54:35,300 - Final Linear Test - DEBUG - The calculated value is equal to: 1.6949280343016582
+
+2020-12-07 15:54:35,316 - Final Linear Test - DEBUG - Trying to predict 0.9761959360960903 of type <class 'float'> 
+
+2020-12-07 15:54:35,316 - Final Linear Test - DEBUG - The calculated value is equal to: 1.9993110510934944
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - Trying to predict 1.3028434829345972 of type <class 'float'> 
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - The calculated value is equal to: 2.8978127059819796
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - Trying to predict 0.8994306277290198 of type <class 'float'> 
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7881545392096378
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - Trying to predict 1.7237498357901797 of type <class 'float'> 
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - The calculated value is equal to: 4.0555898215737605
+
+2020-12-07 15:54:35,317 - Final Linear Test - DEBUG - Trying to predict 0.7384967495760294 of type <class 'float'> 
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3454775399558427
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - Trying to predict 0.8890636872814606 of type <class 'float'> 
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7596384421551343
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - Trying to predict 0.9917515037536424 of type <class 'float'> 
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - The calculated value is equal to: 2.0420993818748374
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:35,333 - Final Linear Test - DEBUG - Trying to predict 1.816314130600988 of type <class 'float'> 
+
+2020-12-07 15:54:35,349 - Final Linear Test - DEBUG - The calculated value is equal to: 4.310204230517157
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - Trying to predict 2.181276332434207 of type <class 'float'> 
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - The calculated value is equal to: 5.314097097592673
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - Trying to predict 2.2519392828570983 of type <class 'float'> 
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - The calculated value is equal to: 5.508467998304383
+
+2020-12-07 15:54:35,350 - Final Linear Test - DEBUG - Trying to predict 2.4747552369041874 of type <class 'float'> 
+
+2020-12-07 15:54:35,366 - Final Linear Test - DEBUG - The calculated value is equal to: 6.121362555096645
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - Trying to predict 2.245025957326886 of type <class 'float'> 
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - The calculated value is equal to: 5.489451677839715
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - Trying to predict 0.5420116623096523 of type <class 'float'> 
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8050106735169834
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - Trying to predict 0.8401150015367616 of type <class 'float'> 
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - The calculated value is equal to: 1.6249964539574633
+
+2020-12-07 15:54:35,367 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:35,384 - Final Linear Test - INFO - Getting data for 6-PG
+
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - Checking limits for 6-PG
+
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - Cal dict x: [21.21, 10.605, 5.305, 2.65, 1.325, 0.665]
+ cal dict y: [52.452780069057596, 23.17494726647428, 12.091916001343643, 5.454491433257878, 1.9603375963867922, 1.0709171205588375]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - Cal dict x: [21.21, 10.605, 5.305, 2.65, 1.325, 0.665]
+ cal dict y: [52.452780069057596, 23.17494726647428, 12.091916001343643, 5.454491433257878, 1.9603375963867922, 1.0709171205588375]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[21.21  10.605  5.305  2.65   1.325  0.665] 
+ y=[52.45278007 23.17494727 12.091916    5.45449143  1.9603376   1.07091712]
+2020-12-07 15:54:35,400 - Final Linear Test - INFO - Equation for 6-PG is equal to: 
+ 
+2.494 x - 1.321
+ 
+2020-12-07 15:54:35,400 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 20.796010065815686 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 8.869639556010506
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 11.297163356793432 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 5.060270121763014
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 10.39224651119819 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 4.697366847529525
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 10.328557180311513 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 4.671825200443365
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 18.99619172613513 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 8.14784951345039
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 11.032304861786937 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 4.95405261071294
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - Trying to predict 26.55423581906091 of type <class 'float'> 
+
+2020-12-07 15:54:36,100 - Final Linear Test - DEBUG - The calculated value is equal to: 11.178889284093227
+
+2020-12-07 15:54:36,116 - Final Linear Test - DEBUG - Trying to predict 8.858148180695592 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 4.082139813304837
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 10.338128468478079 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 4.6756636214333005
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 9.304533023574397 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 4.261155732654158
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 16.88959635181 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 7.303031160748779
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 21.694200711318384 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 9.22984538898338
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 20.387433041289995 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 8.705785892882577
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 20.03865368165318 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 8.565913182795054
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 16.11120770569904 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 6.990870115593268
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 8.898537704830428 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 4.098337423753367
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 6.443697339628724 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 3.113860661508734
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - Trying to predict 10.445157647542374 of type <class 'float'> 
+
+2020-12-07 15:54:36,117 - Final Linear Test - DEBUG - The calculated value is equal to: 4.718586061997887
+
+2020-12-07 15:54:36,133 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:36,134 - Final Linear Test - INFO - Getting data for ADP
+
+2020-12-07 15:54:36,134 - Final Linear Test - DEBUG - Checking limits for ADP
+
+2020-12-07 15:54:36,134 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:36,149 - Final Linear Test - DEBUG - Cal dict x: [23.08, 11.54, 5.77, 2.885, 1.445, 0.72]
+ cal dict y: [8.972748698564649, 4.350576136826872, 2.473425444364046, 1.1357638082639372, 0.4937132216717017, 0.2381488709352351]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:36,150 - Final Linear Test - DEBUG - Cal dict x: [23.08, 11.54, 5.77, 2.885, 1.445, 0.72]
+ cal dict y: [8.972748698564649, 4.350576136826872, 2.473425444364046, 1.1357638082639372, 0.4937132216717017, 0.2381488709352351]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:36,150 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[23.08  11.54   5.77   2.885  1.445  0.72 ] 
+ y=[8.9727487  4.35057614 2.47342544 1.13576381 0.49371322 0.23814887]
+2020-12-07 15:54:36,150 - Final Linear Test - INFO - Equation for ADP is equal to: 
+ 
+0.3879 x + 0.006359
+ 
+2020-12-07 15:54:36,150 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:37,000 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:37,000 - Final Linear Test - DEBUG - Trying to predict 7.1665587905617 of type <class 'float'> 
+
+2020-12-07 15:54:37,000 - Final Linear Test - DEBUG - The calculated value is equal to: 18.458832650359426
+
+2020-12-07 15:54:37,000 - Final Linear Test - DEBUG - Trying to predict 4.205106346592574 of type <class 'float'> 
+
+2020-12-07 15:54:37,000 - Final Linear Test - DEBUG - The calculated value is equal to: 10.824275307929435
+
+2020-12-07 15:54:37,016 - Final Linear Test - DEBUG - Trying to predict 4.541276305609497 of type <class 'float'> 
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - The calculated value is equal to: 11.690913850156788
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - Trying to predict 4.458668083354948 of type <class 'float'> 
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - The calculated value is equal to: 11.477951723737066
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - Trying to predict 6.193083357796434 of type <class 'float'> 
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - The calculated value is equal to: 15.949235027737345
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - Trying to predict 4.182041065596882 of type <class 'float'> 
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - The calculated value is equal to: 10.764813535804922
+
+2020-12-07 15:54:37,017 - Final Linear Test - DEBUG - Trying to predict 6.325374221737538 of type <class 'float'> 
+
+2020-12-07 15:54:37,032 - Final Linear Test - DEBUG - The calculated value is equal to: 16.29027787942816
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - Trying to predict 3.4799362778798977 of type <class 'float'> 
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - The calculated value is equal to: 8.954803291292674
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - Trying to predict 4.118472997257221 of type <class 'float'> 
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - The calculated value is equal to: 10.600936495039008
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - Trying to predict 4.436140697300486 of type <class 'float'> 
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - The calculated value is equal to: 11.419876632591134
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - Trying to predict 4.968010064717267 of type <class 'float'> 
+
+2020-12-07 15:54:37,033 - Final Linear Test - DEBUG - The calculated value is equal to: 12.791023818322444
+
+2020-12-07 15:54:37,049 - Final Linear Test - DEBUG - Trying to predict 7.145844289092062 of type <class 'float'> 
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - The calculated value is equal to: 18.40543113462283
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - Trying to predict 5.781765024405434 of type <class 'float'> 
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - The calculated value is equal to: 14.888865678007864
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - Trying to predict 6.435632184466881 of type <class 'float'> 
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - The calculated value is equal to: 16.57452041070058
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - Trying to predict 6.088398615199997 of type <class 'float'> 
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - The calculated value is equal to: 15.679360131769455
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - Trying to predict 3.7775958128633347 of type <class 'float'> 
+
+2020-12-07 15:54:37,050 - Final Linear Test - DEBUG - The calculated value is equal to: 9.722162832378652
+
+2020-12-07 15:54:37,066 - Final Linear Test - DEBUG - Trying to predict 2.8040993817385753 of type <class 'float'> 
+
+2020-12-07 15:54:37,067 - Final Linear Test - DEBUG - The calculated value is equal to: 7.212511076461275
+
+2020-12-07 15:54:37,067 - Final Linear Test - DEBUG - Trying to predict 4.606296050882302 of type <class 'float'> 
+
+2020-12-07 15:54:37,067 - Final Linear Test - DEBUG - The calculated value is equal to: 11.858533281185073
+
+2020-12-07 15:54:37,067 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:37,084 - Final Linear Test - INFO - Getting data for AMP
+
+2020-12-07 15:54:37,099 - Final Linear Test - DEBUG - Checking limits for AMP
+
+2020-12-07 15:54:37,100 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:37,100 - Final Linear Test - DEBUG - Cal dict x: [27.735, 13.87, 6.935, 3.465, 1.735, 0.865]
+ cal dict y: [37.221472640341, 16.02793004800314, 7.961791131003262, 3.3785586101057556, 1.3911645758017843, 0.6550465007377607]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:37,100 - Final Linear Test - DEBUG - Cal dict x: [27.735, 13.87, 6.935, 3.465, 1.735, 0.865]
+ cal dict y: [37.221472640341, 16.02793004800314, 7.961791131003262, 3.3785586101057556, 1.3911645758017843, 0.6550465007377607]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:37,100 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[27.735 13.87   6.935  3.465  1.735  0.865] 
+ y=[37.22147264 16.02793005  7.96179113  3.37855861  1.39116458  0.6550465 ]
+2020-12-07 15:54:37,100 - Final Linear Test - INFO - Equation for AMP is equal to: 
+ 
+1.359 x - 1.259
+ 
+2020-12-07 15:54:37,100 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - Trying to predict 2.915550063690965 of type <class 'float'> 
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - The calculated value is equal to: 3.072776520550893
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - Trying to predict 1.7601338251036052 of type <class 'float'> 
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - The calculated value is equal to: 2.2224056672990016
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - Trying to predict 2.170201603431017 of type <class 'float'> 
+
+2020-12-07 15:54:37,834 - Final Linear Test - DEBUG - The calculated value is equal to: 2.524210051642543
+
+2020-12-07 15:54:37,849 - Final Linear Test - DEBUG - Trying to predict 1.973080439164413 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 2.379131518856521
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 3.0276212365483732 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 3.155259400490518
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 1.7228177370825097 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 2.1949415270603994
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 3.110738017446823 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 3.2164322363324134
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 1.4438892436465207 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 1.9896538973405469
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 1.7622940906172964 of type <class 'float'> 
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - The calculated value is equal to: 2.223995593740034
+
+2020-12-07 15:54:37,850 - Final Linear Test - DEBUG - Trying to predict 1.910111410798766 of type <class 'float'> 
+
+2020-12-07 15:54:37,866 - Final Linear Test - DEBUG - The calculated value is equal to: 2.3327871586238786
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - Trying to predict 2.3892791446967974 of type <class 'float'> 
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - The calculated value is equal to: 2.685448183384814
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - Trying to predict 2.9318763370414636 of type <class 'float'> 
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - The calculated value is equal to: 3.0847924387419523
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - Trying to predict 2.6280717658305632 of type <class 'float'> 
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - The calculated value is equal to: 2.8611963494587522
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - Trying to predict 2.9664073373622393 of type <class 'float'> 
+
+2020-12-07 15:54:37,867 - Final Linear Test - DEBUG - The calculated value is equal to: 3.110206791791309
+
+2020-12-07 15:54:37,883 - Final Linear Test - DEBUG - Trying to predict 2.881426752764968 of type <class 'float'> 
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - The calculated value is equal to: 3.04766222142749
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - Trying to predict 1.6037827050730886 of type <class 'float'> 
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.1073333401956584
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - Trying to predict 1.2190987546492165 of type <class 'float'> 
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8242111126993528
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - Trying to predict 2.0735682769482606 of type <class 'float'> 
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.453089219556802
+
+2020-12-07 15:54:37,884 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:37,916 - Final Linear Test - INFO - Getting data for ATP
+
+2020-12-07 15:54:37,917 - Final Linear Test - DEBUG - Checking limits for ATP
+
+2020-12-07 15:54:37,917 - Final Linear Test - INFO - For ATP the value to predict (11.814642633174564) is over range
+
+2020-12-07 15:54:37,917 - Final Linear Test - INFO - For ATP the value to predict (6.906590118938967) is over range
+
+2020-12-07 15:54:37,917 - Final Linear Test - INFO - For ATP the value to predict (7.399135822915245) is over range
+
+2020-12-07 15:54:37,917 - Final Linear Test - INFO - For ATP the value to predict (7.220607398940883) is over range
+
+2020-12-07 15:54:37,917 - Final Linear Test - INFO - For ATP the value to predict (9.777428333326142) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (6.1080575221696645) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (9.462763721675074) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (5.641674605874205) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (6.603686564671204) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (6.862745973195839) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (7.721969208814945) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (12.064453648847284) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (9.202538365307028) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (9.866539265425557) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (9.722468756126876) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (6.12192017635472) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (4.395122164612158) is over range
+
+2020-12-07 15:54:37,934 - Final Linear Test - INFO - For ATP the value to predict (7.646574940034914) is over range
+
+2020-12-07 15:54:37,949 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:37,950 - Final Linear Test - DEBUG - Cal dict x: [28.795, 14.395, 7.2, 3.6, 1.8, 0.9]
+ cal dict y: [1.603124575214312, 0.6969324568507129, 0.3725158265418371, 0.13892143634126283, 0.046972579680436936, 0.02660680215958438]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:37,950 - Final Linear Test - DEBUG - Cal dict x: [28.795, 14.395, 7.2, 3.6, 1.8, 0.9]
+ cal dict y: [1.603124575214312, 0.6969324568507129, 0.3725158265418371, 0.13892143634126283, 0.046972579680436936, 0.02660680215958438]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:37,950 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[28.795 14.395  7.2    3.6    1.8    0.9  ] 
+ y=[1.60312458 0.69693246 0.37251583 0.13892144 0.04697258 0.0266068 ]
+2020-12-07 15:54:37,950 - Final Linear Test - INFO - Equation for ATP is equal to: 
+ 
+0.05658 x - 0.05371
+ 
+2020-12-07 15:54:37,950 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:38,700 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:38,700 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,716 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:38,717 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:38,717 - Final Linear Test - INFO - Getting data for CDP
+
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - Checking limits for CDP
+
+2020-12-07 15:54:38,734 - Final Linear Test - INFO - For CDP the value to predict (0.8057966435399708) is under range
+
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - Cal dict x: [20.355, 10.18, 5.09, 2.545, 1.275, 0.635]
+ cal dict y: [41.96057995507469, 16.706944793536906, 8.510971118377862, 3.8271878264229793, 1.6701747512657272, 0.843775004297859]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - Cal dict x: [20.355, 10.18, 5.09, 2.545, 1.275, 0.635]
+ cal dict y: [41.96057995507469, 16.706944793536906, 8.510971118377862, 3.8271878264229793, 1.6701747512657272, 0.843775004297859]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[20.355 10.18   5.09   2.545  1.275  0.635] 
+ y=[41.96057996 16.70694479  8.51097112  3.82718783  1.67017475  0.843775  ]
+2020-12-07 15:54:38,734 - Final Linear Test - INFO - Equation for CDP is equal to: 
+ 
+2.069 x - 1.565
+ 
+2020-12-07 15:54:38,734 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:39,600 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:39,600 - Final Linear Test - DEBUG - Trying to predict 4.186964380857603 of type <class 'float'> 
+
+2020-12-07 15:54:39,600 - Final Linear Test - DEBUG - The calculated value is equal to: 2.780577696487448
+
+2020-12-07 15:54:39,600 - Final Linear Test - DEBUG - Trying to predict 1.2654740715930395 of type <class 'float'> 
+
+2020-12-07 15:54:39,600 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3682680415295987
+
+2020-12-07 15:54:39,616 - Final Linear Test - DEBUG - Trying to predict 1.5118217257179987 of type <class 'float'> 
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - The calculated value is equal to: 1.487357661403943
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - Trying to predict 1.4943580418810514 of type <class 'float'> 
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4789153505683268
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - Trying to predict 2.311434793055658 of type <class 'float'> 
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8739073794195127
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - Trying to predict 1.3459366114859248 of type <class 'float'> 
+
+2020-12-07 15:54:39,617 - Final Linear Test - DEBUG - The calculated value is equal to: 1.407165319946983
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - Trying to predict 2.942474342045969 of type <class 'float'> 
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - The calculated value is equal to: 2.178965125075227
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - Trying to predict 0.8723744648432729 of type <class 'float'> 
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.1782354515832074
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - Trying to predict 1.084955503689453 of type <class 'float'> 
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.2810015818254834
+
+2020-12-07 15:54:39,634 - Final Linear Test - DEBUG - Trying to predict 1.2249826889978888 of type <class 'float'> 
+
+2020-12-07 15:54:39,649 - Final Linear Test - DEBUG - The calculated value is equal to: 1.348693658414113
+
+2020-12-07 15:54:39,650 - Final Linear Test - DEBUG - Trying to predict 3.1606797843635723 of type <class 'float'> 
+
+2020-12-07 15:54:39,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.284450209852755
+
+2020-12-07 15:54:39,650 - Final Linear Test - DEBUG - Trying to predict 4.6287499366063445 of type <class 'float'> 
+
+2020-12-07 15:54:39,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.9941460947211334
+
+2020-12-07 15:54:39,650 - Final Linear Test - DEBUG - Trying to predict 3.449325008042199 of type <class 'float'> 
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - The calculated value is equal to: 2.4239873614791154
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - Trying to predict 4.132838738606644 of type <class 'float'> 
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - The calculated value is equal to: 2.754412226456823
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - Trying to predict 3.6783293241095816 of type <class 'float'> 
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5346928481902458
+
+2020-12-07 15:54:39,667 - Final Linear Test - DEBUG - Trying to predict 1.0242125760785878 of type <class 'float'> 
+
+2020-12-07 15:54:39,682 - Final Linear Test - DEBUG - The calculated value is equal to: 1.2516371773422024
+
+2020-12-07 15:54:39,683 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:39,683 - Final Linear Test - DEBUG - Trying to predict 1.5365850488891877 of type <class 'float'> 
+
+2020-12-07 15:54:39,683 - Final Linear Test - DEBUG - The calculated value is equal to: 1.499328770906721
+
+2020-12-07 15:54:39,683 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:39,717 - Final Linear Test - INFO - Getting data for CMP
+
+2020-12-07 15:54:39,717 - Final Linear Test - DEBUG - Checking limits for CMP
+
+2020-12-07 15:54:39,717 - Final Linear Test - INFO - For CMP the value to predict (0.6962192364330753) is under range
+
+2020-12-07 15:54:39,717 - Final Linear Test - INFO - For CMP the value to predict (0.7156576321029521) is under range
+
+2020-12-07 15:54:39,717 - Final Linear Test - INFO - For CMP the value to predict (0.5317327227877904) is under range
+
+2020-12-07 15:54:39,717 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:39,717 - Final Linear Test - DEBUG - Cal dict x: [17.575, 8.79, 4.395, 2.195, 1.1, 0.55]
+ cal dict y: [48.14621196911325, 22.14309726442929, 10.677453410511207, 4.454989733150226, 1.749087017507334, 0.7940394538912303]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:39,717 - Final Linear Test - DEBUG - Cal dict x: [17.575, 8.79, 4.395, 2.195, 1.1, 0.55]
+ cal dict y: [48.14621196911325, 22.14309726442929, 10.677453410511207, 4.454989733150226, 1.749087017507334, 0.7940394538912303]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:39,717 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[17.575  8.79   4.395  2.195  1.1    0.55 ] 
+ y=[48.14621197 22.14309726 10.67745341  4.45498973  1.74908702  0.79403945]
+2020-12-07 15:54:39,734 - Final Linear Test - INFO - Equation for CMP is equal to: 
+ 
+2.792 x - 1.444
+ 
+2020-12-07 15:54:39,734 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 2.5697913888065957 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4373076621941963
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 0.8950399489345447 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8375241202377476
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 1.0024342699672684 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8759855567957217
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 0.9323689907234487 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8508928771582965
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 1.5912352343356768 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 1.0868545368177585
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 0.9014784656870708 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8398299647295552
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 1.651783857568562 of type <class 'float'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - The calculated value is equal to: 1.1085389891123514
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:40,767 - Final Linear Test - DEBUG - Trying to predict 0.8703411570607732 of type <class 'float'> 
+
+2020-12-07 15:54:40,783 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8286786709851541
+
+2020-12-07 15:54:40,783 - Final Linear Test - DEBUG - Trying to predict 0.9083469417790568 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8422897917941669
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 1.9044590636202028 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 1.1990302861742048
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 2.537325330628665 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4256804995575656
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 2.2417498987746627 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3198252214476125
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 2.200848637221457 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 1.305177135205786
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 2.154213565200209 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 1.2884755829572714
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Trying to predict 0.9139456662706829 of type <class 'float'> 
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8442948790722422
+
+2020-12-07 15:54:40,784 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - Getting data for CTP
+
+2020-12-07 15:54:40,800 - Final Linear Test - DEBUG - Checking limits for CTP
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - For CTP the value to predict (6.650407874018056) is over range
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - For CTP the value to predict (6.828741433724897) is over range
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - For CTP the value to predict (5.261035807967813) is over range
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - For CTP the value to predict (5.869964989060858) is over range
+
+2020-12-07 15:54:40,800 - Final Linear Test - INFO - For CTP the value to predict (5.65207107907285) is over range
+
+2020-12-07 15:54:40,816 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:40,816 - Final Linear Test - DEBUG - Cal dict x: [23.42, 11.71, 5.855, 2.93, 1.465, 0.73]
+ cal dict y: [4.590189956097771, 2.2539115909001204, 1.1585467587410285, 0.4619543525346879, 0.16810601003258027, 0.0906609729336025]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:40,817 - Final Linear Test - DEBUG - Cal dict x: [23.42, 11.71, 5.855, 2.93, 1.465, 0.73]
+ cal dict y: [4.590189956097771, 2.2539115909001204, 1.1585467587410285, 0.4619543525346879, 0.16810601003258027, 0.0906609729336025]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:40,817 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[23.42  11.71   5.855  2.93   1.465  0.73 ] 
+ y=[4.59018996 2.25391159 1.15854676 0.46195435 0.16810601 0.09066097]
+2020-12-07 15:54:40,817 - Final Linear Test - INFO - Equation for CTP is equal to: 
+ 
+0.1999 x - 0.08196
+ 
+2020-12-07 15:54:40,817 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - Trying to predict 2.2239722579181844 of type <class 'float'> 
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - The calculated value is equal to: 11.53826556119828
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - Trying to predict 2.3439616549293594 of type <class 'float'> 
+
+2020-12-07 15:54:41,517 - Final Linear Test - DEBUG - The calculated value is equal to: 12.1386611326275
+
+2020-12-07 15:54:41,533 - Final Linear Test - DEBUG - Trying to predict 2.3676145676685807 of type <class 'float'> 
+
+2020-12-07 15:54:41,534 - Final Linear Test - DEBUG - The calculated value is equal to: 12.257014123923119
+
+2020-12-07 15:54:41,534 - Final Linear Test - DEBUG - Trying to predict 3.3518637268237734 of type <class 'float'> 
+
+2020-12-07 15:54:41,534 - Final Linear Test - DEBUG - The calculated value is equal to: 17.1819395845009
+
+2020-12-07 15:54:41,534 - Final Linear Test - DEBUG - Trying to predict 2.237416044353029 of type <class 'float'> 
+
+2020-12-07 15:54:41,549 - Final Linear Test - DEBUG - The calculated value is equal to: 11.605534753641752
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - Trying to predict 4.125001364769411 of type <class 'float'> 
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - The calculated value is equal to: 21.050518188030154
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - Trying to predict 1.6869734047513036 of type <class 'float'> 
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - The calculated value is equal to: 8.851263698242523
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - Trying to predict 1.9455304184289242 of type <class 'float'> 
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - The calculated value is equal to: 10.145015394982444
+
+2020-12-07 15:54:41,550 - Final Linear Test - DEBUG - Trying to predict 2.0431290514970843 of type <class 'float'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - The calculated value is equal to: 10.633373437703597
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict 4.384349863031921 of type <class 'float'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - The calculated value is equal to: 22.3482302666993
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict 1.912300689347995 of type <class 'float'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - The calculated value is equal to: 9.9787425185705
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict 1.3862731366305716 of type <class 'float'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - The calculated value is equal to: 7.346638174618529
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - Trying to predict 2.4678345415505922 of type <class 'float'> 
+
+2020-12-07 15:54:41,567 - Final Linear Test - DEBUG - The calculated value is equal to: 12.758488670727516
+
+2020-12-07 15:54:41,583 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:41,599 - Final Linear Test - INFO - Getting data for Citrate
+
+2020-12-07 15:54:41,600 - Final Linear Test - DEBUG - Checking limits for Citrate
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (7.671944044226324) is over range
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (4.158315550875092) is over range
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (4.573877089121851) is over range
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (5.600533827904421) is over range
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (6.25558037226794) is over range
+
+2020-12-07 15:54:41,600 - Final Linear Test - INFO - For Citrate the value to predict (3.8492015125814167) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (6.631812784942643) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (3.9603725989466096) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (4.27068090050851) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (6.773362191974466) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (7.339907960031561) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (6.56863673251687) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (6.212137844846323) is over range
+
+2020-12-07 15:54:41,617 - Final Linear Test - INFO - For Citrate the value to predict (6.698267494420243) is over range
+
+2020-12-07 15:54:41,633 - Final Linear Test - INFO - For Citrate the value to predict (4.059852095935721) is over range
+
+2020-12-07 15:54:41,634 - Final Linear Test - INFO - For Citrate the value to predict (4.144355504198787) is over range
+
+2020-12-07 15:54:41,634 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:41,634 - Final Linear Test - DEBUG - Cal dict x: [31.62, 15.81, 7.905, 3.955, 1.975, 0.99]
+ cal dict y: [3.528635470800113, 1.8212370480232687, 1.068709659394107, 0.541927413138884, 0.2537956198123324, 0.17891356459657248]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:41,634 - Final Linear Test - DEBUG - Cal dict x: [31.62, 15.81, 7.905, 3.955, 1.975, 0.99]
+ cal dict y: [3.528635470800113, 1.8212370480232687, 1.068709659394107, 0.541927413138884, 0.2537956198123324, 0.17891356459657248]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:41,634 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[31.62  15.81   7.905  3.955  1.975  0.99 ] 
+ y=[3.52863547 1.82123705 1.06870966 0.54192741 0.25379562 0.17891356]
+2020-12-07 15:54:41,634 - Final Linear Test - INFO - Equation for Citrate is equal to: 
+ 
+0.1091 x + 0.1003
+ 
+2020-12-07 15:54:41,650 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:42,250 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:42,250 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,250 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,250 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,250 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,266 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,266 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict 3.409229429160409 of type <class 'float'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - The calculated value is equal to: 30.33198003184201
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict 0.673041649863937 of type <class 'float'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - The calculated value is equal to: 5.250167872906155
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict 0.5723507460465498 of type <class 'float'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - The calculated value is equal to: 4.327164578040718
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict 0.6693623548412012 of type <class 'float'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - The calculated value is equal to: 5.21644087970202
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,267 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,283 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,283 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,284 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,284 - Final Linear Test - DEBUG - Trying to predict 2.9827047104153075 of type <class 'float'> 
+
+2020-12-07 15:54:42,285 - Final Linear Test - DEBUG - The calculated value is equal to: 26.422155948255813
+
+2020-12-07 15:54:42,285 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:42,285 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:42,300 - Final Linear Test - INFO - Getting data for F6P
+
+2020-12-07 15:54:42,300 - Final Linear Test - DEBUG - Checking limits for F6P
+
+2020-12-07 15:54:42,316 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:42,317 - Final Linear Test - DEBUG - Cal dict x: [24.785, 12.39, 6.195, 3.1, 1.55, 0.775]
+ cal dict y: [8.038055378796216, 3.705079351778904, 1.9097640229646624, 0.7981294120466673, 0.30187029674976457, 0.1310290952610138]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:42,317 - Final Linear Test - DEBUG - Cal dict x: [24.785, 12.39, 6.195, 3.1, 1.55, 0.775]
+ cal dict y: [8.038055378796216, 3.705079351778904, 1.9097640229646624, 0.7981294120466673, 0.30187029674976457, 0.1310290952610138]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:42,317 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[24.785 12.39   6.195  3.1    1.55   0.775] 
+ y=[8.03805538 3.70507935 1.90976402 0.79812941 0.3018703  0.1310291 ]
+2020-12-07 15:54:42,317 - Final Linear Test - INFO - Equation for F6P is equal to: 
+ 
+0.3293 x - 0.1975
+ 
+2020-12-07 15:54:42,317 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.6757564121251268 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 2.651648756415385
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.4006319138424586 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8161908538104201
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.38784166756057464 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7773513015380342
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.3800968364378829 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7538329292877164
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.8266020928471278 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 3.1097148930905
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - Trying to predict 0.5077734835029075 of type <class 'float'> 
+
+2020-12-07 15:54:42,951 - Final Linear Test - DEBUG - The calculated value is equal to: 2.141542727704092
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.8106080866700645 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 3.0611466305826243
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.379868797731494 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 1.75314045464245
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.3617465826775812 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 1.6981095581791963
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.3922224005924899 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7906540719331152
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.672637886895346 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 2.642178874365781
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.5258800328731376 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 2.1965260529066466
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.5865932658953037 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 2.3808911335798744
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.6299306870291461 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5124918859330463
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.528904642032801 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 2.205710744348177
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.32386846901532323 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 1.583086833585659
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - Trying to predict 0.4066632719493088 of type <class 'float'> 
+
+2020-12-07 15:54:42,967 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8345060014081869
+
+2020-12-07 15:54:42,983 - Final Linear Test - DEBUG - Trying to predict 0.5281256394690798 of type <class 'float'> 
+
+2020-12-07 15:54:42,984 - Final Linear Test - DEBUG - The calculated value is equal to: 2.2033451831129076
+
+2020-12-07 15:54:42,984 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:43,000 - Final Linear Test - INFO - Getting data for Fumarate
+
+2020-12-07 15:54:43,000 - Final Linear Test - DEBUG - Checking limits for Fumarate
+
+2020-12-07 15:54:43,000 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:43,000 - Final Linear Test - DEBUG - Cal dict x: [33.42, 16.71, 8.355, 4.18, 2.09]
+ cal dict y: [21.516341546736665, 11.723005599242567, 7.061751901154727, 3.0022851535633968, 1.0739533962080718]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML']
+
+2020-12-07 15:54:43,000 - Final Linear Test - DEBUG - Cal dict x: [33.42, 16.71, 8.355, 4.18, 2.09]
+ cal dict y: [21.516341546736665, 11.723005599242567, 7.061751901154727, 3.0022851535633968, 1.0739533962080718]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML']
+
+2020-12-07 15:54:43,000 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[33.42  16.71   8.355  4.18   2.09 ] 
+ y=[21.51634155 11.7230056   7.0617519   3.00228515  1.0739534 ]
+2020-12-07 15:54:43,017 - Final Linear Test - INFO - Equation for Fumarate is equal to: 
+ 
+0.6378 x + 0.6149
+ 
+2020-12-07 15:54:43,017 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:43,684 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:43,699 - Final Linear Test - DEBUG - Trying to predict 6.948122385975631 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 9.929279884113306
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 4.851321581389219 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 6.641884668586396
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 5.408391349131745 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 7.515266863588313
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 4.7912055050939175 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 6.547633797851727
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 7.029919622475878 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 10.057522797472583
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 3.5256327818033975 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 4.56345022335751
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 6.775223514601622 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 9.658206484445744
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 3.187938714225394 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 4.034008485430134
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 4.133580342125037 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 5.516599371679602
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 3.43369763521852 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 4.419312945099691
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 6.53889028448338 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 9.287679761897117
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 4.649219732200954 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 6.325026409748742
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - Trying to predict 7.444955450555895 of type <class 'float'> 
+
+2020-12-07 15:54:43,700 - Final Linear Test - DEBUG - The calculated value is equal to: 10.708222087800076
+
+2020-12-07 15:54:43,716 - Final Linear Test - DEBUG - Trying to predict 6.15473671089119 of type <class 'float'> 
+
+2020-12-07 15:54:43,716 - Final Linear Test - DEBUG - The calculated value is equal to: 8.685398125466884
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - Trying to predict 5.920153325234218 of type <class 'float'> 
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - The calculated value is equal to: 8.317614834863395
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - Trying to predict 5.0215060731374495 of type <class 'float'> 
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - The calculated value is equal to: 6.90870242385732
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - Trying to predict 3.5666369615936726 of type <class 'float'> 
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - The calculated value is equal to: 4.62773718097614
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - Trying to predict 4.73039257951755 of type <class 'float'> 
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - The calculated value is equal to: 6.452290396540233
+
+2020-12-07 15:54:43,717 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:43,734 - Final Linear Test - INFO - Getting data for G1P
+
+2020-12-07 15:54:43,734 - Final Linear Test - DEBUG - Checking limits for G1P
+
+2020-12-07 15:54:43,734 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:43,734 - Final Linear Test - DEBUG - Cal dict x: [29.88, 14.94, 7.47, 3.735, 1.87, 0.935]
+ cal dict y: [0.30290498909676966, 0.13999176087884066, 0.06810666340909996, 0.027396713934993395, 0.011244110089517433, 0.006847650529726935]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:43,734 - Final Linear Test - DEBUG - Cal dict x: [29.88, 14.94, 7.47, 3.735, 1.87, 0.935]
+ cal dict y: [0.30290498909676966, 0.13999176087884066, 0.06810666340909996, 0.027396713934993395, 0.011244110089517433, 0.006847650529726935]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:43,734 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[29.88  14.94   7.47   3.735  1.87   0.935] 
+ y=[0.30290499 0.13999176 0.06810666 0.02739671 0.01124411 0.00684765]
+2020-12-07 15:54:43,750 - Final Linear Test - INFO - Equation for G1P is equal to: 
+ 
+0.01031 x - 0.008359
+ 
+2020-12-07 15:54:43,750 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:44,317 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:44,317 - Final Linear Test - DEBUG - Trying to predict 0.28018585581926986 of type <class 'float'> 
+
+2020-12-07 15:54:44,317 - Final Linear Test - DEBUG - The calculated value is equal to: 27.981860040314377
+
+2020-12-07 15:54:44,333 - Final Linear Test - DEBUG - Trying to predict 0.05512576651031106 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 6.156493607455321
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.056841289596598024 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 6.32285771091412
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.06848295697999698 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 7.451816902711756
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.17284018194997935 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 17.571934964868365
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.11272957783871973 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 11.742665256245079
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.2368311574528565 of type <class 'float'> 
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - The calculated value is equal to: 23.777506521490004
+
+2020-12-07 15:54:44,334 - Final Linear Test - DEBUG - Trying to predict 0.07497219502035704 of type <class 'float'> 
+
+2020-12-07 15:54:44,349 - Final Linear Test - DEBUG - The calculated value is equal to: 8.081115498192535
+
+2020-12-07 15:54:44,349 - Final Linear Test - DEBUG - Trying to predict 0.07296758836707518 of type <class 'float'> 
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - The calculated value is equal to: 7.886717304821328
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - Trying to predict 0.0896538229332212 of type <class 'float'> 
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - The calculated value is equal to: 9.504877081212562
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - Trying to predict 0.20433781496698503 of type <class 'float'> 
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - The calculated value is equal to: 20.626440916921695
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - Trying to predict 0.2622269274039998 of type <class 'float'> 
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - The calculated value is equal to: 26.240279848960775
+
+2020-12-07 15:54:44,350 - Final Linear Test - DEBUG - Trying to predict 0.21800602970151423 of type <class 'float'> 
+
+2020-12-07 15:54:44,366 - Final Linear Test - DEBUG - The calculated value is equal to: 21.951926017278975
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - Trying to predict 0.2526784752627859 of type <class 'float'> 
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - The calculated value is equal to: 25.314311733118952
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - Trying to predict 0.21122511069949032 of type <class 'float'> 
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - The calculated value is equal to: 21.29434144764192
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - Trying to predict 0.04359973005661026 of type <class 'float'> 
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - The calculated value is equal to: 5.038747809464573
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - Trying to predict 0.04264615126012663 of type <class 'float'> 
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - The calculated value is equal to: 4.946273809655174
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - Trying to predict 0.0741980452510449 of type <class 'float'> 
+
+2020-12-07 15:54:44,367 - Final Linear Test - DEBUG - The calculated value is equal to: 8.006041759258947
+
+2020-12-07 15:54:44,383 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:44,400 - Final Linear Test - INFO - Getting data for G6P
+
+2020-12-07 15:54:44,400 - Final Linear Test - DEBUG - Checking limits for G6P
+
+2020-12-07 15:54:44,400 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:44,416 - Final Linear Test - DEBUG - Cal dict x: [21.34, 10.67, 5.335, 2.67, 1.335, 0.665]
+ cal dict y: [1.8031729623877863, 0.8922876600434028, 0.48672927726592047, 0.21154479951719274, 0.08391903391152093, 0.03808360559095496]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:44,417 - Final Linear Test - DEBUG - Cal dict x: [21.34, 10.67, 5.335, 2.67, 1.335, 0.665]
+ cal dict y: [1.8031729623877863, 0.8922876600434028, 0.48672927726592047, 0.21154479951719274, 0.08391903391152093, 0.03808360559095496]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:44,417 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[21.34  10.67   5.335  2.67   1.335  0.665] 
+ y=[1.80317296 0.89228766 0.48672928 0.2115448  0.08391903 0.03808361]
+2020-12-07 15:54:44,417 - Final Linear Test - INFO - Equation for G6P is equal to: 
+ 
+0.08528 x - 0.01123
+ 
+2020-12-07 15:54:44,417 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:45,023 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:45,023 - Final Linear Test - DEBUG - Trying to predict 0.8743899366699952 of type <class 'float'> 
+
+2020-12-07 15:54:45,023 - Final Linear Test - DEBUG - The calculated value is equal to: 10.384632910761475
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 0.6081658185670863 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 7.26292657348703
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 0.6160772465667418 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 7.355694858717552
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 0.5561324890278176 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 6.652791114199166
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 1.2064566630266942 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 14.278400355471284
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 0.7049418859498111 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 8.397709045480688
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - Trying to predict 1.146698283321294 of type <class 'float'> 
+
+2020-12-07 15:54:45,034 - Final Linear Test - DEBUG - The calculated value is equal to: 13.577682051055715
+
+2020-12-07 15:54:45,049 - Final Linear Test - DEBUG - Trying to predict 0.5487830475032504 of type <class 'float'> 
+
+2020-12-07 15:54:45,049 - Final Linear Test - DEBUG - The calculated value is equal to: 6.566612602852568
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - Trying to predict 0.5422519566113312 of type <class 'float'> 
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - The calculated value is equal to: 6.490029955225059
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - Trying to predict 0.5457680971631831 of type <class 'float'> 
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - The calculated value is equal to: 6.531259721790464
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - Trying to predict 0.9073195054254847 of type <class 'float'> 
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - The calculated value is equal to: 10.770760374344583
+
+2020-12-07 15:54:45,050 - Final Linear Test - DEBUG - Trying to predict 0.696635139258791 of type <class 'float'> 
+
+2020-12-07 15:54:45,066 - Final Linear Test - DEBUG - The calculated value is equal to: 8.300305309214137
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.8182657700293067 of type <class 'float'> 
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - The calculated value is equal to: 9.72652887448945
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.8063403224310122 of type <class 'float'> 
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - The calculated value is equal to: 9.586692763442441
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.6883204047061465 of type <class 'float'> 
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - The calculated value is equal to: 8.202807908412487
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.5290221220237341 of type <class 'float'> 
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - The calculated value is equal to: 6.334898786916597
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.5916321685431608 of type <class 'float'> 
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - The calculated value is equal to: 7.069055332873078
+
+2020-12-07 15:54:45,067 - Final Linear Test - DEBUG - Trying to predict 0.7660847381192888 of type <class 'float'> 
+
+2020-12-07 15:54:45,083 - Final Linear Test - DEBUG - The calculated value is equal to: 9.11466147810256
+
+2020-12-07 15:54:45,084 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:45,084 - Final Linear Test - INFO - Getting data for GDP
+
+2020-12-07 15:54:45,084 - Final Linear Test - DEBUG - Checking limits for GDP
+
+2020-12-07 15:54:45,099 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:45,099 - Final Linear Test - DEBUG - Cal dict x: [24.565, 12.28, 6.14, 3.07, 1.535, 0.77]
+ cal dict y: [100.9123248091693, 51.22365368954117, 29.641811192572828, 12.655850023026183, 4.486610137374859, 1.5395998674323377]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:45,100 - Final Linear Test - DEBUG - Cal dict x: [24.565, 12.28, 6.14, 3.07, 1.535, 0.77]
+ cal dict y: [100.9123248091693, 51.22365368954117, 29.641811192572828, 12.655850023026183, 4.486610137374859, 1.5395998674323377]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:45,100 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[24.565 12.28   6.14   3.07   1.535  0.77 ] 
+ y=[100.91232481  51.22365369  29.64181119  12.65585002   4.48661014
+   1.53959987]
+2020-12-07 15:54:45,100 - Final Linear Test - INFO - Equation for GDP is equal to: 
+ 
+4.152 x - 0.05574
+ 
+2020-12-07 15:54:45,100 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 13.406068470145124 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 3.2421898025772196
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 4.480336729445517 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.092485621733364
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 4.694620419093582 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.144094448539421
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 4.358346350692625 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.0631050359342147
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 8.523978315570753 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 2.066370281955761
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - Trying to predict 4.9279523557180465 of type <class 'float'> 
+
+2020-12-07 15:54:45,634 - Final Linear Test - DEBUG - The calculated value is equal to: 1.2002909211937394
+
+2020-12-07 15:54:45,649 - Final Linear Test - DEBUG - Trying to predict 10.278408381702096 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.48891330226225
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 3.560670949309164 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 0.8709901264650756
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 4.250928273886315 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 1.0372340938627882
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 4.664062327738484 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 1.136734731862622
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 7.972645552123442 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 1.9335853875571776
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 12.434279889858768 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 3.0081408713941102
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 9.944259662063233 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.408435766022181
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 10.494907030277517 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5410555874563543
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 10.257177644612744 of type <class 'float'> 
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - The calculated value is equal to: 2.483800017927783
+
+2020-12-07 15:54:45,650 - Final Linear Test - DEBUG - Trying to predict 3.8452419791396704 of type <class 'float'> 
+
+2020-12-07 15:54:45,666 - Final Linear Test - DEBUG - The calculated value is equal to: 0.9395271999897311
+
+2020-12-07 15:54:45,667 - Final Linear Test - DEBUG - Trying to predict 2.2681374637854894 of type <class 'float'> 
+
+2020-12-07 15:54:45,667 - Final Linear Test - DEBUG - The calculated value is equal to: 0.5596918801777478
+
+2020-12-07 15:54:45,667 - Final Linear Test - DEBUG - Trying to predict 4.978084417335271 of type <class 'float'> 
+
+2020-12-07 15:54:45,667 - Final Linear Test - DEBUG - The calculated value is equal to: 1.2123649007377877
+
+2020-12-07 15:54:45,667 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:45,683 - Final Linear Test - INFO - Getting data for GMP
+
+2020-12-07 15:54:45,683 - Final Linear Test - DEBUG - Checking limits for GMP
+
+2020-12-07 15:54:45,683 - Final Linear Test - INFO - For GMP the value to predict (3.730770832063396) is under range
+
+2020-12-07 15:54:45,683 - Final Linear Test - INFO - For GMP the value to predict (4.179423725759281) is under range
+
+2020-12-07 15:54:45,683 - Final Linear Test - INFO - For GMP the value to predict (4.380295671066233) is under range
+
+2020-12-07 15:54:45,683 - Final Linear Test - INFO - For GMP the value to predict (7.290206275223414) is under range
+
+2020-12-07 15:54:45,699 - Final Linear Test - INFO - For GMP the value to predict (4.337561141087167) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (3.7568680899304656) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (3.849896964618444) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (4.2420813987519015) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (0.35957595480925714) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (6.862570407338747) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (0.26264622925843856) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (0.1756351631772688) is under range
+
+2020-12-07 15:54:45,700 - Final Linear Test - INFO - For GMP the value to predict (3.388599738261538) is under range
+
+2020-12-07 15:54:45,717 - Final Linear Test - INFO - For GMP the value to predict (2.608057140162075) is under range
+
+2020-12-07 15:54:45,717 - Final Linear Test - INFO - For GMP the value to predict (4.53990464042762) is under range
+
+2020-12-07 15:54:45,717 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:45,717 - Final Linear Test - DEBUG - Cal dict x: [23.36, 11.68, 5.84, 2.92, 1.46, 0.73]
+ cal dict y: [573.6645713488587, 219.20184096118018, 109.21695287583947, 45.603741355519226, 19.443626052646046, 8.053010217325633]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:45,717 - Final Linear Test - DEBUG - Cal dict x: [23.36, 11.68, 5.84, 2.92, 1.46, 0.73]
+ cal dict y: [573.6645713488587, 219.20184096118018, 109.21695287583947, 45.603741355519226, 19.443626052646046, 8.053010217325633]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:45,717 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[23.36 11.68  5.84  2.92  1.46  0.73] 
+ y=[573.66457135 219.20184096 109.21695288  45.60374136  19.44362605
+   8.05301022]
+2020-12-07 15:54:45,733 - Final Linear Test - INFO - Equation for GMP is equal to: 
+ 
+24.78 x - 27.44
+ 
+2020-12-07 15:54:45,733 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict 10.537580495080508 of type <class 'float'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - The calculated value is equal to: 1.532392932192889
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict 9.026954124244353 of type <class 'float'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4714422613131368
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,367 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,382 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,382 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict 9.395427214534928 of type <class 'float'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4863093935755736
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict 8.054459162408769 of type <class 'float'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - The calculated value is equal to: 1.432204087337497
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict 10.42498433688748 of type <class 'float'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5278499085089128
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict 9.883061108441504 of type <class 'float'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - The calculated value is equal to: 1.505984419479471
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:46,383 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:46,400 - Final Linear Test - INFO - Getting data for Gly-3P
+
+2020-12-07 15:54:46,400 - Final Linear Test - DEBUG - Checking limits for Gly-3P
+
+2020-12-07 15:54:46,416 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:46,417 - Final Linear Test - DEBUG - Cal dict x: [9.125, 4.565, 2.28, 1.14, 0.57, 0.285]
+ cal dict y: [19.71620752433543, 8.739413386113082, 4.494065712962568, 1.9555252694585255, 0.7296919801622846, 0.35738993887214354]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:46,417 - Final Linear Test - DEBUG - Cal dict x: [9.125, 4.565, 2.28, 1.14, 0.57, 0.285]
+ cal dict y: [19.71620752433543, 8.739413386113082, 4.494065712962568, 1.9555252694585255, 0.7296919801622846, 0.35738993887214354]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:46,417 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[9.125 4.565 2.28  1.14  0.57  0.285] 
+ y=[19.71620752  8.73941339  4.49406571  1.95552527  0.72969198  0.35738994]
+2020-12-07 15:54:46,417 - Final Linear Test - INFO - Equation for Gly-3P is equal to: 
+ 
+2.185 x - 0.544
+ 
+2020-12-07 15:54:46,417 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:47,317 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:47,317 - Final Linear Test - DEBUG - Trying to predict 9.014804172426873 of type <class 'float'> 
+
+2020-12-07 15:54:47,317 - Final Linear Test - DEBUG - The calculated value is equal to: 4.374423508714661
+
+2020-12-07 15:54:47,317 - Final Linear Test - DEBUG - Trying to predict 3.015713028560259 of type <class 'float'> 
+
+2020-12-07 15:54:47,333 - Final Linear Test - DEBUG - The calculated value is equal to: 1.6290509854906485
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - Trying to predict 2.841363435318437 of type <class 'float'> 
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5492631357576518
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - Trying to predict 2.9150410208793067 of type <class 'float'> 
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - The calculated value is equal to: 1.582980312930914
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - Trying to predict 5.99047949596719 of type <class 'float'> 
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - The calculated value is equal to: 2.990397550624404
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - Trying to predict 2.765350875710897 of type <class 'float'> 
+
+2020-12-07 15:54:47,334 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5144774011251947
+
+2020-12-07 15:54:47,349 - Final Linear Test - DEBUG - Trying to predict 5.365773854639723 of type <class 'float'> 
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - The calculated value is equal to: 2.704512628779717
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - Trying to predict 2.5524359552623332 of type <class 'float'> 
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - The calculated value is equal to: 1.4170408464261501
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - Trying to predict 2.901489821214214 of type <class 'float'> 
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5767788583563649
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - Trying to predict 2.72331980725021 of type <class 'float'> 
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - The calculated value is equal to: 1.495242664111457
+
+2020-12-07 15:54:47,350 - Final Linear Test - DEBUG - Trying to predict 9.176563988038184 of type <class 'float'> 
+
+2020-12-07 15:54:47,366 - Final Linear Test - DEBUG - The calculated value is equal to: 4.448449880791889
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - Trying to predict 9.155661697662094 of type <class 'float'> 
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - The calculated value is equal to: 4.438884336229421
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - Trying to predict 9.741525630998014 of type <class 'float'> 
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - The calculated value is equal to: 4.706994072580534
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - Trying to predict 7.61947404875152 of type <class 'float'> 
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - The calculated value is equal to: 3.7358766204445044
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - Trying to predict 7.655865656746354 of type <class 'float'> 
+
+2020-12-07 15:54:47,367 - Final Linear Test - DEBUG - The calculated value is equal to: 3.7525305632283383
+
+2020-12-07 15:54:47,383 - Final Linear Test - DEBUG - Trying to predict 2.1789813001879055 of type <class 'float'> 
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - The calculated value is equal to: 1.246136267028376
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - Trying to predict 1.9522884223553887 of type <class 'float'> 
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - The calculated value is equal to: 1.142394486300764
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - Trying to predict 2.7527579818256256 of type <class 'float'> 
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5087144973733746
+
+2020-12-07 15:54:47,384 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:47,400 - Final Linear Test - INFO - Getting data for Isocitrate
+
+2020-12-07 15:54:47,417 - Final Linear Test - DEBUG - Checking limits for Isocitrate
+
+2020-12-07 15:54:47,417 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:47,417 - Final Linear Test - DEBUG - Cal dict x: [26.525, 13.26, 6.63, 3.315, 1.66, 0.83]
+ cal dict y: [3.9825765055686726, 2.566779705832375, 1.692563840090983, 0.9751495705167772, 0.47084105959764117, 0.23991619316063265]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:47,417 - Final Linear Test - DEBUG - Cal dict x: [26.525, 13.26, 6.63, 3.315, 1.66, 0.83]
+ cal dict y: [3.9825765055686726, 2.566779705832375, 1.692563840090983, 0.9751495705167772, 0.47084105959764117, 0.23991619316063265]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:47,417 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[26.525 13.26   6.63   3.315  1.66   0.83 ] 
+ y=[3.98257651 2.56677971 1.69256384 0.97514957 0.47084106 0.23991619]
+2020-12-07 15:54:47,417 - Final Linear Test - INFO - Equation for Isocitrate is equal to: 
+ 
+0.1422 x + 0.4174
+ 
+2020-12-07 15:54:47,433 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:48,017 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:48,033 - Final Linear Test - DEBUG - Trying to predict 1.026529083573155 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 4.284782494462942
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.8180836787214025 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 2.818433475405473
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 1.0880063815360181 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 4.717256290785106
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 1.005674942007638 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 4.138080051923469
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 1.3633809065647895 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 6.654430990973562
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.8185062491731019 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 2.821406127970171
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 1.2868100384782108 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 6.115778592341953
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.7861974826084378 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5941239377355343
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.9908081311286951 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 4.033496630838436
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.7117860539220363 of type <class 'float'> 
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - The calculated value is equal to: 2.07066252807495
+
+2020-12-07 15:54:48,034 - Final Linear Test - DEBUG - Trying to predict 0.7962859270196243 of type <class 'float'> 
+
+2020-12-07 15:54:48,049 - Final Linear Test - DEBUG - The calculated value is equal to: 2.6650930271077855
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 0.8824157526124202 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 3.270989738332529
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 1.0653038444185774 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 4.557550956642811
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 1.3769387039894674 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 6.749805906858109
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 1.0039146116727398 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 4.125696671912616
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 1.093513760447828 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 4.755998999796387
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - Trying to predict 0.9509215256017725 of type <class 'float'> 
+
+2020-12-07 15:54:48,050 - Final Linear Test - DEBUG - The calculated value is equal to: 3.7529066848545845
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - Trying to predict 1.0252293722103838 of type <class 'float'> 
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - The calculated value is equal to: 4.275639426602017
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - Trying to predict 0.8812018518551409 of type <class 'float'> 
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - The calculated value is equal to: 3.2624503215680503
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - Trying to predict 0.7802153591473977 of type <class 'float'> 
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5520415475038307
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - Trying to predict 0.9812480235305986 of type <class 'float'> 
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - The calculated value is equal to: 3.9662442277042786
+
+2020-12-07 15:54:48,067 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:48,085 - Final Linear Test - INFO - Getting data for Malate
+
+2020-12-07 15:54:48,100 - Final Linear Test - DEBUG - Checking limits for Malate
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (3.206340642373667) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (3.2594858517544267) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (2.977188416527647) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (2.7717626612330566) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (2.866844105752171) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (3.0494100438833165) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (2.6923428792217505) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - INFO - For Malate the value to predict (2.5555199650433646) is over range
+
+2020-12-07 15:54:48,100 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:48,100 - Final Linear Test - DEBUG - Cal dict x: [33.185, 16.59, 8.295, 4.15, 2.075, 1.035]
+ cal dict y: [2.2917406285121693, 1.2421310565738695, 0.7426579228639937, 0.3911905857102168, 0.2186082653130904, 0.18567956595427831]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:48,100 - Final Linear Test - DEBUG - Cal dict x: [33.185, 16.59, 8.295, 4.15, 2.075, 1.035]
+ cal dict y: [2.2917406285121693, 1.2421310565738695, 0.7426579228639937, 0.3911905857102168, 0.2186082653130904, 0.18567956595427831]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:48,116 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[33.185 16.59   8.295  4.15   2.075  1.035] 
+ y=[2.29174063 1.24213106 0.74265792 0.39119059 0.21860827 0.18567957]
+2020-12-07 15:54:48,117 - Final Linear Test - INFO - Equation for Malate is equal to: 
+ 
+0.06591 x + 0.1277
+ 
+2020-12-07 15:54:48,117 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:48,767 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:48,767 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,767 - Final Linear Test - DEBUG - Trying to predict 2.247576172030356 of type <class 'float'> 
+
+2020-12-07 15:54:48,767 - Final Linear Test - DEBUG - The calculated value is equal to: 32.164100411580534
+
+2020-12-07 15:54:48,782 - Final Linear Test - DEBUG - Trying to predict 2.270742425782743 of type <class 'float'> 
+
+2020-12-07 15:54:48,782 - Final Linear Test - DEBUG - The calculated value is equal to: 32.51559465739081
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 2.1958709114402555 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 31.379592835612684
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.9735704842430735 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 28.00669871832691
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.779452427592977 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 25.061406801486385
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 2.0007463002396997 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 28.419028784729154
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.9055133800257995 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 26.974089787484253
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.0931746823927722 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 14.64873149179514
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.08416383563405 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 14.512012762067735
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict 1.0182903389272147 of type <class 'float'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - The calculated value is equal to: 13.512535017787698
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,784 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,799 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Trying to predict 2.14832028776505 of type <class 'float'> 
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - The calculated value is equal to: 30.65812225235955
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Trying to predict 1.8379274580547327 of type <class 'float'> 
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - The calculated value is equal to: 25.948629955932315
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Trying to predict 2.23947493072603 of type <class 'float'> 
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - The calculated value is equal to: 32.04118283790516
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:48,800 - Final Linear Test - INFO - Getting data for Man6P
+
+2020-12-07 15:54:48,800 - Final Linear Test - DEBUG - Checking limits for Man6P
+
+2020-12-07 15:54:48,816 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:48,816 - Final Linear Test - DEBUG - Cal dict x: [24.865, 12.435, 6.215, 3.11, 1.555, 0.775]
+ cal dict y: [8.835174514179025, 4.261509315279793, 2.265590118870527, 0.9959668020074153, 0.4003648551878762, 0.1844222691681204]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:48,817 - Final Linear Test - DEBUG - Cal dict x: [24.865, 12.435, 6.215, 3.11, 1.555, 0.775]
+ cal dict y: [8.835174514179025, 4.261509315279793, 2.265590118870527, 0.9959668020074153, 0.4003648551878762, 0.1844222691681204]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:48,817 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[24.865 12.435  6.215  3.11   1.555  0.775] 
+ y=[8.83517451 4.26150932 2.26559012 0.9959668  0.40036486 0.18442227]
+2020-12-07 15:54:48,817 - Final Linear Test - INFO - Equation for Man6P is equal to: 
+ 
+0.3587 x - 0.1031
+ 
+2020-12-07 15:54:48,817 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:49,467 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:49,467 - Final Linear Test - DEBUG - Trying to predict 1.3296805690393574 of type <class 'float'> 
+
+2020-12-07 15:54:49,467 - Final Linear Test - DEBUG - The calculated value is equal to: 3.9940054332161923
+
+2020-12-07 15:54:49,467 - Final Linear Test - DEBUG - Trying to predict 0.718508352602738 of type <class 'float'> 
+
+2020-12-07 15:54:49,467 - Final Linear Test - DEBUG - The calculated value is equal to: 2.2902821135064233
+
+2020-12-07 15:54:49,482 - Final Linear Test - DEBUG - Trying to predict 0.6590146153507247 of type <class 'float'> 
+
+2020-12-07 15:54:49,482 - Final Linear Test - DEBUG - The calculated value is equal to: 2.124435458820588
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 0.6156133927582547 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 2.0034488153736274
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 1.5450443189501972 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 4.594360346406673
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 0.8302989975130363 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 2.6019133093247313
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 1.4557383153968153 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 4.345408059715547
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 0.5943558387278908 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 1.9441905743287695
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 0.5808060844498395 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 1.906418843679022
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 0.5306497172035535 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 1.7666013418173574
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - Trying to predict 1.2691987474603246 of type <class 'float'> 
+
+2020-12-07 15:54:49,483 - Final Linear Test - DEBUG - The calculated value is equal to: 3.825404362893471
+
+2020-12-07 15:54:49,499 - Final Linear Test - DEBUG - Trying to predict 1.3569096404421988 of type <class 'float'> 
+
+2020-12-07 15:54:49,499 - Final Linear Test - DEBUG - The calculated value is equal to: 4.069910068072699
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - Trying to predict 1.1053601077304522 of type <class 'float'> 
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - The calculated value is equal to: 3.368682503374423
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - Trying to predict 1.030178283802506 of type <class 'float'> 
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - The calculated value is equal to: 3.1591032338991734
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - Trying to predict 0.8109956812716183 of type <class 'float'> 
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5481027643690335
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - Trying to predict 0.6551834970156355 of type <class 'float'> 
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - The calculated value is equal to: 2.113755710179337
+
+2020-12-07 15:54:49,500 - Final Linear Test - DEBUG - Trying to predict 0.6854706163741212 of type <class 'float'> 
+
+2020-12-07 15:54:49,517 - Final Linear Test - DEBUG - The calculated value is equal to: 2.1981850578331605
+
+2020-12-07 15:54:49,517 - Final Linear Test - DEBUG - Trying to predict 0.8790655530061635 of type <class 'float'> 
+
+2020-12-07 15:54:49,517 - Final Linear Test - DEBUG - The calculated value is equal to: 2.7378565272608784
+
+2020-12-07 15:54:49,517 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:49,533 - Final Linear Test - INFO - Getting data for Orotate
+
+2020-12-07 15:54:49,533 - Final Linear Test - DEBUG - Checking limits for Orotate
+
+2020-12-07 15:54:49,533 - Final Linear Test - INFO - For Orotate the value to predict (0.013355020301856115) is under range
+
+2020-12-07 15:54:49,533 - Final Linear Test - INFO - For Orotate the value to predict (0.010934937786881434) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.013149490839780639) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.019394214361901457) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.008263755017146646) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.005403668040169425) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.01150756367182466) is under range
+
+2020-12-07 15:54:49,550 - Final Linear Test - INFO - For Orotate the value to predict (0.012486287655167579) is under range
+
+2020-12-07 15:54:49,567 - Final Linear Test - INFO - For Orotate the value to predict (0.014835821655134869) is under range
+
+2020-12-07 15:54:49,567 - Final Linear Test - INFO - For Orotate the value to predict (0.012485773188232213) is under range
+
+2020-12-07 15:54:49,567 - Final Linear Test - INFO - For Orotate the value to predict (0.011322817043315718) is under range
+
+2020-12-07 15:54:49,583 - Final Linear Test - INFO - For Orotate the value to predict (0.017457276546280712) is under range
+
+2020-12-07 15:54:49,583 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:49,583 - Final Linear Test - DEBUG - Cal dict x: [26.47, 13.235, 6.615, 3.31, 1.655, 0.825]
+ cal dict y: [1.8043465602090043, 0.8985376489096228, 0.4748245659335309, 0.2186557761647232, 0.09533420096067276, 0.04644323277852782]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:49,583 - Final Linear Test - DEBUG - Cal dict x: [26.47, 13.235, 6.615, 3.31, 1.655, 0.825]
+ cal dict y: [1.8043465602090043, 0.8985376489096228, 0.4748245659335309, 0.2186557761647232, 0.09533420096067276, 0.04644323277852782]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:49,583 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[26.47  13.235  6.615  3.31   1.655  0.825] 
+ y=[1.80434656 0.89853765 0.47482457 0.21865578 0.0953342  0.04644323]
+2020-12-07 15:54:49,600 - Final Linear Test - INFO - Equation for Orotate is equal to: 
+ 
+0.06852 x - 0.00542
+ 
+2020-12-07 15:54:49,600 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:50,484 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:50,484 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,484 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,499 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,500 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,516 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,517 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,517 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:50,517 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - Getting data for P-Ser
+
+2020-12-07 15:54:50,534 - Final Linear Test - DEBUG - Checking limits for P-Ser
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - For P-Ser the value to predict (8.440020688382761) is over range
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - For P-Ser the value to predict (8.818784329139715) is over range
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - For P-Ser the value to predict (8.447483749145315) is over range
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - For P-Ser the value to predict (8.892318295515954) is over range
+
+2020-12-07 15:54:50,534 - Final Linear Test - INFO - For P-Ser the value to predict (9.189794673938579) is over range
+
+2020-12-07 15:54:50,549 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:50,550 - Final Linear Test - DEBUG - Cal dict x: [24.925, 12.46, 6.23, 3.115, 1.56, 0.78]
+ cal dict y: [7.6854888776627215, 3.228344859845124, 1.5588977809241533, 0.5787600981611886, 0.1890748183328364, 0.09241813930395144]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:50,550 - Final Linear Test - DEBUG - Cal dict x: [24.925, 12.46, 6.23, 3.115, 1.56, 0.78]
+ cal dict y: [7.6854888776627215, 3.228344859845124, 1.5588977809241533, 0.5787600981611886, 0.1890748183328364, 0.09241813930395144]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:50,550 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[24.925 12.46   6.23   3.115  1.56   0.78 ] 
+ y=[7.68548888 3.22834486 1.55889778 0.5787601  0.18907482 0.09241814]
+2020-12-07 15:54:50,550 - Final Linear Test - INFO - Equation for P-Ser is equal to: 
+ 
+0.3155 x - 0.3578
+ 
+2020-12-07 15:54:50,550 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:51,367 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:51,383 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:51,383 - Final Linear Test - DEBUG - Trying to predict 4.914361679077697 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 16.712388727002306
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 5.250584204289346 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 17.778187787396995
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 5.655838864313937 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 19.06281330617474
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 7.255440906620557 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 24.133426444371327
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 4.092575205471866 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 14.107389996287242
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 7.280025198511041 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 24.211356723375843
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 3.476577808187651 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 12.154726513024748
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 4.62754687531881 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 15.80320827229874
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 4.728295433771146 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 16.122573308496197
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 7.309523422806403 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 24.30486378307542
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 4.346638273088974 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 14.912750013665175
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 3.434414925752871 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 12.021073479355358
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - Trying to predict 5.089465227593032 of type <class 'float'> 
+
+2020-12-07 15:54:51,384 - Final Linear Test - DEBUG - The calculated value is equal to: 17.267453255656182
+
+2020-12-07 15:54:51,399 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - Getting data for P5P
+
+2020-12-07 15:54:51,400 - Final Linear Test - DEBUG - Checking limits for P5P
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.5536660825389977) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.17464434880249502) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.2005595194143968) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.18885778484145632) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.3521235660757636) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.20374446525931586) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.4648332255641863) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.15113227144459973) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.20375093704542027) is under range
+
+2020-12-07 15:54:51,400 - Final Linear Test - INFO - For P5P the value to predict (0.20532691188143515) is under range
+
+2020-12-07 15:54:51,416 - Final Linear Test - INFO - For P5P the value to predict (0.5155298346095626) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.5859757012337388) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.612099903861961) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.5924419377534904) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.5228688813473252) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.14267287227112627) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.1284562922391936) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - For P5P the value to predict (0.19492325746418965) is under range
+
+2020-12-07 15:54:51,417 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:51,417 - Final Linear Test - DEBUG - Cal dict x: [31.63, 15.815, 7.905, 3.955, 1.975, 0.99]
+ cal dict y: [39.63343309228671, 17.32161624822158, 9.096426397332873, 3.7258362546646775, 1.4260792510849036, 0.6392753250245837]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:51,417 - Final Linear Test - DEBUG - Cal dict x: [31.63, 15.815, 7.905, 3.955, 1.975, 0.99]
+ cal dict y: [39.63343309228671, 17.32161624822158, 9.096426397332873, 3.7258362546646775, 1.4260792510849036, 0.6392753250245837]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:51,417 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[31.63  15.815  7.905  3.955  1.975  0.99 ] 
+ y=[39.63343309 17.32161625  9.0964264   3.72583625  1.42607925  0.63927533]
+2020-12-07 15:54:51,417 - Final Linear Test - INFO - Equation for P5P is equal to: 
+ 
+1.269 x - 1.194
+ 
+2020-12-07 15:54:51,417 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:52,033 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:52,033 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,049 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,050 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:52,083 - Final Linear Test - INFO - Getting data for PEP
+
+2020-12-07 15:54:52,084 - Final Linear Test - DEBUG - Checking limits for PEP
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (2.3806747822156313) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (2.794099730889952) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (3.00643738856188) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (2.9851024171178935) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (2.3953044049442176) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (2.905956240076697) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (3.1533205892798906) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (1.4158229575884933) is under range
+
+2020-12-07 15:54:52,084 - Final Linear Test - INFO - For PEP the value to predict (1.288236181678257) is under range
+
+2020-12-07 15:54:52,099 - Final Linear Test - INFO - For PEP the value to predict (2.4034918703744483) is under range
+
+2020-12-07 15:54:52,100 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:52,100 - Final Linear Test - DEBUG - Cal dict x: [35.435, 17.72, 8.86, 4.43, 2.215, 1.11]
+ cal dict y: [216.06218715837954, 108.9943440924616, 48.667009876694706, 20.109248291535064, 6.828475406970409, 3.727278974779472]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:52,100 - Final Linear Test - DEBUG - Cal dict x: [35.435, 17.72, 8.86, 4.43, 2.215, 1.11]
+ cal dict y: [216.06218715837954, 108.9943440924616, 48.667009876694706, 20.109248291535064, 6.828475406970409, 3.727278974779472]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:52,100 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[35.435 17.72   8.86   4.43   2.215  1.11 ] 
+ y=[216.06218716 108.99434409  48.66700988  20.10924829   6.82847541
+   3.72727897]
+2020-12-07 15:54:52,100 - Final Linear Test - INFO - Equation for PEP is equal to: 
+ 
+6.289 x - 5.731
+ 
+2020-12-07 15:54:52,100 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:52,867 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:52,867 - Final Linear Test - DEBUG - Trying to predict 9.619414238476747 of type <class 'float'> 
+
+2020-12-07 15:54:52,867 - Final Linear Test - DEBUG - The calculated value is equal to: 2.4408633408315614
+
+2020-12-07 15:54:52,867 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,883 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 4.15464413604217 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 1.571902428871504
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 5.782267193939412 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 1.830713099806684
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 6.8967743802115855 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.0079324819244517
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 10.606304022333356 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.5977900972200967
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 10.178785336892517 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.529809739434299
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - Trying to predict 11.393918848300695 of type <class 'float'> 
+
+2020-12-07 15:54:52,884 - Final Linear Test - DEBUG - The calculated value is equal to: 2.7230298574692853
+
+2020-12-07 15:54:52,899 - Final Linear Test - DEBUG - Trying to predict 10.72980156038959 of type <class 'float'> 
+
+2020-12-07 15:54:52,900 - Final Linear Test - DEBUG - The calculated value is equal to: 2.61742761742362
+
+2020-12-07 15:54:52,900 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,900 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,900 - Final Linear Test - DEBUG - Trying to predict Under range of type <class 'str'> 
+
+2020-12-07 15:54:52,900 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:52,917 - Final Linear Test - INFO - Getting data for PRPP
+
+2020-12-07 15:54:52,917 - Final Linear Test - DEBUG - Checking limits for PRPP
+
+2020-12-07 15:54:52,917 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:52,917 - Final Linear Test - DEBUG - Cal dict x: [18.92, 9.46, 4.73, 2.365, 1.185, 0.59]
+ cal dict y: [29.446473382853906, 12.30593471070805, 5.704109898071892, 2.2459927824156907, 0.940728490344434, 0.5440269727078589]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:52,917 - Final Linear Test - DEBUG - Cal dict x: [18.92, 9.46, 4.73, 2.365, 1.185, 0.59]
+ cal dict y: [29.446473382853906, 12.30593471070805, 5.704109898071892, 2.2459927824156907, 0.940728490344434, 0.5440269727078589]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:52,934 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[18.92   9.46   4.73   2.365  1.185  0.59 ] 
+ y=[29.44647338 12.30593471  5.7041099   2.24599278  0.94072849  0.54402697]
+2020-12-07 15:54:52,934 - Final Linear Test - INFO - Equation for PRPP is equal to: 
+ 
+1.584 x - 1.302
+ 
+2020-12-07 15:54:52,934 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:53,601 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:53,601 - Final Linear Test - DEBUG - Trying to predict 11.52309148485253 of type <class 'float'> 
+
+2020-12-07 15:54:53,601 - Final Linear Test - DEBUG - The calculated value is equal to: 8.097385524966665
+
+2020-12-07 15:54:53,601 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:53,617 - Final Linear Test - INFO - Getting data for Shiki3P
+
+2020-12-07 15:54:53,617 - Final Linear Test - DEBUG - Checking limits for Shiki3P
+
+2020-12-07 15:54:53,633 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:53,634 - Final Linear Test - DEBUG - Cal dict x: [41.355, 20.68, 10.34, 5.17, 2.585, 1.295]
+ cal dict y: [234.7175779828215, 110.98262858985511, 55.916837578229575, 25.908626150842785, 10.377224103433287, 5.151711541497009]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:53,634 - Final Linear Test - DEBUG - Cal dict x: [41.355, 20.68, 10.34, 5.17, 2.585, 1.295]
+ cal dict y: [234.7175779828215, 110.98262858985511, 55.916837578229575, 25.908626150842785, 10.377224103433287, 5.151711541497009]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:53,634 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[41.355 20.68  10.34   5.17   2.585  1.295] 
+ y=[234.71757798 110.98262859  55.91683758  25.90862615  10.3772241
+   5.15171154]
+2020-12-07 15:54:53,634 - Final Linear Test - INFO - Equation for Shiki3P is equal to: 
+ 
+5.732 x - 3.95
+ 
+2020-12-07 15:54:53,634 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:54,250 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:54,250 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:54,250 - Final Linear Test - INFO - Getting data for Succinate
+
+2020-12-07 15:54:54,250 - Final Linear Test - DEBUG - Checking limits for Succinate
+
+2020-12-07 15:54:54,267 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:54,267 - Final Linear Test - DEBUG - Cal dict x: [33.04, 16.52, 8.26, 4.13, 2.065, 1.035]
+ cal dict y: [1.1695767981203753, 0.6381119344350109, 0.40726060080026905, 0.24075573967235195, 0.15485490222011505, 0.09731580264282416]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:54,267 - Final Linear Test - DEBUG - Cal dict x: [33.04, 16.52, 8.26, 4.13, 2.065, 1.035]
+ cal dict y: [1.1695767981203753, 0.6381119344350109, 0.40726060080026905, 0.24075573967235195, 0.15485490222011505, 0.09731580264282416]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:54,267 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[33.04  16.52   8.26   4.13   2.065  1.035] 
+ y=[1.1695768  0.63811193 0.4072606  0.24075574 0.1548549  0.0973158 ]
+2020-12-07 15:54:54,267 - Final Linear Test - INFO - Equation for Succinate is equal to: 
+ 
+0.03281 x + 0.09559
+ 
+2020-12-07 15:54:54,267 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:54,817 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:54,817 - Final Linear Test - DEBUG - Trying to predict 0.4229285195132031 of type <class 'float'> 
+
+2020-12-07 15:54:54,817 - Final Linear Test - DEBUG - The calculated value is equal to: 9.976575463823439
+
+2020-12-07 15:54:54,817 - Final Linear Test - DEBUG - Trying to predict 0.3722955909436481 of type <class 'float'> 
+
+2020-12-07 15:54:54,817 - Final Linear Test - DEBUG - The calculated value is equal to: 8.433384542179738
+
+2020-12-07 15:54:54,832 - Final Linear Test - DEBUG - Trying to predict 0.2976210363441073 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 6.157452693254671
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.331578853203471 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 7.192419387393691
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.44236269648391435 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 10.568890510929991
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.3468042670438029 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 7.656459708197813
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.47471879633991393 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 11.555040057642145
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.2467914208461322 of type <class 'float'> 
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - The calculated value is equal to: 4.608267145368348
+
+2020-12-07 15:54:54,833 - Final Linear Test - DEBUG - Trying to predict 0.31414366413869677 of type <class 'float'> 
+
+2020-12-07 15:54:54,849 - Final Linear Test - DEBUG - The calculated value is equal to: 6.661029514399472
+
+2020-12-07 15:54:54,849 - Final Linear Test - DEBUG - Trying to predict 0.33743946835839844 of type <class 'float'> 
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - The calculated value is equal to: 7.37103927681817
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - Trying to predict 0.0973463518189694 of type <class 'float'> 
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - The calculated value is equal to: 0.053478782883538696
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - Trying to predict 0.48688994033998273 of type <class 'float'> 
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - The calculated value is equal to: 11.925992310603828
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - Trying to predict 0.12125537293416508 of type <class 'float'> 
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - The calculated value is equal to: 0.7821781761977693
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - Trying to predict 0.11749399660223152 of type <class 'float'> 
+
+2020-12-07 15:54:54,850 - Final Linear Test - DEBUG - The calculated value is equal to: 0.6675389093745671
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - Trying to predict 0.49065323488621326 of type <class 'float'> 
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - The calculated value is equal to: 12.040690040782252
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - Trying to predict 0.4106488179006676 of type <class 'float'> 
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - The calculated value is equal to: 9.602314590824031
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - Trying to predict 0.4778144868632242 of type <class 'float'> 
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - The calculated value is equal to: 11.649390545491734
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - Trying to predict 0.4844146877930061 of type <class 'float'> 
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - The calculated value is equal to: 11.850551537826435
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - Trying to predict 0.26908813074108306 of type <class 'float'> 
+
+2020-12-07 15:54:54,867 - Final Linear Test - DEBUG - The calculated value is equal to: 5.287826500603838
+
+2020-12-07 15:54:54,883 - Final Linear Test - DEBUG - Trying to predict 0.320137814705096 of type <class 'float'> 
+
+2020-12-07 15:54:54,884 - Final Linear Test - DEBUG - The calculated value is equal to: 6.843719297478596
+
+2020-12-07 15:54:54,884 - Final Linear Test - DEBUG - Trying to predict 0.4089399284858021 of type <class 'float'> 
+
+2020-12-07 15:54:54,884 - Final Linear Test - DEBUG - The calculated value is equal to: 9.550231041528816
+
+2020-12-07 15:54:54,884 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:54,917 - Final Linear Test - INFO - Getting data for UDP
+
+2020-12-07 15:54:54,917 - Final Linear Test - DEBUG - Checking limits for UDP
+
+2020-12-07 15:54:54,917 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:54,933 - Final Linear Test - DEBUG - Cal dict x: [22.89, 11.445, 5.725, 2.86, 1.43, 0.715]
+ cal dict y: [16.44834056624671, 7.9227230842593315, 4.446608271631804, 2.0859153055071222, 0.9227895176620967, 0.4756650876858445]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:54,933 - Final Linear Test - DEBUG - Cal dict x: [22.89, 11.445, 5.725, 2.86, 1.43, 0.715]
+ cal dict y: [16.44834056624671, 7.9227230842593315, 4.446608271631804, 2.0859153055071222, 0.9227895176620967, 0.4756650876858445]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:54,933 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[22.89  11.445  5.725  2.86   1.43   0.715] 
+ y=[16.44834057  7.92272308  4.44660827  2.08591531  0.92278952  0.47566509]
+2020-12-07 15:54:54,933 - Final Linear Test - INFO - Equation for UDP is equal to: 
+ 
+0.7157 x + 0.007953
+ 
+2020-12-07 15:54:54,933 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Trying to predict 2.979797459827315 of type <class 'float'> 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - The calculated value is equal to: 4.152192758968661
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Trying to predict 1.1176638828811576 of type <class 'float'> 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5504625030420316
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Trying to predict 1.3597266787995872 of type <class 'float'> 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8886670807222186
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Trying to predict 1.3371084647413185 of type <class 'float'> 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - The calculated value is equal to: 1.8570654316359434
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - Trying to predict 2.0818400146092704 of type <class 'float'> 
+
+2020-12-07 15:54:55,817 - Final Linear Test - DEBUG - The calculated value is equal to: 2.897587244798333
+
+2020-12-07 15:54:55,832 - Final Linear Test - DEBUG - Trying to predict 1.4031526297641999 of type <class 'float'> 
+
+2020-12-07 15:54:55,832 - Final Linear Test - DEBUG - The calculated value is equal to: 1.9493408218092072
+
+2020-12-07 15:54:55,832 - Final Linear Test - DEBUG - Trying to predict 2.6371487529541024 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 3.6734518572079122
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 0.9854879049376565 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3657892630662718
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 1.0984269835988174 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.5235851492835772
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 1.1783529928868075 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.6352559333639876
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 2.778292892392512 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 3.8706552064036583
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 3.092846640005666 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 4.310142476496482
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 2.7525044790653066 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 3.83462422772609
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 3.191231572909968 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 4.447603644606784
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 2.879718284240264 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 4.012364433902938
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 1.0077598784574613 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3969071528262007
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 0.980159436268652 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.3583444490499532
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Trying to predict 1.3556264573470425 of type <class 'float'> 
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - The calculated value is equal to: 1.882938345500882
+
+2020-12-07 15:54:55,834 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:55,850 - Final Linear Test - INFO - Getting data for UDP-Glucose
+
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - Checking limits for UDP-Glucose
+
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - Cal dict x: [29.455, 14.73, 7.365, 3.68, 1.84, 0.92]
+ cal dict y: [2.0273131782087743, 0.9534181523196532, 0.4521982566837973, 0.16031651788598744, 0.05642213992273122, 0.03285209101295994]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - Cal dict x: [29.455, 14.73, 7.365, 3.68, 1.84, 0.92]
+ cal dict y: [2.0273131782087743, 0.9534181523196532, 0.4521982566837973, 0.16031651788598744, 0.05642213992273122, 0.03285209101295994]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[29.455 14.73   7.365  3.68   1.84   0.92 ] 
+ y=[2.02731318 0.95341815 0.45219826 0.16031652 0.05642214 0.03285209]
+2020-12-07 15:54:55,850 - Final Linear Test - INFO - Equation for UDP-Glucose is equal to: 
+ 
+0.07083 x - 0.07079
+ 
+2020-12-07 15:54:55,850 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Trying to predict 1.877030117510165 of type <class 'float'> 
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - The calculated value is equal to: 27.5009777253501
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Trying to predict 0.7399378542581442 of type <class 'float'> 
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - The calculated value is equal to: 11.44657584588892
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Trying to predict 0.7795011113025023 of type <class 'float'> 
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - The calculated value is equal to: 12.005162381720247
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Trying to predict 0.743180776811257 of type <class 'float'> 
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - The calculated value is equal to: 11.492362088231951
+
+2020-12-07 15:54:56,717 - Final Linear Test - DEBUG - Trying to predict 1.1431285286761763 of type <class 'float'> 
+
+2020-12-07 15:54:56,733 - Final Linear Test - DEBUG - The calculated value is equal to: 17.13915271968252
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - Trying to predict 0.7043160378816777 of type <class 'float'> 
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - The calculated value is equal to: 10.9436378044774
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - Trying to predict 1.1987718091280253 of type <class 'float'> 
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - The calculated value is equal to: 17.92477022420296
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - Trying to predict 0.5287296612311075 of type <class 'float'> 
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - The calculated value is equal to: 8.464565220477313
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - Trying to predict 0.6125024980704967 of type <class 'float'> 
+
+2020-12-07 15:54:56,734 - Final Linear Test - DEBUG - The calculated value is equal to: 9.647338890360249
+
+2020-12-07 15:54:56,749 - Final Linear Test - DEBUG - Trying to predict 0.6310250439937577 of type <class 'float'> 
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - The calculated value is equal to: 9.90885539670983
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - Trying to predict 1.4753764168722197 of type <class 'float'> 
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - The calculated value is equal to: 21.830101108906895
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - Trying to predict 1.9062044336682478 of type <class 'float'> 
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - The calculated value is equal to: 27.912884666674977
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - Trying to predict 1.7192386042367642 of type <class 'float'> 
+
+2020-12-07 15:54:56,750 - Final Linear Test - DEBUG - The calculated value is equal to: 25.27314762824386
+
+2020-12-07 15:54:56,766 - Final Linear Test - DEBUG - Trying to predict 1.691710531008087 of type <class 'float'> 
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - The calculated value is equal to: 24.8844836958058
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - Trying to predict 1.6024711396486577 of type <class 'float'> 
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - The calculated value is equal to: 23.62452872234974
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - Trying to predict 0.6517537749386945 of type <class 'float'> 
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - The calculated value is equal to: 10.20152063399628
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - Trying to predict 0.4994445081144972 of type <class 'float'> 
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - The calculated value is equal to: 8.051093391998771
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - Trying to predict 0.7928253312240368 of type <class 'float'> 
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - The calculated value is equal to: 12.193284654875864
+
+2020-12-07 15:54:56,767 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:56,784 - Final Linear Test - INFO - Getting data for UMP
+
+2020-12-07 15:54:56,784 - Final Linear Test - DEBUG - Checking limits for UMP
+
+2020-12-07 15:54:56,784 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:56,784 - Final Linear Test - DEBUG - Cal dict x: [24.235, 12.12, 6.06, 3.03, 1.515, 0.76]
+ cal dict y: [2.43646937312, 1.3140574525579463, 0.7581001244526754, 0.3589566292199802, 0.15747550952395625, 0.07764194562925553]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:56,799 - Final Linear Test - DEBUG - Cal dict x: [24.235, 12.12, 6.06, 3.03, 1.515, 0.76]
+ cal dict y: [2.43646937312, 1.3140574525579463, 0.7581001244526754, 0.3589566292199802, 0.15747550952395625, 0.07764194562925553]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:56,800 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[24.235 12.12   6.06   3.03   1.515  0.76 ] 
+ y=[2.43646937 1.31405745 0.75810012 0.35895663 0.15747551 0.07764195]
+2020-12-07 15:54:56,800 - Final Linear Test - INFO - Equation for UMP is equal to: 
+ 
+0.1001 x + 0.05467
+ 
+2020-12-07 15:54:56,800 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.5797139310202388 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 15.241879379986715
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.7129039171963363 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 6.578642485342639
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.7411312228226712 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 6.860757172111981
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.7236141474706336 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 6.685684698264369
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.0213168130307508 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 9.661041090995484
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.6818007331151046 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 6.267785149160349
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.0774357417934246 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 10.221915522983146
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.5455506489837101 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 4.906048739888484
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.628865444703189 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 5.738729258843999
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 0.6363902516759334 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 5.813935110589729
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.2987239672727788 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 12.43355623865273
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.5717453615218044 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 15.162238392716814
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - Trying to predict 1.4531851357663976 of type <class 'float'> 
+
+2020-12-07 15:54:57,667 - Final Linear Test - DEBUG - The calculated value is equal to: 13.977301318131708
+
+2020-12-07 15:54:57,683 - Final Linear Test - DEBUG - Trying to predict 1.4478425936639083 of type <class 'float'> 
+
+2020-12-07 15:54:57,683 - Final Linear Test - DEBUG - The calculated value is equal to: 13.923905871476338
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Trying to predict 1.3857860600602434 of type <class 'float'> 
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - The calculated value is equal to: 13.30368870405191
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Trying to predict 0.6437515741819502 of type <class 'float'> 
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - The calculated value is equal to: 5.887507034898917
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Trying to predict 0.5138933310991489 of type <class 'float'> 
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - The calculated value is equal to: 4.589653174644447
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Trying to predict 0.7467255341209749 of type <class 'float'> 
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - The calculated value is equal to: 6.916668898172675
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:57,684 - Final Linear Test - INFO - Getting data for UTP
+
+2020-12-07 15:54:57,684 - Final Linear Test - DEBUG - Checking limits for UTP
+
+2020-12-07 15:54:57,684 - Final Linear Test - INFO - For UTP the value to predict (11.670572223545829) is over range
+
+2020-12-07 15:54:57,699 - Final Linear Test - INFO - For UTP the value to predict (3.285752792843658) is over range
+
+2020-12-07 15:54:57,699 - Final Linear Test - INFO - For UTP the value to predict (3.5190894523595566) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (3.5615941829871525) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (5.125504643104751) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (3.356821418321276) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (6.361807226628106) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (3.0733466789871002) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (7.622357935321569) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (11.626068680092347) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (9.065266341307925) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (9.831915417332988) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (9.769670300296033) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - INFO - For UTP the value to predict (3.616590277841042) is over range
+
+2020-12-07 15:54:57,700 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:57,700 - Final Linear Test - DEBUG - Cal dict x: [23.685, 11.845, 5.92, 2.96, 1.48, 0.74]
+ cal dict y: [3.0686670512804097, 1.4996398535718916, 0.8021085109600026, 0.3301043491877064, 0.11315432838990254, 0.06180026995333192]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:57,700 - Final Linear Test - DEBUG - Cal dict x: [23.685, 11.845, 5.92, 2.96, 1.48, 0.74]
+ cal dict y: [3.0686670512804097, 1.4996398535718916, 0.8021085109600026, 0.3301043491877064, 0.11315432838990254, 0.06180026995333192]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML', 'Cal6.mzXML']
+
+2020-12-07 15:54:57,716 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[23.685 11.845  5.92   2.96   1.48   0.74 ] 
+ y=[3.06866705 1.49963985 0.80210851 0.33010435 0.11315433 0.06180027]
+2020-12-07 15:54:57,717 - Final Linear Test - INFO - Equation for UTP is equal to: 
+ 
+0.1316 x - 0.04346
+ 
+2020-12-07 15:54:57,717 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:58,517 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:58,533 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict 2.540529838777063 of type <class 'float'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - The calculated value is equal to: 19.636055815201487
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict 2.950132443823911 of type <class 'float'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - The calculated value is equal to: 22.748676168261333
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict 2.822201686250946 of type <class 'float'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - The calculated value is equal to: 21.776514675884027
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - Trying to predict 2.1734154347497423 of type <class 'float'> 
+
+2020-12-07 15:54:58,534 - Final Linear Test - DEBUG - The calculated value is equal to: 16.84630850452171
+
+2020-12-07 15:54:58,549 - Final Linear Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 15:54:58,550 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:58,550 - Final Linear Test - INFO - Getting data for a-KG
+
+2020-12-07 15:54:58,550 - Final Linear Test - DEBUG - Checking limits for a-KG
+
+2020-12-07 15:54:58,566 - Final Linear Test - DEBUG - nans list: []
+2020-12-07 15:54:58,567 - Final Linear Test - DEBUG - Cal dict x: [4.28, 2.14, 1.07, 0.535, 0.27]
+ cal dict y: [11.17959339181716, 5.876992487869508, 4.517103474692404, 3.8610316472776978, 1.4096916080093025]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML']
+
+2020-12-07 15:54:58,567 - Final Linear Test - DEBUG - Cal dict x: [4.28, 2.14, 1.07, 0.535, 0.27]
+ cal dict y: [11.17959339181716, 5.876992487869508, 4.517103474692404, 3.8610316472776978, 1.4096916080093025]
+ cal dict names: ['Cal1.mzXML', 'Cal2.mzXML', 'Cal3.mzXML', 'Cal4.mzXML', 'Cal5.mzXML']
+
+2020-12-07 15:54:58,567 - Final Linear Test - DEBUG - Performing calculations for equation
+ x=[4.28  2.14  1.07  0.535 0.27 ] 
+ y=[11.17959339  5.87699249  4.51710347  3.86103165  1.40969161]
+2020-12-07 15:54:58,567 - Final Linear Test - INFO - Equation for a-KG is equal to: 
+ 
+2.178 x + 1.756
+ 
+2020-12-07 15:54:58,567 - Final Linear Test - DEBUG - Calculating residuals 
+
+2020-12-07 15:54:59,283 - Final Linear Test - DEBUG - Predicting concentrations
+
+2020-12-07 15:54:59,283 - Final Linear Test - DEBUG - Rebuilding dataframes
+
+2020-12-07 15:54:59,567 - Final Linear Test - INFO - Done!

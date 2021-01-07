@@ -1,0 +1,259 @@
+2020-12-07 14:54:39,638 - cit_Lin - INFO - ....................
+
+2020-12-07 14:54:39,639 - cit_Lin - INFO - CHOSEN PARAMETERS:
+Run name: cit_Lin 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-07 14:54:39,640 - cit_Lin - INFO - ....................
+
+2020-12-07 14:54:45,821 - cit_Lin - INFO - Starting to process calculations...
+
+2020-12-07 14:54:45,822 - cit_Lin - INFO - Getting data for Citrate
+
+2020-12-07 14:54:45,825 - cit_Lin - DEBUG - Checking limits for Citrate
+
+2020-12-07 14:54:45,826 - cit_Lin - INFO - For Citrate the value to predict (7.834241944081924) is over range
+
+2020-12-07 14:54:45,827 - cit_Lin - INFO - For Citrate the value to predict (6.928359429353) is over range
+
+2020-12-07 14:54:45,828 - cit_Lin - INFO - For Citrate the value to predict (7.5162343552690185) is over range
+
+2020-12-07 14:54:45,829 - cit_Lin - INFO - For Citrate the value to predict (6.7491549614755915) is over range
+
+2020-12-07 14:54:45,830 - cit_Lin - INFO - For Citrate the value to predict (6.33084984488966) is over range
+
+2020-12-07 14:54:45,830 - cit_Lin - INFO - For Citrate the value to predict (6.835988788889308) is over range
+
+2020-12-07 14:54:45,831 - cit_Lin - INFO - For Citrate the value to predict (4.123922400899298) is over range
+
+2020-12-07 14:54:45,831 - cit_Lin - INFO - For Citrate the value to predict (4.217994621025791) is over range
+
+2020-12-07 14:54:45,832 - cit_Lin - INFO - For Citrate the value to predict (4.236835864511861) is over range
+
+2020-12-07 14:54:45,832 - cit_Lin - INFO - For Citrate the value to predict (4.668687819632126) is over range
+
+2020-12-07 14:54:45,833 - cit_Lin - INFO - For Citrate the value to predict (5.688395418487993) is over range
+
+2020-12-07 14:54:45,833 - cit_Lin - INFO - For Citrate the value to predict (6.370837355278007) is over range
+
+2020-12-07 14:54:45,834 - cit_Lin - INFO - For Citrate the value to predict (3.901877378695077) is over range
+
+2020-12-07 14:54:45,835 - cit_Lin - INFO - For Citrate the value to predict (6.754699083317623) is over range
+
+2020-12-07 14:54:45,835 - cit_Lin - INFO - For Citrate the value to predict (4.033587874428375) is over range
+
+2020-12-07 14:54:45,835 - cit_Lin - INFO - For Citrate the value to predict (4.344200990085524) is over range
+
+2020-12-07 14:54:45,836 - cit_Lin - DEBUG - nans list: []
+2020-12-07 14:54:45,836 - cit_Lin - DEBUG - Cal dict x: [3093.634, 1559.9520000000002, 885.09, 420.05400000000003, 167.03099999999998, 99.73899999999999]
+ cal dict y: [3.5862192622499993, 1.8423616201148152, 1.0750169833313072, 0.5462519884866833, 0.25855462212112423, 0.18204148315891777]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:54:45,837 - cit_Lin - DEBUG - Cal dict x: [3093.634, 1559.9520000000002, 885.09, 420.05400000000003, 167.03099999999998, 99.73899999999999]
+ cal dict y: [3.5862192622499993, 1.8423616201148152, 1.0750169833313072, 0.5462519884866833, 0.25855462212112423, 0.18204148315891777]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:54:45,837 - cit_Lin - DEBUG - Performing calculations for equation
+ x=[3093.634 1559.952  885.09   420.054  167.031   99.739] 
+ y=[3.58621926 1.84236162 1.07501698 0.54625199 0.25855462 0.18204148]
+2020-12-07 14:54:45,839 - cit_Lin - INFO - Equation for Citrate is equal to: 
+ 
+0.001137 x + 0.06863
+ 
+2020-12-07 14:54:45,839 - cit_Lin - DEBUG - Calculating residuals 
+
+2020-12-07 14:54:46,409 - cit_Lin - DEBUG - Predicting concentrations
+
+2020-12-07 14:54:46,410 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,410 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,411 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,411 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,412 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,412 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,413 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,413 - cit_Lin - DEBUG - Trying to predict 3.031067159905449 of type <class 'float'> 
+
+2020-12-07 14:54:46,414 - cit_Lin - DEBUG - The calculated value is equal to: 2605.3906783777447
+
+2020-12-07 14:54:46,414 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,415 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,415 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,416 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,416 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,417 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,417 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,418 - cit_Lin - DEBUG - Trying to predict 3.4621120902664386 of type <class 'float'> 
+
+2020-12-07 14:54:46,418 - cit_Lin - DEBUG - The calculated value is equal to: 2984.484615198557
+
+2020-12-07 14:54:46,419 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,419 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:54:46,419 - cit_Lin - DEBUG - Trying to predict 0.6804573493814629 of type <class 'float'> 
+
+2020-12-07 14:54:46,420 - cit_Lin - DEBUG - The calculated value is equal to: 538.0843160110969
+
+2020-12-07 14:54:46,420 - cit_Lin - DEBUG - Trying to predict 0.5856178947618734 of type <class 'float'> 
+
+2020-12-07 14:54:46,421 - cit_Lin - DEBUG - The calculated value is equal to: 454.6752333719179
+
+2020-12-07 14:54:46,421 - cit_Lin - DEBUG - Trying to predict 0.6827141893389398 of type <class 'float'> 
+
+2020-12-07 14:54:46,422 - cit_Lin - DEBUG - The calculated value is equal to: 540.0691539803962
+
+2020-12-07 14:54:46,422 - cit_Lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 14:54:46,473 - cit_Lin - INFO - Done!
+2020-12-07 14:55:44,605 - cit_Lin - INFO - Starting to process calculations...
+
+2020-12-07 14:55:44,607 - cit_Lin - INFO - Getting data for Citrate
+
+2020-12-07 14:55:44,610 - cit_Lin - DEBUG - Checking limits for Citrate
+
+2020-12-07 14:55:44,611 - cit_Lin - INFO - For Citrate the value to predict (7.834241944081924) is over range
+
+2020-12-07 14:55:44,612 - cit_Lin - INFO - For Citrate the value to predict (6.928359429353) is over range
+
+2020-12-07 14:55:44,613 - cit_Lin - INFO - For Citrate the value to predict (7.5162343552690185) is over range
+
+2020-12-07 14:55:44,614 - cit_Lin - INFO - For Citrate the value to predict (6.7491549614755915) is over range
+
+2020-12-07 14:55:44,614 - cit_Lin - INFO - For Citrate the value to predict (6.33084984488966) is over range
+
+2020-12-07 14:55:44,615 - cit_Lin - INFO - For Citrate the value to predict (6.835988788889308) is over range
+
+2020-12-07 14:55:44,615 - cit_Lin - INFO - For Citrate the value to predict (4.123922400899298) is over range
+
+2020-12-07 14:55:44,616 - cit_Lin - INFO - For Citrate the value to predict (4.217994621025791) is over range
+
+2020-12-07 14:55:44,617 - cit_Lin - INFO - For Citrate the value to predict (4.236835864511861) is over range
+
+2020-12-07 14:55:44,618 - cit_Lin - INFO - For Citrate the value to predict (4.668687819632126) is over range
+
+2020-12-07 14:55:44,618 - cit_Lin - INFO - For Citrate the value to predict (5.688395418487993) is over range
+
+2020-12-07 14:55:44,619 - cit_Lin - INFO - For Citrate the value to predict (6.370837355278007) is over range
+
+2020-12-07 14:55:44,619 - cit_Lin - INFO - For Citrate the value to predict (3.901877378695077) is over range
+
+2020-12-07 14:55:44,619 - cit_Lin - INFO - For Citrate the value to predict (6.754699083317623) is over range
+
+2020-12-07 14:55:44,620 - cit_Lin - INFO - For Citrate the value to predict (4.033587874428375) is over range
+
+2020-12-07 14:55:44,620 - cit_Lin - INFO - For Citrate the value to predict (4.344200990085524) is over range
+
+2020-12-07 14:55:44,621 - cit_Lin - DEBUG - nans list: []
+2020-12-07 14:55:44,621 - cit_Lin - DEBUG - Cal dict x: [3093.634, 1559.9520000000002, 885.09, 420.05400000000003, 167.03099999999998, 99.73899999999999]
+ cal dict y: [3.5862192622499993, 1.8423616201148152, 1.0750169833313072, 0.5462519884866833, 0.25855462212112423, 0.18204148315891777]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:55:44,622 - cit_Lin - DEBUG - Cal dict x: [3093.634, 1559.9520000000002, 885.09, 420.05400000000003, 167.03099999999998, 99.73899999999999]
+ cal dict y: [3.5862192622499993, 1.8423616201148152, 1.0750169833313072, 0.5462519884866833, 0.25855462212112423, 0.18204148315891777]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-07 14:55:44,623 - cit_Lin - DEBUG - Performing calculations for equation
+ x=[3093.634 1559.952  885.09   420.054  167.031   99.739] 
+ y=[3.58621926 1.84236162 1.07501698 0.54625199 0.25855462 0.18204148]
+2020-12-07 14:55:44,624 - cit_Lin - INFO - Equation for Citrate is equal to: 
+            2
+-5.033e-14 x + 0.001137 x + 0.06863
+ 
+2020-12-07 14:55:44,624 - cit_Lin - DEBUG - Calculating residuals 
+
+2020-12-07 14:55:45,208 - cit_Lin - DEBUG - Predicting concentrations
+
+2020-12-07 14:55:45,208 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,210 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,210 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,211 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,212 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,212 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,212 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,213 - cit_Lin - DEBUG - Trying to predict 3.031067159905449 of type <class 'float'> 
+
+2020-12-07 14:55:45,214 - cit_Lin - DEBUG - Roots are equal to: [2.25931737e+10 2.60539066e+03]
+
+2020-12-07 14:55:45,214 - cit_Lin - DEBUG - minimum: 99.73899999999999
+ maximum: 3093.634
+
+2020-12-07 14:55:45,215 - cit_Lin - DEBUG - The calculated value is equal to: 2605.3906634908913
+
+2020-12-07 14:55:45,216 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,216 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,216 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,217 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,218 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,221 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,224 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,224 - cit_Lin - DEBUG - Trying to predict 3.4621120902664386 of type <class 'float'> 
+
+2020-12-07 14:55:45,225 - cit_Lin - DEBUG - Roots are equal to: [2.25931733e+10 2.98448464e+03]
+
+2020-12-07 14:55:45,226 - cit_Lin - DEBUG - minimum: 99.73899999999999
+ maximum: 3093.634
+
+2020-12-07 14:55:45,226 - cit_Lin - DEBUG - The calculated value is equal to: 2984.4846410488753
+
+2020-12-07 14:55:45,227 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,227 - cit_Lin - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-07 14:55:45,228 - cit_Lin - DEBUG - Trying to predict 0.6804573493814629 of type <class 'float'> 
+
+2020-12-07 14:55:45,228 - cit_Lin - DEBUG - Roots are equal to: [2.25931758e+10 5.38084303e+02]
+
+2020-12-07 14:55:45,229 - cit_Lin - DEBUG - minimum: 99.73899999999999
+ maximum: 3093.634
+
+2020-12-07 14:55:45,229 - cit_Lin - DEBUG - The calculated value is equal to: 538.0843028219509
+
+2020-12-07 14:55:45,230 - cit_Lin - DEBUG - Trying to predict 0.5856178947618734 of type <class 'float'> 
+
+2020-12-07 14:55:45,230 - cit_Lin - DEBUG - Roots are equal to: [2.25931759e+10 4.54675228e+02]
+
+2020-12-07 14:55:45,231 - cit_Lin - DEBUG - minimum: 99.73899999999999
+ maximum: 3093.634
+
+2020-12-07 14:55:45,231 - cit_Lin - DEBUG - The calculated value is equal to: 454.67522819124184
+
+2020-12-07 14:55:45,232 - cit_Lin - DEBUG - Trying to predict 0.6827141893389398 of type <class 'float'> 
+
+2020-12-07 14:55:45,232 - cit_Lin - DEBUG - Roots are equal to: [2.25931758e+10 5.40069141e+02]
+
+2020-12-07 14:55:45,233 - cit_Lin - DEBUG - minimum: 99.73899999999999
+ maximum: 3093.634
+
+2020-12-07 14:55:45,233 - cit_Lin - DEBUG - The calculated value is equal to: 540.0691406081793
+
+2020-12-07 14:55:45,234 - cit_Lin - DEBUG - Rebuilding dataframes
+
+2020-12-07 14:55:45,283 - cit_Lin - INFO - Done!

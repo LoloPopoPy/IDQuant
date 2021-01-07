@@ -1,0 +1,122 @@
+2020-12-06 18:15:04,316 - Alanine_Linear_Test - INFO - ....................
+
+2020-12-06 18:15:04,332 - Alanine_Linear_Test - INFO - CHOSEN PARAMETERS:
+Run name: Alanine_Linear_Test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-06 18:15:04,333 - Alanine_Linear_Test - INFO - ....................
+
+2020-12-06 18:15:18,332 - Alanine_Linear_Test - INFO - Starting to process calculations...
+
+2020-12-06 18:15:18,335 - Alanine_Linear_Test - INFO - Getting data for Ala
+
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - Checking limits for Ala
+
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - nans list: []
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - Cal dict x: [46901.105, 27483.56, 12943.825, 6289.881, 1711.244, 390.519, 80.647]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - Cal dict x: [46901.105, 27483.56, 12943.825, 6289.881, 1711.244, 390.519, 80.647]
+ cal dict y: [41.76128157209798, 24.493610981848636, 11.563688965394606, 5.646456987707292, 1.5747581562131432, 0.40026153699897804, 0.1246975806266883]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6', 'cal7']
+
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - Performing calculations for equation
+ x=[46901.105 27483.56  12943.825  6289.881  1711.244   390.519    80.647] 
+ y=[41.76128157 24.49361098 11.56368897  5.64645699  1.57475816  0.40026154
+  0.12469758]
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - INFO - Equation for Ala is equal to: 
+ 
+0.0008893 x + 0.05298
+ 
+2020-12-06 18:15:18,336 - Alanine_Linear_Test - DEBUG - Calculating residuals 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Predicting concentrations
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 10.614775175140396 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 11876.769080331927
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 9.885258587994503 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 11056.42558222496
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 9.91639515777614 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 11091.438744398078
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 10.058767593341088 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 11251.536957219114
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 10.551231994628894 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 11805.314591290648
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 9.363621754317354 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 10469.843464120799
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 4.498719034876798 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 4999.246379509418
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 4.308010512279678 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 4784.794097953761
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 5.066435678495711 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5637.645376277875
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 4.9199425242068635 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5472.913403413214
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 5.005680071901626 of type <class 'float'> 
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5569.325522115278
+
+2020-12-06 18:15:18,849 - Alanine_Linear_Test - DEBUG - Trying to predict 5.721796279817887 of type <class 'float'> 
+
+2020-12-06 18:15:18,865 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 6374.6002552799655
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 8.090909340073889 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 9038.674697870594
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 5.35140474643428 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5958.093911875403
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 6.307890855505583 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 7033.665289458566
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 4.215829701044858 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 4681.136510889757
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 4.791648041977868 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5328.645889563651
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 4.760755455978541 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 5293.907087854691
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 0.3435461719867108 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 326.7425576042514
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 0.2602493369552735 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 233.07502730413108
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Trying to predict 0.24059873060354633 of type <class 'float'> 
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - The calculated value is equal to: 210.97786400649235
+
+2020-12-06 18:15:18,866 - Alanine_Linear_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 18:15:19,132 - Alanine_Linear_Test - INFO - Done!

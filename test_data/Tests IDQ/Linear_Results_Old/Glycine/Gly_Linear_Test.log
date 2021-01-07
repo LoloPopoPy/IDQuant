@@ -1,0 +1,122 @@
+2020-12-06 18:18:33,899 - Gly_Linear_Test - INFO - ....................
+
+2020-12-06 18:18:33,899 - Gly_Linear_Test - INFO - CHOSEN PARAMETERS:
+Run name: Gly_Linear_Test 
+Logger level: 10 
+Order of polynomial : 1
+2020-12-06 18:18:33,899 - Gly_Linear_Test - INFO - ....................
+
+2020-12-06 18:18:38,333 - Gly_Linear_Test - INFO - Starting to process calculations...
+
+2020-12-06 18:18:38,341 - Gly_Linear_Test - INFO - Getting data for Gly
+
+2020-12-06 18:18:38,344 - Gly_Linear_Test - DEBUG - Checking limits for Gly
+
+2020-12-06 18:18:38,344 - Gly_Linear_Test - INFO - For Gly the value to predict (150.5565839188313) is over range
+
+2020-12-06 18:18:38,344 - Gly_Linear_Test - INFO - For Gly the value to predict (139.24071074268315) is over range
+
+2020-12-06 18:18:38,344 - Gly_Linear_Test - INFO - For Gly the value to predict (141.01852851033928) is over range
+
+2020-12-06 18:18:38,344 - Gly_Linear_Test - INFO - For Gly the value to predict (137.75810975090698) is over range
+
+2020-12-06 18:18:38,349 - Gly_Linear_Test - DEBUG - nans list: []
+2020-12-06 18:18:38,349 - Gly_Linear_Test - DEBUG - Cal dict x: [53.012171, 23.152437000000003, 11.782646000000002, 5.57119, 1.77767, 0.407011]
+ cal dict y: [135.59433351396444, 59.32784688524774, 30.2875934132431, 14.422552018597887, 4.7333019371704825, 1.2324208625491568]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 18:18:38,349 - Gly_Linear_Test - DEBUG - Cal dict x: [53.012171, 23.152437000000003, 11.782646000000002, 5.57119, 1.77767, 0.407011]
+ cal dict y: [135.59433351396444, 59.32784688524774, 30.2875934132431, 14.422552018597887, 4.7333019371704825, 1.2324208625491568]
+ cal dict names: ['cal1', 'cal2', 'cal3', 'cal4', 'cal5', 'cal6']
+
+2020-12-06 18:18:38,349 - Gly_Linear_Test - DEBUG - Performing calculations for equation
+ x=[53.012171 23.152437 11.782646  5.57119   1.77767   0.407011] 
+ y=[135.59433351  59.32784689  30.28759341  14.42255202   4.73330194
+   1.23242086]
+2020-12-06 18:18:38,349 - Gly_Linear_Test - INFO - Equation for Gly is equal to: 
+ 
+2.554 x + 0.1929
+ 
+2020-12-06 18:18:38,349 - Gly_Linear_Test - DEBUG - Calculating residuals 
+
+2020-12-06 18:18:38,871 - Gly_Linear_Test - DEBUG - Predicting concentrations
+
+2020-12-06 18:18:38,871 - Gly_Linear_Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-06 18:18:38,871 - Gly_Linear_Test - DEBUG - Trying to predict 132.53786676102385 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 51.81550760206951
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 131.6083194783574 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 51.45157274661628
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict Over range of type <class 'str'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 93.03917084792951 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 36.35104177469608
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 80.90998382852665 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 31.602242001962452
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 94.81284197104308 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 37.045466637044406
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 98.04653765699291 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 38.31151796546099
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 99.89816347815201 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 39.036463525673895
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 107.19870409920736 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 41.894759435089846
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 135.3519138871574 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 52.91725880201948
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 95.49625543072489 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 37.3130355744207
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 135.53810077890537 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 52.99015439409869
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 86.73999570448123 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 33.88479886478263
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 97.40103984458395 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 38.05879370125729
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 86.08977625476618 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 33.630225992743114
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 39.36685077173093 of type <class 'float'> 
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 15.33734143581827
+
+2020-12-06 18:18:38,887 - Gly_Linear_Test - DEBUG - Trying to predict 39.80395583316451 of type <class 'float'> 
+
+2020-12-06 18:18:38,902 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 15.508476105691527
+
+2020-12-06 18:18:38,902 - Gly_Linear_Test - DEBUG - Trying to predict 37.90852138758321 of type <class 'float'> 
+
+2020-12-06 18:18:38,902 - Gly_Linear_Test - DEBUG - The calculated value is equal to: 14.766378663380747
+
+2020-12-06 18:18:38,902 - Gly_Linear_Test - DEBUG - Rebuilding dataframes
+
+2020-12-06 18:18:38,932 - Gly_Linear_Test - INFO - Done!
