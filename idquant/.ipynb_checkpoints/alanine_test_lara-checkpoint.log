@@ -1,0 +1,41 @@
+2020-12-03 10:52:57,927 - alanine_test_lara - INFO - ....................
+
+2020-12-03 10:52:57,928 - alanine_test_lara - INFO - CHOSEN PARAMETERS:
+Run name: alanine_test_lara 
+Logger level: 20 
+Order of polynomial : 1
+2020-12-03 10:52:57,929 - alanine_test_lara - INFO - ....................
+
+2020-12-03 10:53:55,813 - alanine_test_lara - INFO - Starting to process calculations...
+
+2020-12-03 10:53:55,815 - alanine_test_lara - INFO - Getting data for Ala
+
+2020-12-03 10:53:55,840 - alanine_test_lara - INFO - Equation for Ala is equal to: 
+ 
+0.05298 x + 0.0008893
+ 
+2020-12-03 10:53:56,429 - alanine_test_lara - INFO - Removed data point cal1 from Ala because residual too large
+
+2020-12-03 10:53:56,980 - alanine_test_lara - INFO - Removed data point cal2 from Ala because residual too large
+
+2020-12-03 10:53:57,603 - alanine_test_lara - INFO - Removed data point cal3 from Ala because residual too large
+
+2020-12-03 10:53:58,163 - alanine_test_lara - INFO - Removed data point cal4 from Ala because residual too large
+
+2020-12-03 10:53:58,789 - alanine_test_lara - INFO - Removed data point cal5 from Ala because residual too large
+
+2020-12-03 10:53:59,330 - alanine_test_lara - INFO - Removed data point cal6 from Ala because residual too large
+
+2020-12-03 10:53:59,959 - alanine_test_lara - INFO - Removed data point cal7 from Ala because residual too large
+
+2020-12-03 10:54:00,278 - alanine_test_lara - ERROR - There was a problem calculating for Ala
+ Error: min() arg is an empty sequence 
+ 
+Traceback (most recent call last):
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 395, in main
+    self.build_plots(tmp_cal_dict, metabolite, r2)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 224, in build_plots
+    self.plot_res(tmp_cal_dict, metabolite, r2, npass)
+  File "C:\Users\legregam\Documents\Packages\idquant-master\idquant\class_calculate_polynomial.py", line 349, in plot_res
+    if min(tmp_cal_dict['relative_residuals']) < -30:
+ValueError: min() arg is an empty sequence
