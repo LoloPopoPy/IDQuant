@@ -6,14 +6,19 @@ import datetime
 import ipywidgets as widgets
 import pandas as pd
 
-from Data_Processor import Processor
-from Polynomial_Calculator import Calculator
+from idquant.Data_Processor import Processor
+from idquant.Polynomial_Calculator import Calculator
 
 
 
 #Class pour récupérer la valeur en sortie de fonction appelée par un bouton
 class ValueHolder():
+    """
+    Tiny class to hold values and pass them to the notebook
+    """
+
     x: int = None
+
 vh = ValueHolder()
 
 
@@ -21,13 +26,19 @@ vh.out = widgets.Output()
 vh.debug_view = widgets.Output()
 
 def make_upload_btn():
+    """
+    Make upload button widget for getting data file
+
+    :return: upload data button
+    :rtype: class: widgets.UploadFile
+    """
     
     global upload_data_btn
     
     upload_data_btn = widgets.FileUpload(
-        accept='',  # Accepted file extension e.g. '.txt', '.pdf', 'image/*', 'image/*,.pdf'
-        multiple=False, # True to accept multiple files upload else False
-        description="Upload data"
+        accept = '',  # Accepted file extension e.g. '.txt', '.pdf', 'image/*', 'image/*,.pdf'
+        multiple = False, # True to accept multiple files upload else False
+        description = "Upload data"
     )
     
     return upload_data_btn
@@ -35,7 +46,13 @@ def make_upload_btn():
 calib_layout = widgets.Layout(width='auto', height='auto')
     
 def make_upload_conc_calib_btn():
-    
+    """
+    Make upload button widget for getting calibration table
+
+    :return: upload calibration button
+    :rtype: class: widgets.UploadFile
+    """
+
     global upload_conc_calib_btn
     
     upload_conc_calib_btn = widgets.FileUpload(
@@ -48,7 +65,12 @@ def make_upload_conc_calib_btn():
     return upload_conc_calib_btn
 
 def make_text_box():
-    
+    """
+    Make a text box for getting user input, in this case name of run (which will become pdf name)
+
+    :return: text box
+    """
+
     global text_box
     
     text_box = widgets.Text(value='',
@@ -56,7 +78,11 @@ def make_text_box():
     return text_box
 
 def make_log_lvl():
-    
+    """
+    Make checkbox for debug mode
+
+    :return: checkbox
+    """
     global log_lvl
     
     log_lvl = widgets.Checkbox(value = False,
@@ -81,6 +107,13 @@ processing_btn = widgets.Button(description='Calculate',
 #Evenement pour soumettre les données MS et insérer dans un DF
 @vh.debug_view.capture(clear_output=True)
 def upload_data(event):
+    """
+
+    :param event:
+    :type event:
+    :return:
+    :rtype:
+    """
     
     #Récupération des datas mis en ligne par le bouton upload
     data_upload_filename = next(iter(upload_data_btn.value))
