@@ -6,7 +6,7 @@
 Welcome to IDQuant's documentation!
 ===================================
 
-**IDQuant (Isotopic Distribution Quantification) is a software that calculates sample concentrations 
+**IDQuant (Isotopic Dilution Quantification) is a software that calculates sample concentrations
 of metabolites from C12 and C13 Mass Spectrometry Integrated Data** 
 
 It uses linear and quadratic regression equations to predict concentrations using calibration data 

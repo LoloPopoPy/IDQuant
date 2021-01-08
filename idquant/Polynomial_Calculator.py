@@ -11,7 +11,7 @@ import seaborn as sns
 
 class Calculator:
     """
-    IDQ calculator for regressions and plots
+    IDQ calculator for building regressions and plots
 
     :param run_name: Name of the run
     :type run_name: str
@@ -87,7 +87,7 @@ class Calculator:
         tmp_sample_df = self.sample_data[
             self.sample_data["compound"] == metabolite]
 
-        # One dictionnary for calibration datas
+        # One dictionary for calibration datas
         self.tmp_cal_dict["sources"] = tmp_cal_df["source"].to_list()
         self.tmp_cal_dict["x"] = tmp_cal_df["calibration concentration"].to_list()
         self.tmp_cal_dict['y'] = tmp_cal_df["M0/Mn"].to_list()
@@ -186,15 +186,15 @@ class Calculator:
         Calculate polynomial equations and r²
 
         :param x: x values from measured MS calibration data
-        :type x: class: numpy.array
+        :type x: class: 'numpy.array'
         :param y: y values from measured MS calibration data
-        :type y: class: numpy.array
+        :type y: class: 'numpy.array'
         :param pol_order: order for calculated polynomial equation
         :type pol_order: int
         :return convert: polynomial equation coefficients
-        :rtype convert: class: numpy.array
+        :rtype convert: class: 'numpy.array'
         :return equation: one-dimensional polynomial class to encapsulate 'natural' operations on polynomials
-        :rtype equation: class: numpy.poly1D
+        :rtype equation: class: 'numpy.poly1D'
         :return r2: calculated r² for given polynomial equation
         :rtype r2: float
 
@@ -217,18 +217,9 @@ class Calculator:
     def build_polynome(self, metabolite):
         """Calculating value of coefficients of the quadratic polynomial
 
-        :param metabolite:
-        :type metabolite:
-        :param nans: NaN values that must be removed from tmp_cal_dict
-        :type nans: list of integers
-        :param polyfit: series instance that is the least squares fit to the data y sampled at x
-        :type polyfit: classmethod: numpy.Polynomial.fit
-        :param convert: coefficients for the unscaled and unshifted basis polynomials
-        :type convert: list of coefficients
-        :param equation: equation of the polynomial fit to calibration data for metabolite of interest
-        :type equation: class: numpy.poly1D
-        :param r2: coefficient of determination
-        :type r2: float
+        :param metabolite: metabolite to process
+        :type metabolite: str
+
         """
 
         # Equation part
@@ -400,22 +391,23 @@ class Calculator:
         """
         Function to plot the polynomial regression curve
 
-        :param cal_dict:
-        :type cal_dict:
-        :param metabolite:
-        :type metabolite:
-        :param r2:
-        :type r2:
-        :param npass:
-        :type npass:
-        :param pol_order:
-        :type pol_order:
-        :param reg:
-        :type reg:
-        :param ax:
-        :type ax:
-        :return:
-        :rtype:
+        :param cal_dict: Dictionary containing calibration data
+        :type cal_dict: dict
+        :param metabolite: Metabolite to process
+        :type metabolite: str
+        :param r2: Determination coefficient for given metabolite and regression
+        :type r2: float
+        :param npass: Counter for number of plots created
+        :type npass: int
+        :param pol_order: Order of the polynomial
+        :type pol_order: int
+        :param reg: name of the regression
+        :type reg: str
+        :param ax: axis figure in which to put plot
+        :type ax: class: 'matplotlib.axes.Axes'
+
+        :return: Axes object containing the regression plot
+        :rtype: class: 'matplotlib.axes.Axes'
         """
 
         regression_plot = sns.regplot(data=cal_dict,
@@ -437,22 +429,23 @@ class Calculator:
         """
         Plot calculated residuals and refresh if residual too high or too low
 
-        :param x:
-        :type x:
-        :param residuals:
-        :type residuals:
-        :param metabolite:
-        :type metabolite:
-        :param r2:
-        :type r2:
-        :param npass:
-        :type npass:
-        :param reg:
-        :type reg:
-        :param ax:
-        :type ax:
-        :return:
-        :rtype:
+        :param x: x values on which to plot residuals
+        :type x: float
+        :param residuals: residual values
+        :type residuals: float
+        :param metabolite: metabolite to process
+        :type metabolite: str
+        :param r2: determination coefficient for given plot
+        :type r2: float
+        :param npass: counter for number of plots created
+        :type npass: int
+        :param reg: name of the regression
+        :type reg: str
+        :param ax: axis figure in which to put plot
+        :type ax: class: 'matplotlib.axes.Axes'
+
+        :return: Axes object containing the residual plot
+        :rtype: class: 'matplotlib.axes.Axes'
         """
 
         residual_plot = sns.scatterplot(x=x,
@@ -489,10 +482,13 @@ class Calculator:
         """
         Function to calculate concentration from value using the roots of the polynomial
 
-        :param y_value:
-        :type y_value:
-        :return:
-        :rtype:
+        :param y_value: y value for which we predict x
+        :type y_value: float
+
+        :return quad_x_pred: x value returned by quadratic regression
+        :rtype:float
+        :return lin_x_pred: x value returned by linear regression
+        :rtype lin_x_pred: float
         """
 
         # To get roots from polynomial we must have equation in form ax² + bx + c - y = 0
@@ -571,10 +567,13 @@ class Calculator:
         Function to assemble datas after calculations into final dataframe
         with a natural sort on index level "sources"
 
-        :param metabolite:
-        :type metabolite:
-        :return:
-        :rtype:
+        :param metabolite: metabolite to process
+        :type metabolite: str
+
+        :return data_df: dataframe ccntaining calculated concentrations
+        :rtype: class: 'Pandas.Dataframe'
+        :return cal_df: dataframe containing data used for calibration curves
+        :rtype cal_df: class: 'Pandas.Dataframe'
         """
 
         self._logger.debug("Rebuilding dataframes\n")
@@ -604,9 +603,6 @@ class Calculator:
         """
         Main function to create a dataframe with quadratic polynomial
         predictions of concentrations from MS experiments
-
-        :return:
-        :rtype:
         """
 
         self._logger.info("Starting to process calculations...\n")

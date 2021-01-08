@@ -6,8 +6,8 @@ import datetime
 import ipywidgets as widgets
 import pandas as pd
 
-from data_processing import DataSet
-from class_calculate_polynomial import Calculator
+from Data_Processor import Processor
+from Polynomial_Calculator import Calculator
 
 
 
@@ -138,7 +138,7 @@ def main_process(event):
     else:
         log_level = logging.INFO
         
-    data = DataSet(vh.sample_df, vh.conc_calib_df)
+    data = Processor(vh.sample_df, vh.conc_calib_df)
     data.prep_data()
     calculator = Calculator(text_box.value, log_level, data.ready_cal_df, data.ready_sample_df)
     calculator.main()
