@@ -140,7 +140,8 @@ setup(
     extras_require={  # Optional
         'dev': ['Sphinx',
                 "sphinx-argparse",
-                "autodoc"
+                "autodoc",
+                "sphinx_rtd_theme"
                 ]
     },
 

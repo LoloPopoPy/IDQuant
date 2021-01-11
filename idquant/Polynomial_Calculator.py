@@ -129,7 +129,7 @@ class Calculator:
         :type equation: class: numpy.poly1d
 
         :return: residual values for each x,y pair
-        :rtype:list
+        :rtype: list
 
         """
 
