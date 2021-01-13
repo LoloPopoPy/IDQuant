@@ -33,7 +33,6 @@ You can find information on the usage of IDQuant in the sections listed below.
    :caption: Usage Information
    
    quickstart.rst
-   installation.rst
    tutorial.rst
 
 For more in-depth details on the inner workings of IDQuant, check the sections below.

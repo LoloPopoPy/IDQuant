@@ -1,11 +1,13 @@
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
-import pathlib
-
-here = pathlib.Path(__file__).parent.resolve()
 
 # Get the long description from the README file
-long_description = (here / 'README.rst').read_text(encoding='utf-8')
+def open_readme_file():
+    with open('README.rst') as f:
+	     data = f.read()
+    return data
+
+long_description = open_readme_file()
 
 # Arguments marked as "Required" below must be included for upload to PyPI.
 # Fields marked as "Optional" may be commented out.
@@ -35,7 +37,7 @@ setup(
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#summary
-    description='Calcilation of metabolite concentrations from C12 and C13 Mass Spectrometry Integrated Data',
+    description='Calculation of metabolite concentrations from C12 and C13 Mass Spectrometry Integrated Data',
 
     # This is an optional longer description of your project that represents
     # the body of text which users will see when they visit PyPI.
@@ -96,7 +98,7 @@ setup(
 
     # When your source code is in a subdirectory under the project root, e.g.
     # `src/`, it is necessary to specify the `package_dir` argument.
-    package_dir={'': 'idquant'},  # Optional
+    #package_dir={'': 'idquant'},  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
@@ -107,7 +109,7 @@ setup(
     #
     #   py_modules=["my_module"],
     #
-    packages=find_packages(where='idquant'),  # Required
+    packages=find_packages(),  # Required
 
     # Specify which Python versions you support. In contrast to the
     # 'Programming Language' classifiers above, 'pip install' will check this
@@ -126,7 +128,9 @@ setup(
                       'matplotlib',
                       'seaborn',
                       'natsort',
-                      'ipywidgets'
+                      'ipywidgets',
+                      'openpyxl',
+                      'xlrd'
                       ],  # Optional
 
     # List additional groups of dependencies here (e.g. development
@@ -141,7 +145,9 @@ setup(
         'dev': ['Sphinx',
                 "sphinx-argparse",
                 "autodoc",
-                "sphinx_rtd_theme"
+                "sphinx_rtd_theme",
+                "sdist",
+                "twine"
                 ]
     },
 

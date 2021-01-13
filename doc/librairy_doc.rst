@@ -1,5 +1,5 @@
 Library references
-------------------
+==================
 
 .. automodule:: idquant.Data_Processor
     :members:

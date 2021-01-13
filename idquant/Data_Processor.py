@@ -98,7 +98,7 @@ class Processor:
         """
 
         splitted_calib_df = df_to_split[df_to_split["source"].str.contains("Cal")].copy()
-        splitted_sample_df = df_to_split[df_to_split["source"].str.contains("Cal") is False].copy()
+        splitted_sample_df = df_to_split[~df_to_split["source"].str.contains("Cal")].copy()
 
         return splitted_calib_df, splitted_sample_df
 
@@ -261,8 +261,6 @@ class Processor:
 
         self.ready_cal_df, self.ready_sample_df = self.final_cleanup(ready_cal_df, ready_sample_df)
 
-        self.ready_sample_df.to_excel('Sample Data.xlsx')
-        self.ready_cal_df.to_excel('Calibration Sample data.xlsx')
         self.missing_values_df.to_excel('Missing values.xlsx')
 
         self.logger.info("Passing data to calculator...")
