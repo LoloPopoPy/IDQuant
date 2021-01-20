@@ -1,6 +1,6 @@
 .. _tutorial:
 
-TUTORIAL
+Tutorial
 ========
 
 Introduction
@@ -28,16 +28,18 @@ date & time as name. Different files will be put in this directory:
     * An excel file named *missing_values* containing the metabolites for which
       missing data was detected.
 
-Using the calibration file
---------------------------
+Modifying the calibration file
+------------------------------
 
 The concentrations used to create the calibration curve for each metabolite are
 kept in the **calibration.csv** file.
 
-To add metabolites and concentrations to the file, the structure must be kept.
-If more calibration points need to be added, add their number at the top of the table
-and the associated concentration value in the squares beneath for each metabolite.
+To add metabolites and concentrations to the file, it is important to keep the structure
+intact. If more calibration points need to be added, add their number at the top of the
+table and the associated concentration value in the squares beneath for each metabolite.
 
 .. warning:: The metabolite names given in the table must be exactly the same
              as the names used in the MS experiment.
+
+
 

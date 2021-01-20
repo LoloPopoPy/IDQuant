@@ -4,9 +4,12 @@ Quickstart
 Installation
 ------------
 
-IDQuant requires Python 3.7 or higher. If you do not have a Python environment configured on your computer,
-we recommend that you follow the instructions from `Anaconda <https://www.anaconda.com/products/individual>`_.
-Then, open a terminal (e.g. run Anaconda Prompt if you have Anaconda installed) and type :
+IDQuant requires Python 3.7 or higher. If you do not have a
+Python environment configured on your computer,
+we recommend that you follow the instructions from
+`Anaconda <https://www.anaconda.com/products/individual>`_.
+Then, open a terminal (e.g. run Anaconda Prompt if you have
+Anaconda installed) and type :
 
 .. code-block:: bash
 
@@ -34,7 +37,7 @@ created where the notebook is situated. In it are a
 pdf and log file with the name given to the run by the user.
 
 .. note:: For a more in-depth tutorial on the usage of the
-          software, see :ref: `tutorial`.
+          software, see :ref:`tutorial`.
 
 
 
