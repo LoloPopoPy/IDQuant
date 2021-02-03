@@ -486,7 +486,7 @@ class Calculator:
         :type y_value: float
 
         :return quad_x_pred: x value returned by quadratic regression
-        :rtype:float
+        :rtype quad_x_pred: float
         :return lin_x_pred: x value returned by linear regression
         :rtype lin_x_pred: float
         """

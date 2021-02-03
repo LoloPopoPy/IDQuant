@@ -13,7 +13,7 @@ Anaconda installed) and type :
 
 .. code-block:: bash
 
-	pip install idquant
+    pip install idquant
 
 You are now ready to start IDQuant!
 

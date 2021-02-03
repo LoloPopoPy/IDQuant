@@ -12,8 +12,8 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
 
+sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
@@ -22,8 +22,7 @@ copyright = '2020, Loic Le Gregam'
 author = 'Loic Le Gregam'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
-
+release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 
@@ -35,7 +34,7 @@ import sphinx_rtd_theme
 extensions = ['sphinx.ext.autodoc',
               'sphinxarg.ext',
               'sphinx_rtd_theme'
-]
+              ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -44,7 +43,6 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 
 # -- Options for HTML output -------------------------------------------------
 

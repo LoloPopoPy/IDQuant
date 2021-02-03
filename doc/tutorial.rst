@@ -41,5 +41,24 @@ table and the associated concentration value in the squares beneath for each met
 .. warning:: The metabolite names given in the table must be exactly the same
              as the names used in the MS experiment.
 
+Input data formatting
+---------------------
 
+The input data format is defined by Emzed C13 Profiler output. But IDQuant does not
+use all the columns created by C13 Profiler, and so it is possible to create a custom
+table to feed into the software. This custom table must have the minimum required columns
+in a certain format (see example table below).
 
+======== === ==== ======
+compound mi  area source
+======== === ==== ======
+ATP       1   xx   expe
+======== === ==== ======
+
+Description of headers:
+    * **Compound:** Names of the different metabolites to be analyzed
+    * **mi:** Number of the isotopologue (see: :ref:`Isotopologue<Isotopologue>`).
+      The M0 and the highest Mn must be referenced for the software to function
+      correctly
+    * **area:** Integration area
+    * **source:** Sample name

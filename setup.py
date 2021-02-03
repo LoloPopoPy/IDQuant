@@ -1,11 +1,13 @@
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 
+
 # Get the long description from the README file
 def open_readme_file():
     with open('README.rst') as f:
-	     data = f.read()
+        data = f.read()
     return data
+
 
 long_description = open_readme_file()
 
@@ -32,7 +34,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.0.1',  # Required
+    version='1.0.0',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -59,7 +61,7 @@ setup(
     #
     # This field corresponds to the "Description-Content-Type" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#description-content-type-optional
-    long_description_content_type='text/x-rst',
+    # long_description_content_type='text/x-rst',
 
     # This should be a valid link to your project's main homepage.
     #
@@ -79,14 +81,14 @@ setup(
     #
     # For a list of valid classifiers, see https://pypi.org/classifiers/
     classifiers=["Development Status :: 4 - Beta",
-                "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
-                "Natural Language :: English",
-                "Operating System :: OS Independent",
-                "Programming Language :: Python :: 3.6",
-                "Programming Language :: Python :: 3.7",
-                "Programming Language :: Python :: 3.8",
-                "Programming Language :: Python :: 3.9",
-                "Topic :: Scientific/Engineering :: Bio-Informatics"],
+                 "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+                 "Natural Language :: English",
+                 "Operating System :: OS Independent",
+                 "Programming Language :: Python :: 3.6",
+                 "Programming Language :: Python :: 3.7",
+                 "Programming Language :: Python :: 3.8",
+                 "Programming Language :: Python :: 3.9",
+                 "Topic :: Scientific/Engineering :: Bio-Informatics"],
 
     # This field adds keywords for your project which will appear on the
     # project page. What does your project relate to?
@@ -98,7 +100,7 @@ setup(
 
     # When your source code is in a subdirectory under the project root, e.g.
     # `src/`, it is necessary to specify the `package_dir` argument.
-    #package_dir={'': 'idquant'},  # Optional
+    # package_dir={'': 'idquant'},  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
@@ -153,16 +155,16 @@ setup(
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.
-    #package_data={  # Optional
-     #   'sample': ['package_data.dat'],
-    #},
+    # package_data={  # Optional
+    #   'sample': ['package_data.dat'],
+    # },
 
     # Although 'package_data' is the preferred approach, in some case you may
     # need to place data files outside of your packages. See:
     # http://docs.python.org/distutils/setupscript.html#installing-additional-files
     #
     # In this case, 'data_file' will be installed into '<sys.prefix>/my_data'
-    #data_files=[('my_data', ['data/data_file'])],  # Optional
+    # data_files=[('my_data', ['data/data_file'])],  # Optional
 
     # To provide executable scripts, use entry points in preference to the
     # "scripts" keyword. Entry points provide cross-platform support and allow
@@ -171,11 +173,11 @@ setup(
     #
     # For example, the following would provide a command called `sample` which
     # executes the function `main` from this package when invoked:
-    #entry_points={  # Optional
+    # entry_points={  # Optional
     #    'console_scripts': [
     #        'sample=sample:main',
     #    ],
-    #},
+    # },
 
     # List additional URLs that are relevant to your project as a dict.
     #

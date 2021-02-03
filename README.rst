@@ -6,7 +6,7 @@ of metabolites from C12 and C13 Mass Spectrometry Integrated Data**
 
 It uses linear and quadratic regression equations to predict concentrations using calibration data
 from (unlabeled and fully labeled) Standard Molecules.
-It takes as input integrated C12/C13 MS data from `C13Profiler <>`_.
+It takes as input integrated C12/C13 MS data from Emzed C13 Profiler.
 
 It is one of the routine tools used by `MetaToul platform <https://www6.toulouse.inrae.fr/metatoul>`_.
 
