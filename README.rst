@@ -10,4 +10,4 @@ It takes as input integrated C12/C13 MS data from Emzed C13 Profiler.
 
 It is one of the routine tools used by `MetaToul platform <https://www6.toulouse.inrae.fr/metatoul>`_.
 
-The code is open-source, and available on GitHub under a GPLv3 license.
+The code is open-source, and available on `GitHub <https://github.com/LoloPopoPy/IDQuant>`_ under a GPLv3 license.

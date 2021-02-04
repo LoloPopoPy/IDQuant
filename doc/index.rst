@@ -18,7 +18,8 @@ MS data from **C13Profiler**.
 It is one of the routine tools used by
 `MetaToul platform <https://www6.toulouse.inrae.fr/metatoul>`_.
 
-The code is open-source, and available on GitHub under a GPLv3 license.
+The code is open-source, and available on `GitHub <https://github.com/LoloPopoPy/IDQuant>`_
+under a GPLv3 license.
 
 .. rubric:: KEY FEATURES
 	

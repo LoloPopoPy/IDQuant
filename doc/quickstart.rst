@@ -15,6 +15,9 @@ Anaconda installed) and type :
 
     pip install idquant
 
+Next download the notebook from the `GitHub page <https://github.com/LoloPopoPy/IDQuant>`_.
+Place the notebook in the folder where the output data should be exported.
+
 You are now ready to start IDQuant!
 
 Steps
