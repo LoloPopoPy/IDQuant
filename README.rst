@@ -12,4 +12,4 @@ It is one of the routine tools used by `MetaToul platform <https://www6.toulouse
 
 The code is open-source, and available on `GitHub <https://github.com/LoloPopoPy/IDQuant>`_ under a GPLv3 license.
 
-The documentation relative to the usage of IDQuant can be found on it's `ReadTheDocs page <https://idquant.readthedocs.io/>`
+The documentation relative to the usage of IDQuant can be found on it's `ReadTheDocs page <https://idquant.readthedocs.io/>`_.
