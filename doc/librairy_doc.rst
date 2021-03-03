@@ -17,7 +17,7 @@ Library references
     :undoc-members:
     :show-inheritance:
 
-:file:`IDQ_ntoebook_control.py`
+:file:`IDQ_notebook_control.py`
 -------------------------------
 
 .. automodule:: idquant.IDQ_notebook_control
